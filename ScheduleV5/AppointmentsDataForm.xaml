@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ScheduleV5.AppointmentsDataForm"
+             xmlns:local="clr-namespace:ScheduleV5"
+             xmlns:dataForm ="clr-namespace:Syncfusion.XForms.DataForm;assembly=Syncfusion.SfDataForm.XForms">
+    <ContentPage.BindingContext>
+        <local:ViewModel/>
+    </ContentPage.BindingContext>    
+
+        <ContentPage.Content>
+            <dataForm:SfDataForm x:Name="dataForm"                                
+                                 DataObject="{Binding AppointmentInfo}">
+                
+            </dataForm:SfDataForm>
+        </ContentPage.Content>
+</ContentPage>

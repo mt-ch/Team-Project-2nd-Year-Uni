@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="using:ScheduleV5"
+             x:Class="ScheduleV5.MasterPage"
+             Padding="0,40,0,0"
+             Icon="hamburger.png"
+             Title="Personal Organiser">
+
+    <StackLayout>
+        <ListView x:Name="listView" x:FieldModifier="public">
+          <!--Array of navigation items-->  
+           <ListView.ItemsSource>
+                <x:Array Type="{x:Type local:MasterPageItem}">
+                    <local:MasterPageItem Title="Day View" IconSource="contacts.png" TargetType="{x:Type local:DayViewPage}" />
+                    <local:MasterPageItem Title="Week View" IconSource="contacts.png" TargetType="{x:Type local:WeekViewPage}" />                   
+                    <local:MasterPageItem Title="Month View" IconSource="contacts.png" TargetType="{x:Type local:MonthViewPage}" />
+                    <local:MasterPageItem Title="Add Appointment" IconSource="contacts.png" TargetType="{x:Type local:AppointmentsDataForm}" />
+                </x:Array>
+          <!--Navigation styling-->      
+            </ListView.ItemsSource>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid Padding="5,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="30"/>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Image Source="{Binding IconSource}" />
+                            <Label Grid.Column="1" Text="{Binding Title}" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
+
