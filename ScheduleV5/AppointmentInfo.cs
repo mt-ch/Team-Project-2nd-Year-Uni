@@ -13,12 +13,16 @@ namespace ScheduleV5
         private string appointmentName;
         private DateTime? startDate;
         private DateTime? endDate;
+        private DateTime? startTime;
+        private DateTime? endTime;
+
 
         public AppointmentInfo()
         {
+
         }
 
-        [Display(Prompt = "Enter Name...")]
+        [Display(Name = "Event Name:")]
         public string AppointmentName
         {
             get { return this.appointmentName; }
@@ -28,6 +32,7 @@ namespace ScheduleV5
             }
         }
 
+        [Display(Name = "Start Date:")]
         public DateTime? StartDate
         {
             get { return startDate; }
@@ -35,10 +40,20 @@ namespace ScheduleV5
             {
                 startDate = value;
             }
-
-
         }
 
+        [DataType(DataType.Time)]
+        [Display(Name = "Start Time:")]
+        public DateTime? StartTime
+        {
+            get { return startTime; }
+            set
+            {
+                startTime = value;
+            }
+        }
+
+        [Display(Name = "End Date:")]
         public DateTime? EndDate
         {
             get { return endDate; }
@@ -48,9 +63,16 @@ namespace ScheduleV5
             }
         }
 
-   
-
-
+        [DataType(DataType.Time)]
+        [Display(Name = "End Time:")]
+        public DateTime? EndTime
+        {
+            get { return endTime; }
+            set
+            {
+                endTime = value;
+            }
+        }
 
     }
 }

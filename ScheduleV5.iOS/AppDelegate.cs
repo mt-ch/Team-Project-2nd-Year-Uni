@@ -7,6 +7,8 @@ using UIKit;
 
 using Syncfusion.SfSchedule.XForms.iOS;
 using Syncfusion.XForms.iOS.DataForm;
+using Syncfusion.XForms.iOS.Buttons;
+
 
 namespace ScheduleV5.iOS
 {
@@ -32,6 +34,8 @@ namespace ScheduleV5.iOS
             SfDataFormRenderer.Init(); //launching Sfdataform on ios
 
             LoadApplication(new App());
+
+            SfButtonRenderer.Init();
 
             return base.FinishedLaunching(app, options);
         }
