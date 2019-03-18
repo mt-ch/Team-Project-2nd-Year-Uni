@@ -6,8 +6,7 @@ using Foundation;
 using UIKit;
 
 using Syncfusion.SfSchedule.XForms.iOS;
-using Syncfusion.XForms.iOS.DataForm;
-using Syncfusion.XForms.iOS.Buttons;
+
 
 
 namespace ScheduleV5.iOS
@@ -27,15 +26,13 @@ namespace ScheduleV5.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Nzc0NjNAMzEzNjJlMzQyZTMwQndZaGU5Rk1TdS9DSmpMWmY4eEkrZEZVeXdxRHExNDloaUhlU0k5RVlDcz0=");
+
             global::Xamarin.Forms.Forms.Init();
 
             SfScheduleRenderer.Init(); //launching Sfschedule on ios
 
-            SfDataFormRenderer.Init(); //launching Sfdataform on ios
-
             LoadApplication(new App());
-
-            SfButtonRenderer.Init();
 
             return base.FinishedLaunching(app, options);
         }

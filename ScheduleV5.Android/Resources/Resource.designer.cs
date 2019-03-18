@@ -26,1304 +26,6 @@ namespace ScheduleV5.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_fade_in = global::ScheduleV5.Droid.Resource.Animation.abc_fade_in;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_fade_out = global::ScheduleV5.Droid.Resource.Animation.abc_fade_out;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::ScheduleV5.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_popup_enter = global::ScheduleV5.Droid.Resource.Animation.abc_popup_enter;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_popup_exit = global::ScheduleV5.Droid.Resource.Animation.abc_popup_exit;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::ScheduleV5.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_slide_in_bottom = global::ScheduleV5.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_slide_in_top = global::ScheduleV5.Droid.Resource.Animation.abc_slide_in_top;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_slide_out_bottom = global::ScheduleV5.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.abc_slide_out_top = global::ScheduleV5.Droid.Resource.Animation.abc_slide_out_top;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_indeterminate_to_checked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_indeterminate_to_checked_box_inner_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_indeterminate_to_checked_box_outer_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_indeterminate_to_checked_box_outer_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_indeterminate_to_checked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_indeterminate_to_checked_icon_null_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_indeterminate_from_checked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_checked_box_inner_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_indeterminate_from_checked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_checked_icon_null_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_box_inner_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_box_outer_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_box_outer_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_icon_null_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_box_inner_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_check_path_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_check_path_merged_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_icon_null_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarDivider = global::ScheduleV5.Droid.Resource.Attribute.actionBarDivider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarItemBackground = global::ScheduleV5.Droid.Resource.Attribute.actionBarItemBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarPopupTheme = global::ScheduleV5.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarSize = global::ScheduleV5.Droid.Resource.Attribute.actionBarSize;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarSplitStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarTabBarStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarTabStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarTabStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarTabTextStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarTheme = global::ScheduleV5.Droid.Resource.Attribute.actionBarTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionBarWidgetTheme = global::ScheduleV5.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.actionButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionDropDownStyle = global::ScheduleV5.Droid.Resource.Attribute.actionDropDownStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionLayout = global::ScheduleV5.Droid.Resource.Attribute.actionLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionMenuTextAppearance = global::ScheduleV5.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionMenuTextColor = global::ScheduleV5.Droid.Resource.Attribute.actionMenuTextColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeBackground = global::ScheduleV5.Droid.Resource.Attribute.actionModeBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeCloseButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeCloseDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeCopyDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeCutDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeFindDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModePasteDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModePopupWindowStyle = global::ScheduleV5.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeSelectAllDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeShareDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeSplitBackground = global::ScheduleV5.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeStyle = global::ScheduleV5.Droid.Resource.Attribute.actionModeStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionModeWebSearchDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionOverflowButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionOverflowMenuStyle = global::ScheduleV5.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionProviderClass = global::ScheduleV5.Droid.Resource.Attribute.actionProviderClass;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.actionViewClass = global::ScheduleV5.Droid.Resource.Attribute.actionViewClass;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.activityChooserViewStyle = global::ScheduleV5.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::ScheduleV5.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.alertDialogCenterButtons = global::ScheduleV5.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.alertDialogStyle = global::ScheduleV5.Droid.Resource.Attribute.alertDialogStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.alertDialogTheme = global::ScheduleV5.Droid.Resource.Attribute.alertDialogTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.allowStacking = global::ScheduleV5.Droid.Resource.Attribute.allowStacking;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.arrowHeadLength = global::ScheduleV5.Droid.Resource.Attribute.arrowHeadLength;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.arrowShaftLength = global::ScheduleV5.Droid.Resource.Attribute.arrowShaftLength;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.autoCompleteTextViewStyle = global::ScheduleV5.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.background = global::ScheduleV5.Droid.Resource.Attribute.background;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.backgroundSplit = global::ScheduleV5.Droid.Resource.Attribute.backgroundSplit;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.backgroundStacked = global::ScheduleV5.Droid.Resource.Attribute.backgroundStacked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.backgroundTint = global::ScheduleV5.Droid.Resource.Attribute.backgroundTint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.backgroundTintMode = global::ScheduleV5.Droid.Resource.Attribute.backgroundTintMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.barLength = global::ScheduleV5.Droid.Resource.Attribute.barLength;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.borderlessButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonBarButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonBarStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonPanelSideLayout = global::ScheduleV5.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonStyleSmall = global::ScheduleV5.Droid.Resource.Attribute.buttonStyleSmall;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonTint = global::ScheduleV5.Droid.Resource.Attribute.buttonTint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.buttonTintMode = global::ScheduleV5.Droid.Resource.Attribute.buttonTintMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.checkboxStyle = global::ScheduleV5.Droid.Resource.Attribute.checkboxStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.@checked = global::ScheduleV5.Droid.Resource.Attribute.@checked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.checkedTextViewStyle = global::ScheduleV5.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.closeIcon = global::ScheduleV5.Droid.Resource.Attribute.closeIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.closeItemLayout = global::ScheduleV5.Droid.Resource.Attribute.closeItemLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.collapseContentDescription = global::ScheduleV5.Droid.Resource.Attribute.collapseContentDescription;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.collapseIcon = global::ScheduleV5.Droid.Resource.Attribute.collapseIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.color = global::ScheduleV5.Droid.Resource.Attribute.color;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.colorAccent = global::ScheduleV5.Droid.Resource.Attribute.colorAccent;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.colorButtonNormal = global::ScheduleV5.Droid.Resource.Attribute.colorButtonNormal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.colorControlActivated = global::ScheduleV5.Droid.Resource.Attribute.colorControlActivated;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.colorControlHighlight = global::ScheduleV5.Droid.Resource.Attribute.colorControlHighlight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.colorControlNormal = global::ScheduleV5.Droid.Resource.Attribute.colorControlNormal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.colorPrimary = global::ScheduleV5.Droid.Resource.Attribute.colorPrimary;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.colorPrimaryDark = global::ScheduleV5.Droid.Resource.Attribute.colorPrimaryDark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.colorSwitchThumbNormal = global::ScheduleV5.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.commitIcon = global::ScheduleV5.Droid.Resource.Attribute.commitIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.contentInsetEnd = global::ScheduleV5.Droid.Resource.Attribute.contentInsetEnd;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.contentInsetLeft = global::ScheduleV5.Droid.Resource.Attribute.contentInsetLeft;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.contentInsetRight = global::ScheduleV5.Droid.Resource.Attribute.contentInsetRight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.contentInsetStart = global::ScheduleV5.Droid.Resource.Attribute.contentInsetStart;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.controlBackground = global::ScheduleV5.Droid.Resource.Attribute.controlBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.cornerradius = global::ScheduleV5.Droid.Resource.Attribute.cornerradius;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.customNavigationLayout = global::ScheduleV5.Droid.Resource.Attribute.customNavigationLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.defaultQueryHint = global::ScheduleV5.Droid.Resource.Attribute.defaultQueryHint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.dialogPreferredPadding = global::ScheduleV5.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.dialogTheme = global::ScheduleV5.Droid.Resource.Attribute.dialogTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.displayOptions = global::ScheduleV5.Droid.Resource.Attribute.displayOptions;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.divider = global::ScheduleV5.Droid.Resource.Attribute.divider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.dividerHorizontal = global::ScheduleV5.Droid.Resource.Attribute.dividerHorizontal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.dividerPadding = global::ScheduleV5.Droid.Resource.Attribute.dividerPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.dividerVertical = global::ScheduleV5.Droid.Resource.Attribute.dividerVertical;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.drawableSize = global::ScheduleV5.Droid.Resource.Attribute.drawableSize;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.drawerArrowStyle = global::ScheduleV5.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.dropDownListViewStyle = global::ScheduleV5.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::ScheduleV5.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.editTextBackground = global::ScheduleV5.Droid.Resource.Attribute.editTextBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.editTextColor = global::ScheduleV5.Droid.Resource.Attribute.editTextColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.editTextStyle = global::ScheduleV5.Droid.Resource.Attribute.editTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.elevation = global::ScheduleV5.Droid.Resource.Attribute.elevation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::ScheduleV5.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.gapBetweenBars = global::ScheduleV5.Droid.Resource.Attribute.gapBetweenBars;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.goIcon = global::ScheduleV5.Droid.Resource.Attribute.goIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.height = global::ScheduleV5.Droid.Resource.Attribute.height;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.hideOnContentScroll = global::ScheduleV5.Droid.Resource.Attribute.hideOnContentScroll;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.homeAsUpIndicator = global::ScheduleV5.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.homeLayout = global::ScheduleV5.Droid.Resource.Attribute.homeLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.icon = global::ScheduleV5.Droid.Resource.Attribute.icon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.iconifiedByDefault = global::ScheduleV5.Droid.Resource.Attribute.iconifiedByDefault;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.imageButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.imageButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.indeterminateProgressStyle = global::ScheduleV5.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.initialActivityCount = global::ScheduleV5.Droid.Resource.Attribute.initialActivityCount;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.isLightTheme = global::ScheduleV5.Droid.Resource.Attribute.isLightTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.isthreestate = global::ScheduleV5.Droid.Resource.Attribute.isthreestate;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.itemPadding = global::ScheduleV5.Droid.Resource.Attribute.itemPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.layout = global::ScheduleV5.Droid.Resource.Attribute.layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::ScheduleV5.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listDividerAlertDialog = global::ScheduleV5.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listItemLayout = global::ScheduleV5.Droid.Resource.Attribute.listItemLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listLayout = global::ScheduleV5.Droid.Resource.Attribute.listLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listPopupWindowStyle = global::ScheduleV5.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listPreferredItemHeight = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listPreferredItemHeightLarge = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listPreferredItemHeightSmall = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.listPreferredItemPaddingRight = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.logo = global::ScheduleV5.Droid.Resource.Attribute.logo;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.logoDescription = global::ScheduleV5.Droid.Resource.Attribute.logoDescription;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.maxButtonHeight = global::ScheduleV5.Droid.Resource.Attribute.maxButtonHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.measureWithLargestChild = global::ScheduleV5.Droid.Resource.Attribute.measureWithLargestChild;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.multiChoiceItemLayout = global::ScheduleV5.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.navigationContentDescription = global::ScheduleV5.Droid.Resource.Attribute.navigationContentDescription;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.navigationIcon = global::ScheduleV5.Droid.Resource.Attribute.navigationIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.navigationMode = global::ScheduleV5.Droid.Resource.Attribute.navigationMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.overlapAnchor = global::ScheduleV5.Droid.Resource.Attribute.overlapAnchor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.paddingEnd = global::ScheduleV5.Droid.Resource.Attribute.paddingEnd;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.paddingStart = global::ScheduleV5.Droid.Resource.Attribute.paddingStart;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.panelBackground = global::ScheduleV5.Droid.Resource.Attribute.panelBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.panelMenuListTheme = global::ScheduleV5.Droid.Resource.Attribute.panelMenuListTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.panelMenuListWidth = global::ScheduleV5.Droid.Resource.Attribute.panelMenuListWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.popupMenuStyle = global::ScheduleV5.Droid.Resource.Attribute.popupMenuStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.popupTheme = global::ScheduleV5.Droid.Resource.Attribute.popupTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.popupWindowStyle = global::ScheduleV5.Droid.Resource.Attribute.popupWindowStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.preserveIconSpacing = global::ScheduleV5.Droid.Resource.Attribute.preserveIconSpacing;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.progressBarPadding = global::ScheduleV5.Droid.Resource.Attribute.progressBarPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.progressBarStyle = global::ScheduleV5.Droid.Resource.Attribute.progressBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.queryBackground = global::ScheduleV5.Droid.Resource.Attribute.queryBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.queryHint = global::ScheduleV5.Droid.Resource.Attribute.queryHint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.radioButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.radioButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.ratingBarStyle = global::ScheduleV5.Droid.Resource.Attribute.ratingBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.ratingBarStyleIndicator = global::ScheduleV5.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.ratingBarStyleSmall = global::ScheduleV5.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.searchHintIcon = global::ScheduleV5.Droid.Resource.Attribute.searchHintIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.searchIcon = global::ScheduleV5.Droid.Resource.Attribute.searchIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.searchViewStyle = global::ScheduleV5.Droid.Resource.Attribute.searchViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.seekBarStyle = global::ScheduleV5.Droid.Resource.Attribute.seekBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentBackColor = global::ScheduleV5.Droid.Resource.Attribute.segmentBackColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentBorderColor = global::ScheduleV5.Droid.Resource.Attribute.segmentBorderColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentBorderThickness = global::ScheduleV5.Droid.Resource.Attribute.segmentBorderThickness;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentColor = global::ScheduleV5.Droid.Resource.Attribute.segmentColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentCornerRadius = global::ScheduleV5.Droid.Resource.Attribute.segmentCornerRadius;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentDisplayMode = global::ScheduleV5.Droid.Resource.Attribute.segmentDisplayMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentPosition = global::ScheduleV5.Droid.Resource.Attribute.segmentPosition;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentSelectedIndex = global::ScheduleV5.Droid.Resource.Attribute.segmentSelectedIndex;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentStrokeThickness = global::ScheduleV5.Droid.Resource.Attribute.segmentStrokeThickness;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentedHeight = global::ScheduleV5.Droid.Resource.Attribute.segmentedHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentedPadding = global::ScheduleV5.Droid.Resource.Attribute.segmentedPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.segmentedWidth = global::ScheduleV5.Droid.Resource.Attribute.segmentedWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.selectableItemBackground = global::ScheduleV5.Droid.Resource.Attribute.selectableItemBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::ScheduleV5.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.showAsAction = global::ScheduleV5.Droid.Resource.Attribute.showAsAction;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.showDividers = global::ScheduleV5.Droid.Resource.Attribute.showDividers;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.showText = global::ScheduleV5.Droid.Resource.Attribute.showText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.singleChoiceItemLayout = global::ScheduleV5.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.spinBars = global::ScheduleV5.Droid.Resource.Attribute.spinBars;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.spinnerDropDownItemStyle = global::ScheduleV5.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.spinnerStyle = global::ScheduleV5.Droid.Resource.Attribute.spinnerStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.splitTrack = global::ScheduleV5.Droid.Resource.Attribute.splitTrack;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.srcCompat = global::ScheduleV5.Droid.Resource.Attribute.srcCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.state_above_anchor = global::ScheduleV5.Droid.Resource.Attribute.state_above_anchor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.state_indeterminate = global::ScheduleV5.Droid.Resource.Attribute.state_indeterminate;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.submitBackground = global::ScheduleV5.Droid.Resource.Attribute.submitBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.subtitle = global::ScheduleV5.Droid.Resource.Attribute.subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.subtitleTextAppearance = global::ScheduleV5.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.subtitleTextColor = global::ScheduleV5.Droid.Resource.Attribute.subtitleTextColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.subtitleTextStyle = global::ScheduleV5.Droid.Resource.Attribute.subtitleTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.suggestionRowLayout = global::ScheduleV5.Droid.Resource.Attribute.suggestionRowLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.switchMinWidth = global::ScheduleV5.Droid.Resource.Attribute.switchMinWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.switchPadding = global::ScheduleV5.Droid.Resource.Attribute.switchPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.switchStyle = global::ScheduleV5.Droid.Resource.Attribute.switchStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.switchTextAppearance = global::ScheduleV5.Droid.Resource.Attribute.switchTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textAllCaps = global::ScheduleV5.Droid.Resource.Attribute.textAllCaps;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textAppearanceListItem = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceListItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textAppearanceListItemSmall = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textColorAlertDialogListItem = global::ScheduleV5.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.textColorSearchUrl = global::ScheduleV5.Droid.Resource.Attribute.textColorSearchUrl;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.theme = global::ScheduleV5.Droid.Resource.Attribute.theme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.thickness = global::ScheduleV5.Droid.Resource.Attribute.thickness;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.thumbTextPadding = global::ScheduleV5.Droid.Resource.Attribute.thumbTextPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.title = global::ScheduleV5.Droid.Resource.Attribute.title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.titleMarginBottom = global::ScheduleV5.Droid.Resource.Attribute.titleMarginBottom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.titleMarginEnd = global::ScheduleV5.Droid.Resource.Attribute.titleMarginEnd;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.titleMarginStart = global::ScheduleV5.Droid.Resource.Attribute.titleMarginStart;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.titleMarginTop = global::ScheduleV5.Droid.Resource.Attribute.titleMarginTop;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.titleMargins = global::ScheduleV5.Droid.Resource.Attribute.titleMargins;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.titleTextAppearance = global::ScheduleV5.Droid.Resource.Attribute.titleTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.titleTextColor = global::ScheduleV5.Droid.Resource.Attribute.titleTextColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.titleTextStyle = global::ScheduleV5.Droid.Resource.Attribute.titleTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.toolbarStyle = global::ScheduleV5.Droid.Resource.Attribute.toolbarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.track = global::ScheduleV5.Droid.Resource.Attribute.track;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.voiceIcon = global::ScheduleV5.Droid.Resource.Attribute.voiceIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowActionBar = global::ScheduleV5.Droid.Resource.Attribute.windowActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowActionBarOverlay = global::ScheduleV5.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowActionModeOverlay = global::ScheduleV5.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowFixedHeightMajor = global::ScheduleV5.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowFixedHeightMinor = global::ScheduleV5.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowFixedWidthMajor = global::ScheduleV5.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowFixedWidthMinor = global::ScheduleV5.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowMinWidthMajor = global::ScheduleV5.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowMinWidthMinor = global::ScheduleV5.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Attribute.windowNoTitle = global::ScheduleV5.Droid.Resource.Attribute.windowNoTitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::ScheduleV5.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::ScheduleV5.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::ScheduleV5.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::ScheduleV5.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::ScheduleV5.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::ScheduleV5.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_color_highlight_material = global::ScheduleV5.Droid.Resource.Color.abc_color_highlight_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_input_method_navigation_guard = global::ScheduleV5.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::ScheduleV5.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_primary_text_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_primary_text_material_light = global::ScheduleV5.Droid.Resource.Color.abc_primary_text_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_search_url_text = global::ScheduleV5.Droid.Resource.Color.abc_search_url_text;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_search_url_text_normal = global::ScheduleV5.Droid.Resource.Color.abc_search_url_text_normal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_search_url_text_pressed = global::ScheduleV5.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_search_url_text_selected = global::ScheduleV5.Droid.Resource.Color.abc_search_url_text_selected;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_secondary_text_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.abc_secondary_text_material_light = global::ScheduleV5.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.accent_material_dark = global::ScheduleV5.Droid.Resource.Color.accent_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.accent_material_light = global::ScheduleV5.Droid.Resource.Color.accent_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.background_floating_material_dark = global::ScheduleV5.Droid.Resource.Color.background_floating_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.background_floating_material_light = global::ScheduleV5.Droid.Resource.Color.background_floating_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.background_material_dark = global::ScheduleV5.Droid.Resource.Color.background_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.background_material_light = global::ScheduleV5.Droid.Resource.Color.background_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.bright_foreground_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.bright_foreground_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.bright_foreground_inverse_material_dark = global::ScheduleV5.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.bright_foreground_inverse_material_light = global::ScheduleV5.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.bright_foreground_material_dark = global::ScheduleV5.Droid.Resource.Color.bright_foreground_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.bright_foreground_material_light = global::ScheduleV5.Droid.Resource.Color.bright_foreground_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.button_material_dark = global::ScheduleV5.Droid.Resource.Color.button_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.button_material_light = global::ScheduleV5.Droid.Resource.Color.button_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.control_checkable_material = global::ScheduleV5.Droid.Resource.Color.control_checkable_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.dim_foreground_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.dim_foreground_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.dim_foreground_material_dark = global::ScheduleV5.Droid.Resource.Color.dim_foreground_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.dim_foreground_material_light = global::ScheduleV5.Droid.Resource.Color.dim_foreground_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.foreground_material_dark = global::ScheduleV5.Droid.Resource.Color.foreground_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.foreground_material_light = global::ScheduleV5.Droid.Resource.Color.foreground_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.highlighted_text_material_dark = global::ScheduleV5.Droid.Resource.Color.highlighted_text_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.highlighted_text_material_light = global::ScheduleV5.Droid.Resource.Color.highlighted_text_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_blue_grey_800 = global::ScheduleV5.Droid.Resource.Color.material_blue_grey_800;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_blue_grey_900 = global::ScheduleV5.Droid.Resource.Color.material_blue_grey_900;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_blue_grey_950 = global::ScheduleV5.Droid.Resource.Color.material_blue_grey_950;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_deep_teal_200 = global::ScheduleV5.Droid.Resource.Color.material_deep_teal_200;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_deep_teal_500 = global::ScheduleV5.Droid.Resource.Color.material_deep_teal_500;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_grey_100 = global::ScheduleV5.Droid.Resource.Color.material_grey_100;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_grey_300 = global::ScheduleV5.Droid.Resource.Color.material_grey_300;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_grey_50 = global::ScheduleV5.Droid.Resource.Color.material_grey_50;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_grey_600 = global::ScheduleV5.Droid.Resource.Color.material_grey_600;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_grey_800 = global::ScheduleV5.Droid.Resource.Color.material_grey_800;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_grey_850 = global::ScheduleV5.Droid.Resource.Color.material_grey_850;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.material_grey_900 = global::ScheduleV5.Droid.Resource.Color.material_grey_900;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.primary_dark_material_dark = global::ScheduleV5.Droid.Resource.Color.primary_dark_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.primary_dark_material_light = global::ScheduleV5.Droid.Resource.Color.primary_dark_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.primary_material_dark = global::ScheduleV5.Droid.Resource.Color.primary_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.primary_material_light = global::ScheduleV5.Droid.Resource.Color.primary_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.primary_text_default_material_dark = global::ScheduleV5.Droid.Resource.Color.primary_text_default_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.primary_text_default_material_light = global::ScheduleV5.Droid.Resource.Color.primary_text_default_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.primary_text_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.primary_text_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.ripple_material_dark = global::ScheduleV5.Droid.Resource.Color.ripple_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.ripple_material_light = global::ScheduleV5.Droid.Resource.Color.ripple_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.secondary_text_default_material_dark = global::ScheduleV5.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.secondary_text_default_material_light = global::ScheduleV5.Droid.Resource.Color.secondary_text_default_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.secondary_text_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.secondary_text_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.switch_thumb_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.switch_thumb_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.switch_thumb_material_dark = global::ScheduleV5.Droid.Resource.Color.switch_thumb_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.switch_thumb_material_light = global::ScheduleV5.Droid.Resource.Color.switch_thumb_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.switch_thumb_normal_material_dark = global::ScheduleV5.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Color.switch_thumb_normal_material_light = global::ScheduleV5.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_default_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_button_min_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_button_min_width_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::ScheduleV5.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::ScheduleV5.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_button_inset_vertical_material = global::ScheduleV5.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::ScheduleV5.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_button_padding_vertical_material = global::ScheduleV5.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_config_prefDialogWidth = global::ScheduleV5.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_control_corner_material = global::ScheduleV5.Droid.Resource.Dimension.abc_control_corner_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_control_inset_material = global::ScheduleV5.Droid.Resource.Dimension.abc_control_inset_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_control_padding_material = global::ScheduleV5.Droid.Resource.Dimension.abc_control_padding_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dialog_min_width_major = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dialog_min_width_minor = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dialog_padding_material = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dialog_padding_top_material = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::ScheduleV5.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::ScheduleV5.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::ScheduleV5.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::ScheduleV5.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::ScheduleV5.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::ScheduleV5.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::ScheduleV5.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::ScheduleV5.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_floating_window_z = global::ScheduleV5.Droid.Resource.Dimension.abc_floating_window_z;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::ScheduleV5.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_panel_menu_list_width = global::ScheduleV5.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_search_view_preferred_width = global::ScheduleV5.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::ScheduleV5.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_switch_padding = global::ScheduleV5.Droid.Resource.Dimension.abc_switch_padding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_body_1_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_body_2_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_button_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_caption_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_display_1_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_display_2_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_display_3_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_display_4_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_headline_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_large_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_medium_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_menu_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_small_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_subhead_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_title_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.disabledAlpha = global::ScheduleV5.Droid.Resource.Dimension.disabledAlpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.disabled_alpha_material_dark = global::ScheduleV5.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.disabled_alpha_material_light = global::ScheduleV5.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.highlight_alpha_material_colored = global::ScheduleV5.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.highlight_alpha_material_dark = global::ScheduleV5.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.highlight_alpha_material_light = global::ScheduleV5.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.notification_large_icon_height = global::ScheduleV5.Droid.Resource.Dimension.notification_large_icon_height;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.notification_large_icon_width = global::ScheduleV5.Droid.Resource.Dimension.notification_large_icon_width;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Dimension.notification_subtext_size = global::ScheduleV5.Droid.Resource.Dimension.notification_subtext_size;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_action_bar_item_background_material = global::ScheduleV5.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_borderless_material = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_check_material = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_check_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_colored_material = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_radio_material = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_cab_background_internal_bg = global::ScheduleV5.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_cab_background_top_material = global::ScheduleV5.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_control_background_material = global::ScheduleV5.Droid.Resource.Drawable.abc_control_background_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_edit_text_material = global::ScheduleV5.Droid.Resource.Drawable.abc_edit_text_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_star_black_16dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_star_black_36dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_item_background_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_item_background_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_focused_holo = global::ScheduleV5.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_longpressed_holo = global::ScheduleV5.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_pressed_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_selector_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_list_selector_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::ScheduleV5.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::ScheduleV5.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_ratingbar_small_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_seekbar_thumb_material = global::ScheduleV5.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_seekbar_track_material = global::ScheduleV5.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::ScheduleV5.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_switch_thumb_material = global::ScheduleV5.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_tab_indicator_material = global::ScheduleV5.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_text_cursor_material = global::ScheduleV5.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.abc_textfield_search_material = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_checked = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_checked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_checked_to_indeterminate_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_checked_to_indeterminate_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_checked_to_unchecked_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_indeterminate = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_indeterminate;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_indeterminate_to_checked_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_indeterminate_to_checked_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_indeterminate_to_unchecked_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_indeterminate_to_unchecked_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_unchecked = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_unchecked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_unchecked_to_checked_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.btn_checkbox_unchecked_to_indeterminate_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_unchecked_to_indeterminate_animation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.inputlayout_togglecollapseicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.inputlayout_togglevisibleicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Drawable.notification_template_icon_bg = global::ScheduleV5.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action0 = global::ScheduleV5.Droid.Resource.Id.action0;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_bar = global::ScheduleV5.Droid.Resource.Id.action_bar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_bar_activity_content = global::ScheduleV5.Droid.Resource.Id.action_bar_activity_content;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_bar_container = global::ScheduleV5.Droid.Resource.Id.action_bar_container;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_bar_root = global::ScheduleV5.Droid.Resource.Id.action_bar_root;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_bar_spinner = global::ScheduleV5.Droid.Resource.Id.action_bar_spinner;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_bar_subtitle = global::ScheduleV5.Droid.Resource.Id.action_bar_subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_bar_title = global::ScheduleV5.Droid.Resource.Id.action_bar_title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_context_bar = global::ScheduleV5.Droid.Resource.Id.action_context_bar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_divider = global::ScheduleV5.Droid.Resource.Id.action_divider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_menu_divider = global::ScheduleV5.Droid.Resource.Id.action_menu_divider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_menu_presenter = global::ScheduleV5.Droid.Resource.Id.action_menu_presenter;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_mode_bar = global::ScheduleV5.Droid.Resource.Id.action_mode_bar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_mode_bar_stub = global::ScheduleV5.Droid.Resource.Id.action_mode_bar_stub;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.action_mode_close_button = global::ScheduleV5.Droid.Resource.Id.action_mode_close_button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.activity_chooser_view_content = global::ScheduleV5.Droid.Resource.Id.activity_chooser_view_content;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.alertTitle = global::ScheduleV5.Droid.Resource.Id.alertTitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.always = global::ScheduleV5.Droid.Resource.Id.always;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.beginning = global::ScheduleV5.Droid.Resource.Id.beginning;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.border = global::ScheduleV5.Droid.Resource.Id.border;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.bottom = global::ScheduleV5.Droid.Resource.Id.bottom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.buttonPanel = global::ScheduleV5.Droid.Resource.Id.buttonPanel;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.cancel_action = global::ScheduleV5.Droid.Resource.Id.cancel_action;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.checkbox = global::ScheduleV5.Droid.Resource.Id.checkbox;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.@checked = global::ScheduleV5.Droid.Resource.Id.@checked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.chronometer = global::ScheduleV5.Droid.Resource.Id.chronometer;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.collapseActionView = global::ScheduleV5.Droid.Resource.Id.collapseActionView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.contentPanel = global::ScheduleV5.Droid.Resource.Id.contentPanel;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.custom = global::ScheduleV5.Droid.Resource.Id.custom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.customPanel = global::ScheduleV5.Droid.Resource.Id.customPanel;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.decor_content_parent = global::ScheduleV5.Droid.Resource.Id.decor_content_parent;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.default_activity_button = global::ScheduleV5.Droid.Resource.Id.default_activity_button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.disableHome = global::ScheduleV5.Droid.Resource.Id.disableHome;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.edit_query = global::ScheduleV5.Droid.Resource.Id.edit_query;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.end = global::ScheduleV5.Droid.Resource.Id.end;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.end_padder = global::ScheduleV5.Droid.Resource.Id.end_padder;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.expand_activities_button = global::ScheduleV5.Droid.Resource.Id.expand_activities_button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.expanded_menu = global::ScheduleV5.Droid.Resource.Id.expanded_menu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.fill = global::ScheduleV5.Droid.Resource.Id.fill;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.home = global::ScheduleV5.Droid.Resource.Id.home;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.homeAsUp = global::ScheduleV5.Droid.Resource.Id.homeAsUp;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.icon = global::ScheduleV5.Droid.Resource.Id.icon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.ifRoom = global::ScheduleV5.Droid.Resource.Id.ifRoom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.image = global::ScheduleV5.Droid.Resource.Id.image;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.imagewithtext = global::ScheduleV5.Droid.Resource.Id.imagewithtext;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.indeterminate = global::ScheduleV5.Droid.Resource.Id.indeterminate;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.info = global::ScheduleV5.Droid.Resource.Id.info;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.line1 = global::ScheduleV5.Droid.Resource.Id.line1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.line3 = global::ScheduleV5.Droid.Resource.Id.line3;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.listMode = global::ScheduleV5.Droid.Resource.Id.listMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.list_item = global::ScheduleV5.Droid.Resource.Id.list_item;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.media_actions = global::ScheduleV5.Droid.Resource.Id.media_actions;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.middle = global::ScheduleV5.Droid.Resource.Id.middle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.multiply = global::ScheduleV5.Droid.Resource.Id.multiply;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.never = global::ScheduleV5.Droid.Resource.Id.never;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.none = global::ScheduleV5.Droid.Resource.Id.none;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.normal = global::ScheduleV5.Droid.Resource.Id.normal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.parentPanel = global::ScheduleV5.Droid.Resource.Id.parentPanel;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.progress_circular = global::ScheduleV5.Droid.Resource.Id.progress_circular;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.progress_horizontal = global::ScheduleV5.Droid.Resource.Id.progress_horizontal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.radio = global::ScheduleV5.Droid.Resource.Id.radio;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.screen = global::ScheduleV5.Droid.Resource.Id.screen;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.scrollIndicatorDown = global::ScheduleV5.Droid.Resource.Id.scrollIndicatorDown;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.scrollIndicatorUp = global::ScheduleV5.Droid.Resource.Id.scrollIndicatorUp;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.scrollView = global::ScheduleV5.Droid.Resource.Id.scrollView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_badge = global::ScheduleV5.Droid.Resource.Id.search_badge;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_bar = global::ScheduleV5.Droid.Resource.Id.search_bar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_button = global::ScheduleV5.Droid.Resource.Id.search_button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_close_btn = global::ScheduleV5.Droid.Resource.Id.search_close_btn;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_edit_frame = global::ScheduleV5.Droid.Resource.Id.search_edit_frame;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_go_btn = global::ScheduleV5.Droid.Resource.Id.search_go_btn;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_mag_icon = global::ScheduleV5.Droid.Resource.Id.search_mag_icon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_plate = global::ScheduleV5.Droid.Resource.Id.search_plate;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_src_text = global::ScheduleV5.Droid.Resource.Id.search_src_text;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.search_voice_btn = global::ScheduleV5.Droid.Resource.Id.search_voice_btn;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.select_dialog_listview = global::ScheduleV5.Droid.Resource.Id.select_dialog_listview;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.shortcut = global::ScheduleV5.Droid.Resource.Id.shortcut;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.showCustom = global::ScheduleV5.Droid.Resource.Id.showCustom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.showHome = global::ScheduleV5.Droid.Resource.Id.showHome;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.showTitle = global::ScheduleV5.Droid.Resource.Id.showTitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.spacer = global::ScheduleV5.Droid.Resource.Id.spacer;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.split_action_bar = global::ScheduleV5.Droid.Resource.Id.split_action_bar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.src_atop = global::ScheduleV5.Droid.Resource.Id.src_atop;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.src_in = global::ScheduleV5.Droid.Resource.Id.src_in;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.src_over = global::ScheduleV5.Droid.Resource.Id.src_over;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.status_bar_latest_event_content = global::ScheduleV5.Droid.Resource.Id.status_bar_latest_event_content;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.submit_area = global::ScheduleV5.Droid.Resource.Id.submit_area;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.tabMode = global::ScheduleV5.Droid.Resource.Id.tabMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.text = global::ScheduleV5.Droid.Resource.Id.text;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.text2 = global::ScheduleV5.Droid.Resource.Id.text2;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.textSpacerNoButtons = global::ScheduleV5.Droid.Resource.Id.textSpacerNoButtons;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.time = global::ScheduleV5.Droid.Resource.Id.time;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.title = global::ScheduleV5.Droid.Resource.Id.title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.title_template = global::ScheduleV5.Droid.Resource.Id.title_template;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.top = global::ScheduleV5.Droid.Resource.Id.top;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.topPanel = global::ScheduleV5.Droid.Resource.Id.topPanel;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.@unchecked = global::ScheduleV5.Droid.Resource.Id.@unchecked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.up = global::ScheduleV5.Droid.Resource.Id.up;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.useLogo = global::ScheduleV5.Droid.Resource.Id.useLogo;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.withText = global::ScheduleV5.Droid.Resource.Id.withText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Id.wrap_content = global::ScheduleV5.Droid.Resource.Id.wrap_content;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Integer.abc_config_activityDefaultDur = global::ScheduleV5.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Integer.abc_config_activityShortDur = global::ScheduleV5.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Integer.cancel_button_image_alpha = global::ScheduleV5.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Integer.status_bar_notification_info_maxnum = global::ScheduleV5.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Interpolator.btn_checkbox_checked_animation_interpolator_0 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_checked_animation_interpolator_0;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Interpolator.btn_checkbox_checked_animation_interpolator_1 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_checked_animation_interpolator_1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Interpolator.btn_checkbox_indeterminate_animation_interpolator_1 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_indeterminate_animation_interpolator_1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Interpolator.btn_checkbox_unchecked_animation_interpolator_0 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_unchecked_animation_interpolator_0;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Interpolator.btn_checkbox_unchecked_animation_interpolator_1 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_unchecked_animation_interpolator_1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_action_bar_title_item = global::ScheduleV5.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_action_bar_up_container = global::ScheduleV5.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_action_menu_item_layout = global::ScheduleV5.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_action_menu_layout = global::ScheduleV5.Droid.Resource.Layout.abc_action_menu_layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_action_mode_bar = global::ScheduleV5.Droid.Resource.Layout.abc_action_mode_bar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_action_mode_close_item_material = global::ScheduleV5.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_activity_chooser_view = global::ScheduleV5.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::ScheduleV5.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::ScheduleV5.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_alert_dialog_material = global::ScheduleV5.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_dialog_title_material = global::ScheduleV5.Droid.Resource.Layout.abc_dialog_title_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_expanded_menu_layout = global::ScheduleV5.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_list_menu_item_checkbox = global::ScheduleV5.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_list_menu_item_icon = global::ScheduleV5.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_list_menu_item_layout = global::ScheduleV5.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_list_menu_item_radio = global::ScheduleV5.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_popup_menu_item_layout = global::ScheduleV5.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_screen_content_include = global::ScheduleV5.Droid.Resource.Layout.abc_screen_content_include;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_screen_simple = global::ScheduleV5.Droid.Resource.Layout.abc_screen_simple;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::ScheduleV5.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_screen_toolbar = global::ScheduleV5.Droid.Resource.Layout.abc_screen_toolbar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::ScheduleV5.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_search_view = global::ScheduleV5.Droid.Resource.Layout.abc_search_view;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.abc_select_dialog_material = global::ScheduleV5.Droid.Resource.Layout.abc_select_dialog_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.notification_media_action = global::ScheduleV5.Droid.Resource.Layout.notification_media_action;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.notification_media_cancel_action = global::ScheduleV5.Droid.Resource.Layout.notification_media_cancel_action;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.notification_template_big_media = global::ScheduleV5.Droid.Resource.Layout.notification_template_big_media;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.notification_template_big_media_narrow = global::ScheduleV5.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.notification_template_media = global::ScheduleV5.Droid.Resource.Layout.notification_template_media;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.notification_template_part_chronometer = global::ScheduleV5.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.notification_template_part_time = global::ScheduleV5.Droid.Resource.Layout.notification_template_part_time;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.select_dialog_item_material = global::ScheduleV5.Droid.Resource.Layout.select_dialog_item_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.select_dialog_multichoice_material = global::ScheduleV5.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.select_dialog_singlechoice_material = global::ScheduleV5.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::ScheduleV5.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_action_bar_home_description = global::ScheduleV5.Droid.Resource.String.abc_action_bar_home_description;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_action_bar_up_description = global::ScheduleV5.Droid.Resource.String.abc_action_bar_up_description;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_action_menu_overflow_description = global::ScheduleV5.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_action_mode_done = global::ScheduleV5.Droid.Resource.String.abc_action_mode_done;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_activity_chooser_view_see_all = global::ScheduleV5.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_activitychooserview_choose_application = global::ScheduleV5.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_capital_off = global::ScheduleV5.Droid.Resource.String.abc_capital_off;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_capital_on = global::ScheduleV5.Droid.Resource.String.abc_capital_on;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_search_hint = global::ScheduleV5.Droid.Resource.String.abc_search_hint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_searchview_description_clear = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_clear;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_searchview_description_query = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_query;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_searchview_description_search = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_search;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_searchview_description_submit = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_submit;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_searchview_description_voice = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_voice;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_shareactionprovider_share_with = global::ScheduleV5.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_shareactionprovider_share_with_application = global::ScheduleV5.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.abc_toolbar_collapse_description = global::ScheduleV5.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::Syncfusion.Buttons.XForms.Android.Resource.String.status_bar_notification_info_overflow = global::ScheduleV5.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.AlertDialog_AppCompat = global::ScheduleV5.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.AlertDialog_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Animation_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::ScheduleV5.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_AlertDialog_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::ScheduleV5.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::ScheduleV5.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V21_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V22_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V23_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V7_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::ScheduleV5.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Button = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::ScheduleV5.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_V11_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_V11_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_V11_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_V11_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_V14_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_V14_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_V14_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_V14_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::ScheduleV5.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::ScheduleV5.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::ScheduleV5.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Button = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Large = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Small = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ScheduleV5.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_DayNight = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.ThemeOverlay_AppCompat = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionButton = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActionMode = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Button = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Button_Small = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_EditText = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ImageButton = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ListView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_RatingBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_SearchView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_SeekBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Spinner = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Toolbar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar = global::ScheduleV5.Droid.Resource.Styleable.ActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_background = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_background;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_backgroundSplit = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_backgroundStacked = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_contentInsetRight = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_contentInsetStart = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_displayOptions = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_divider = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_divider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_elevation = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_elevation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_height = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_height;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_homeLayout = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_icon = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_icon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_itemPadding = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_logo = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_logo;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_navigationMode = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_popupTheme = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_progressBarPadding = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_progressBarStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_subtitle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_title = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBar_titleTextStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBarLayout = global::ScheduleV5.Droid.Resource.Styleable.ActionBarLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::ScheduleV5.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMenuItemView = global::ScheduleV5.Droid.Resource.Styleable.ActionMenuItemView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::ScheduleV5.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMenuView = global::ScheduleV5.Droid.Resource.Styleable.ActionMenuView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMode = global::ScheduleV5.Droid.Resource.Styleable.ActionMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMode_background = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_background;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMode_backgroundSplit = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMode_closeItemLayout = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMode_height = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_height;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActionMode_titleTextStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActivityChooserView = global::ScheduleV5.Droid.Resource.Styleable.ActivityChooserView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::ScheduleV5.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::ScheduleV5.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AlertDialog = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AlertDialog_android_layout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AlertDialog_listItemLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AlertDialog_listLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatImageView = global::ScheduleV5.Droid.Resource.Styleable.AppCompatImageView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatImageView_android_src = global::ScheduleV5.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::ScheduleV5.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTextView = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ButtonBarLayout = global::ScheduleV5.Droid.Resource.Styleable.ButtonBarLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::ScheduleV5.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.CompoundButton = global::ScheduleV5.Droid.Resource.Styleable.CompoundButton;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.CompoundButton_android_button = global::ScheduleV5.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.CompoundButton_buttonTint = global::ScheduleV5.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::ScheduleV5.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawableStates = global::ScheduleV5.Droid.Resource.Styleable.DrawableStates;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawableStates_state_indeterminate = global::ScheduleV5.Droid.Resource.Styleable.DrawableStates_state_indeterminate;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle_color = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_divider = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ListPopupWindow = global::ScheduleV5.Droid.Resource.Styleable.ListPopupWindow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::ScheduleV5.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::ScheduleV5.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuGroup = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuGroup_android_enabled = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuGroup_android_id = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuGroup_android_visible = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem = global::ScheduleV5.Droid.Resource.Styleable.MenuItem;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_actionLayout = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_actionProviderClass = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_actionViewClass = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_checkable = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_checked = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_enabled = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_icon = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_id = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_id;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_menuCategory = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_onClick = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_title = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_android_visible = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuItem_showAsAction = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView = global::ScheduleV5.Droid.Resource.Styleable.MenuView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView_android_headerBackground = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView_android_itemBackground = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView_android_verticalDivider = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::ScheduleV5.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.PopupWindow = global::ScheduleV5.Droid.Resource.Styleable.PopupWindow;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::ScheduleV5.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::ScheduleV5.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.PopupWindowBackgroundState = global::ScheduleV5.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::ScheduleV5.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView = global::ScheduleV5.Droid.Resource.Styleable.SearchView;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_android_focusable = global::ScheduleV5.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_android_imeOptions = global::ScheduleV5.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_android_inputType = global::ScheduleV5.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_android_maxWidth = global::ScheduleV5.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_closeIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_commitIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_defaultQueryHint = global::ScheduleV5.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_goIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_goIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::ScheduleV5.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_layout = global::ScheduleV5.Droid.Resource.Styleable.SearchView_layout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_queryBackground = global::ScheduleV5.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_queryHint = global::ScheduleV5.Droid.Resource.Styleable.SearchView_queryHint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_searchHintIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_searchIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_submitBackground = global::ScheduleV5.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::ScheduleV5.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SearchView_voiceIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfCheckBox = global::ScheduleV5.Droid.Resource.Styleable.SfCheckBox;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfCheckBox_checked = global::ScheduleV5.Droid.Resource.Styleable.SfCheckBox_checked;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfCheckBox_cornerradius = global::ScheduleV5.Droid.Resource.Styleable.SfCheckBox_cornerradius;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfCheckBox_isthreestate = global::ScheduleV5.Droid.Resource.Styleable.SfCheckBox_isthreestate;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentBackColor = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentBackColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentBorderColor = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentBorderColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentBorderThickness = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentBorderThickness;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentColor = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentCornerRadius = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentCornerRadius;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentDisplayMode = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentDisplayMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentPosition = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentPosition;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentSelectedIndex = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentSelectedIndex;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentStrokeThickness = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentStrokeThickness;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentedHeight = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentedHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentedPadding = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentedPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SfSegmentedControl_segmentedWidth = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentedWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Spinner = global::ScheduleV5.Droid.Resource.Styleable.Spinner;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::ScheduleV5.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Spinner_android_entries = global::ScheduleV5.Droid.Resource.Styleable.Spinner_android_entries;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Spinner_android_popupBackground = global::ScheduleV5.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Spinner_android_prompt = global::ScheduleV5.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Spinner_popupTheme = global::ScheduleV5.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_android_textOff = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_android_textOn = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_android_thumb = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_showText = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_splitTrack = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_switchPadding = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.SwitchCompat_track = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_track;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_android_textColor = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_android_textSize = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_android_textStyle = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_android_typeface = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.TextAppearance_textAllCaps = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar = global::ScheduleV5.Droid.Resource.Styleable.Toolbar;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_android_gravity = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_android_minHeight = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_collapseIcon = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_contentInsetRight = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_contentInsetStart = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_logo = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_logo;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_logoDescription = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_navigationIcon = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_popupTheme = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_subtitle = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_title = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_title;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_titleMarginStart = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_titleMarginTop = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_titleMargins = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.Toolbar_titleTextColor = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.View = global::ScheduleV5.Droid.Resource.Styleable.View;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.View_android_focusable = global::ScheduleV5.Droid.Resource.Styleable.View_android_focusable;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.View_android_theme = global::ScheduleV5.Droid.Resource.Styleable.View_android_theme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.View_paddingEnd = global::ScheduleV5.Droid.Resource.Styleable.View_paddingEnd;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.View_paddingStart = global::ScheduleV5.Droid.Resource.Styleable.View_paddingStart;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.View_theme = global::ScheduleV5.Droid.Resource.Styleable.View_theme;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ViewBackgroundHelper = global::ScheduleV5.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::ScheduleV5.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::ScheduleV5.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::ScheduleV5.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ViewStubCompat = global::ScheduleV5.Droid.Resource.Styleable.ViewStubCompat;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ViewStubCompat_android_id = global::ScheduleV5.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ScheduleV5.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::Syncfusion.Buttons.XForms.Android.Resource.Styleable.ViewStubCompat_android_layout = global::ScheduleV5.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
 			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
 			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.activity_horizontal_margin = global::ScheduleV5.Droid.Resource.Dimension.activity_horizontal_margin;
@@ -1339,1596 +41,6 @@ namespace ScheduleV5.Droid
 			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Drawable.inputlayout_togglevisibleicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
 			global::Syncfusion.SfCalendar.XForms.Droid.Resource.String.sfcalendar_inlineviewalldaytext = global::ScheduleV5.Droid.Resource.String.sfcalendar_inlineviewalldaytext;
 			global::Syncfusion.SfCalendar.XForms.Droid.Resource.String.sfcalendar_inlineviewnoappointmenttext = global::ScheduleV5.Droid.Resource.String.sfcalendar_inlineviewnoappointmenttext;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layoutManager = global::ScheduleV5.Droid.Resource.Attribute.layoutManager;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.reverseLayout = global::ScheduleV5.Droid.Resource.Attribute.reverseLayout;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.spanCount = global::ScheduleV5.Droid.Resource.Attribute.spanCount;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.stackFromEnd = global::ScheduleV5.Droid.Resource.Attribute.stackFromEnd;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::ScheduleV5.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::ScheduleV5.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::ScheduleV5.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.dropdownbuttonimage = global::ScheduleV5.Droid.Resource.Drawable.dropdownbuttonimage;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.inputlayout_togglecollapseicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.inputlayout_togglevisibleicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.Itemname = global::ScheduleV5.Droid.Resource.Id.Itemname;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.icon = global::ScheduleV5.Droid.Resource.Id.icon;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.item_touch_helper_previous_elevation = global::ScheduleV5.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.CustomizedImageView = global::ScheduleV5.Droid.Resource.Layout.CustomizedImageView;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.CustomizedView = global::ScheduleV5.Droid.Resource.Layout.CustomizedView;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.sfcomboBox_layout = global::ScheduleV5.Droid.Resource.Layout.sfcomboBox_layout;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView = global::ScheduleV5.Droid.Resource.Styleable.RecyclerView;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_android_descendantFocusability = global::ScheduleV5.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_android_orientation = global::ScheduleV5.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_layoutManager = global::ScheduleV5.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_reverseLayout = global::ScheduleV5.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_spanCount = global::ScheduleV5.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_stackFromEnd = global::ScheduleV5.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_fade_in = global::ScheduleV5.Droid.Resource.Animation.abc_fade_in;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_fade_out = global::ScheduleV5.Droid.Resource.Animation.abc_fade_out;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_grow_fade_in_from_bottom = global::ScheduleV5.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_popup_enter = global::ScheduleV5.Droid.Resource.Animation.abc_popup_enter;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_popup_exit = global::ScheduleV5.Droid.Resource.Animation.abc_popup_exit;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_shrink_fade_out_from_bottom = global::ScheduleV5.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_slide_in_bottom = global::ScheduleV5.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_slide_in_top = global::ScheduleV5.Droid.Resource.Animation.abc_slide_in_top;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_slide_out_bottom = global::ScheduleV5.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.abc_slide_out_top = global::ScheduleV5.Droid.Resource.Animation.abc_slide_out_top;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_indeterminate_to_checked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_indeterminate_to_checked_box_inner_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_indeterminate_to_checked_box_outer_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_indeterminate_to_checked_box_outer_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_indeterminate_to_checked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_indeterminate_to_checked_icon_null_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_indeterminate_from_checked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_checked_box_inner_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_indeterminate_from_checked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_checked_icon_null_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_box_inner_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_box_outer_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_box_outer_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_indeterminate_from_unchecked_icon_null_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_box_inner_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_box_inner_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_check_path_merged_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_check_path_merged_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_from_indeterminate_icon_null_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::ScheduleV5.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarDivider = global::ScheduleV5.Droid.Resource.Attribute.actionBarDivider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarItemBackground = global::ScheduleV5.Droid.Resource.Attribute.actionBarItemBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarPopupTheme = global::ScheduleV5.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarSize = global::ScheduleV5.Droid.Resource.Attribute.actionBarSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarSplitStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarTabBarStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarTabStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarTabStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarTabTextStyle = global::ScheduleV5.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarTheme = global::ScheduleV5.Droid.Resource.Attribute.actionBarTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionBarWidgetTheme = global::ScheduleV5.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.actionButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionDropDownStyle = global::ScheduleV5.Droid.Resource.Attribute.actionDropDownStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionLayout = global::ScheduleV5.Droid.Resource.Attribute.actionLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionMenuTextAppearance = global::ScheduleV5.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionMenuTextColor = global::ScheduleV5.Droid.Resource.Attribute.actionMenuTextColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeBackground = global::ScheduleV5.Droid.Resource.Attribute.actionModeBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeCloseButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeCloseDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeCopyDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeCutDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeFindDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModePasteDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModePopupWindowStyle = global::ScheduleV5.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeSelectAllDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeShareDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeSplitBackground = global::ScheduleV5.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeStyle = global::ScheduleV5.Droid.Resource.Attribute.actionModeStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionModeWebSearchDrawable = global::ScheduleV5.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionOverflowButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionOverflowMenuStyle = global::ScheduleV5.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionProviderClass = global::ScheduleV5.Droid.Resource.Attribute.actionProviderClass;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.actionViewClass = global::ScheduleV5.Droid.Resource.Attribute.actionViewClass;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.activityChooserViewStyle = global::ScheduleV5.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.alertDialogButtonGroupStyle = global::ScheduleV5.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.alertDialogCenterButtons = global::ScheduleV5.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.alertDialogStyle = global::ScheduleV5.Droid.Resource.Attribute.alertDialogStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.alertDialogTheme = global::ScheduleV5.Droid.Resource.Attribute.alertDialogTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.allowNull = global::ScheduleV5.Droid.Resource.Attribute.allowNull;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.allowStacking = global::ScheduleV5.Droid.Resource.Attribute.allowStacking;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.alpha = global::ScheduleV5.Droid.Resource.Attribute.alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.arrowHeadLength = global::ScheduleV5.Droid.Resource.Attribute.arrowHeadLength;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.arrowShaftLength = global::ScheduleV5.Droid.Resource.Attribute.arrowShaftLength;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.autoCompleteTextViewStyle = global::ScheduleV5.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.background = global::ScheduleV5.Droid.Resource.Attribute.background;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.backgroundSplit = global::ScheduleV5.Droid.Resource.Attribute.backgroundSplit;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.backgroundStacked = global::ScheduleV5.Droid.Resource.Attribute.backgroundStacked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.backgroundTint = global::ScheduleV5.Droid.Resource.Attribute.backgroundTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.backgroundTintMode = global::ScheduleV5.Droid.Resource.Attribute.backgroundTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.barLength = global::ScheduleV5.Droid.Resource.Attribute.barLength;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.borderColor = global::ScheduleV5.Droid.Resource.Attribute.borderColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.borderlessButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonBarButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonBarNegativeButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonBarNeutralButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonBarPositiveButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonBarStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonGravity = global::ScheduleV5.Droid.Resource.Attribute.buttonGravity;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonPanelSideLayout = global::ScheduleV5.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonStyle = global::ScheduleV5.Droid.Resource.Attribute.buttonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonStyleSmall = global::ScheduleV5.Droid.Resource.Attribute.buttonStyleSmall;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonTint = global::ScheduleV5.Droid.Resource.Attribute.buttonTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.buttonTintMode = global::ScheduleV5.Droid.Resource.Attribute.buttonTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.checkboxStyle = global::ScheduleV5.Droid.Resource.Attribute.checkboxStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.@checked = global::ScheduleV5.Droid.Resource.Attribute.@checked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.checkedTextViewStyle = global::ScheduleV5.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.closeIcon = global::ScheduleV5.Droid.Resource.Attribute.closeIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.closeItemLayout = global::ScheduleV5.Droid.Resource.Attribute.closeItemLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.collapseContentDescription = global::ScheduleV5.Droid.Resource.Attribute.collapseContentDescription;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.collapseIcon = global::ScheduleV5.Droid.Resource.Attribute.collapseIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.color = global::ScheduleV5.Droid.Resource.Attribute.color;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorAccent = global::ScheduleV5.Droid.Resource.Attribute.colorAccent;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorBackgroundFloating = global::ScheduleV5.Droid.Resource.Attribute.colorBackgroundFloating;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorButtonNormal = global::ScheduleV5.Droid.Resource.Attribute.colorButtonNormal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorControlActivated = global::ScheduleV5.Droid.Resource.Attribute.colorControlActivated;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorControlHighlight = global::ScheduleV5.Droid.Resource.Attribute.colorControlHighlight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorControlNormal = global::ScheduleV5.Droid.Resource.Attribute.colorControlNormal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorPrimary = global::ScheduleV5.Droid.Resource.Attribute.colorPrimary;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorPrimaryDark = global::ScheduleV5.Droid.Resource.Attribute.colorPrimaryDark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.colorSwitchThumbNormal = global::ScheduleV5.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.commitIcon = global::ScheduleV5.Droid.Resource.Attribute.commitIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.contentInsetEnd = global::ScheduleV5.Droid.Resource.Attribute.contentInsetEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.contentInsetEndWithActions = global::ScheduleV5.Droid.Resource.Attribute.contentInsetEndWithActions;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.contentInsetLeft = global::ScheduleV5.Droid.Resource.Attribute.contentInsetLeft;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.contentInsetRight = global::ScheduleV5.Droid.Resource.Attribute.contentInsetRight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.contentInsetStart = global::ScheduleV5.Droid.Resource.Attribute.contentInsetStart;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.contentInsetStartWithNavigation = global::ScheduleV5.Droid.Resource.Attribute.contentInsetStartWithNavigation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.controlBackground = global::ScheduleV5.Droid.Resource.Attribute.controlBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.cornerradius = global::ScheduleV5.Droid.Resource.Attribute.cornerradius;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.culture = global::ScheduleV5.Droid.Resource.Attribute.culture;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.customNavigationLayout = global::ScheduleV5.Droid.Resource.Attribute.customNavigationLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.defaultQueryHint = global::ScheduleV5.Droid.Resource.Attribute.defaultQueryHint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.dialogPreferredPadding = global::ScheduleV5.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.dialogTheme = global::ScheduleV5.Droid.Resource.Attribute.dialogTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.displayOptions = global::ScheduleV5.Droid.Resource.Attribute.displayOptions;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.divider = global::ScheduleV5.Droid.Resource.Attribute.divider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.dividerHorizontal = global::ScheduleV5.Droid.Resource.Attribute.dividerHorizontal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.dividerPadding = global::ScheduleV5.Droid.Resource.Attribute.dividerPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.dividerVertical = global::ScheduleV5.Droid.Resource.Attribute.dividerVertical;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.drawableSize = global::ScheduleV5.Droid.Resource.Attribute.drawableSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.drawerArrowStyle = global::ScheduleV5.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.dropDownListViewStyle = global::ScheduleV5.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.dropdownListPreferredItemHeight = global::ScheduleV5.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.editTextBackground = global::ScheduleV5.Droid.Resource.Attribute.editTextBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.editTextColor = global::ScheduleV5.Droid.Resource.Attribute.editTextColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.editTextStyle = global::ScheduleV5.Droid.Resource.Attribute.editTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.elevation = global::ScheduleV5.Droid.Resource.Attribute.elevation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.enableGroupSeparator = global::ScheduleV5.Droid.Resource.Attribute.enableGroupSeparator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.expandActivityOverflowButtonDrawable = global::ScheduleV5.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.fontSize = global::ScheduleV5.Droid.Resource.Attribute.fontSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.gapBetweenBars = global::ScheduleV5.Droid.Resource.Attribute.gapBetweenBars;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.goIcon = global::ScheduleV5.Droid.Resource.Attribute.goIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.height = global::ScheduleV5.Droid.Resource.Attribute.height;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.hideOnContentScroll = global::ScheduleV5.Droid.Resource.Attribute.hideOnContentScroll;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.homeAsUpIndicator = global::ScheduleV5.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.homeLayout = global::ScheduleV5.Droid.Resource.Attribute.homeLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.icon = global::ScheduleV5.Droid.Resource.Attribute.icon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.iconifiedByDefault = global::ScheduleV5.Droid.Resource.Attribute.iconifiedByDefault;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.imageButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.imageButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.indeterminateProgressStyle = global::ScheduleV5.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.initialActivityCount = global::ScheduleV5.Droid.Resource.Attribute.initialActivityCount;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.isLightTheme = global::ScheduleV5.Droid.Resource.Attribute.isLightTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.isthreestate = global::ScheduleV5.Droid.Resource.Attribute.isthreestate;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.itemPadding = global::ScheduleV5.Droid.Resource.Attribute.itemPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.layout = global::ScheduleV5.Droid.Resource.Attribute.layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listChoiceBackgroundIndicator = global::ScheduleV5.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listDividerAlertDialog = global::ScheduleV5.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listItemLayout = global::ScheduleV5.Droid.Resource.Attribute.listItemLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listLayout = global::ScheduleV5.Droid.Resource.Attribute.listLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listMenuViewStyle = global::ScheduleV5.Droid.Resource.Attribute.listMenuViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listPopupWindowStyle = global::ScheduleV5.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listPreferredItemHeight = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listPreferredItemHeightLarge = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listPreferredItemHeightSmall = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listPreferredItemPaddingLeft = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.listPreferredItemPaddingRight = global::ScheduleV5.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.logo = global::ScheduleV5.Droid.Resource.Attribute.logo;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.logoDescription = global::ScheduleV5.Droid.Resource.Attribute.logoDescription;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.maxButtonHeight = global::ScheduleV5.Droid.Resource.Attribute.maxButtonHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.maximumDecimalDigits = global::ScheduleV5.Droid.Resource.Attribute.maximumDecimalDigits;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.measureWithLargestChild = global::ScheduleV5.Droid.Resource.Attribute.measureWithLargestChild;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.multiChoiceItemLayout = global::ScheduleV5.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.navigationContentDescription = global::ScheduleV5.Droid.Resource.Attribute.navigationContentDescription;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.navigationIcon = global::ScheduleV5.Droid.Resource.Attribute.navigationIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.navigationMode = global::ScheduleV5.Droid.Resource.Attribute.navigationMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.numberFormat = global::ScheduleV5.Droid.Resource.Attribute.numberFormat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.numericTextBoxValue = global::ScheduleV5.Droid.Resource.Attribute.numericTextBoxValue;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.overlapAnchor = global::ScheduleV5.Droid.Resource.Attribute.overlapAnchor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.paddingBottomNoButtons = global::ScheduleV5.Droid.Resource.Attribute.paddingBottomNoButtons;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.paddingEnd = global::ScheduleV5.Droid.Resource.Attribute.paddingEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.paddingStart = global::ScheduleV5.Droid.Resource.Attribute.paddingStart;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.paddingTopNoTitle = global::ScheduleV5.Droid.Resource.Attribute.paddingTopNoTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.panelBackground = global::ScheduleV5.Droid.Resource.Attribute.panelBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.panelMenuListTheme = global::ScheduleV5.Droid.Resource.Attribute.panelMenuListTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.panelMenuListWidth = global::ScheduleV5.Droid.Resource.Attribute.panelMenuListWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.parsingMode = global::ScheduleV5.Droid.Resource.Attribute.parsingMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.percentDisplayMode = global::ScheduleV5.Droid.Resource.Attribute.percentDisplayMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.popupMenuStyle = global::ScheduleV5.Droid.Resource.Attribute.popupMenuStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.popupTheme = global::ScheduleV5.Droid.Resource.Attribute.popupTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.popupWindowStyle = global::ScheduleV5.Droid.Resource.Attribute.popupWindowStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.preserveIconSpacing = global::ScheduleV5.Droid.Resource.Attribute.preserveIconSpacing;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.progressBarPadding = global::ScheduleV5.Droid.Resource.Attribute.progressBarPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.progressBarStyle = global::ScheduleV5.Droid.Resource.Attribute.progressBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.queryBackground = global::ScheduleV5.Droid.Resource.Attribute.queryBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.queryHint = global::ScheduleV5.Droid.Resource.Attribute.queryHint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.radioButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.radioButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.ratingBarStyle = global::ScheduleV5.Droid.Resource.Attribute.ratingBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.ratingBarStyleIndicator = global::ScheduleV5.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.ratingBarStyleSmall = global::ScheduleV5.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.searchHintIcon = global::ScheduleV5.Droid.Resource.Attribute.searchHintIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.searchIcon = global::ScheduleV5.Droid.Resource.Attribute.searchIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.searchViewStyle = global::ScheduleV5.Droid.Resource.Attribute.searchViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.seekBarStyle = global::ScheduleV5.Droid.Resource.Attribute.seekBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentBackColor = global::ScheduleV5.Droid.Resource.Attribute.segmentBackColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentBorderColor = global::ScheduleV5.Droid.Resource.Attribute.segmentBorderColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentBorderThickness = global::ScheduleV5.Droid.Resource.Attribute.segmentBorderThickness;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentColor = global::ScheduleV5.Droid.Resource.Attribute.segmentColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentCornerRadius = global::ScheduleV5.Droid.Resource.Attribute.segmentCornerRadius;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentDisplayMode = global::ScheduleV5.Droid.Resource.Attribute.segmentDisplayMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentPosition = global::ScheduleV5.Droid.Resource.Attribute.segmentPosition;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentSelectedIndex = global::ScheduleV5.Droid.Resource.Attribute.segmentSelectedIndex;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentStrokeThickness = global::ScheduleV5.Droid.Resource.Attribute.segmentStrokeThickness;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentedHeight = global::ScheduleV5.Droid.Resource.Attribute.segmentedHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentedPadding = global::ScheduleV5.Droid.Resource.Attribute.segmentedPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.segmentedWidth = global::ScheduleV5.Droid.Resource.Attribute.segmentedWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.selectAllOnFocus = global::ScheduleV5.Droid.Resource.Attribute.selectAllOnFocus;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.selectableItemBackground = global::ScheduleV5.Droid.Resource.Attribute.selectableItemBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.selectableItemBackgroundBorderless = global::ScheduleV5.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.showAsAction = global::ScheduleV5.Droid.Resource.Attribute.showAsAction;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.showDividers = global::ScheduleV5.Droid.Resource.Attribute.showDividers;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.showText = global::ScheduleV5.Droid.Resource.Attribute.showText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.showTitle = global::ScheduleV5.Droid.Resource.Attribute.showTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.singleChoiceItemLayout = global::ScheduleV5.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.spinBars = global::ScheduleV5.Droid.Resource.Attribute.spinBars;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.spinnerDropDownItemStyle = global::ScheduleV5.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.spinnerStyle = global::ScheduleV5.Droid.Resource.Attribute.spinnerStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.splitTrack = global::ScheduleV5.Droid.Resource.Attribute.splitTrack;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.srcCompat = global::ScheduleV5.Droid.Resource.Attribute.srcCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.state_above_anchor = global::ScheduleV5.Droid.Resource.Attribute.state_above_anchor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.state_indeterminate = global::ScheduleV5.Droid.Resource.Attribute.state_indeterminate;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.subMenuArrow = global::ScheduleV5.Droid.Resource.Attribute.subMenuArrow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.submitBackground = global::ScheduleV5.Droid.Resource.Attribute.submitBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.subtitle = global::ScheduleV5.Droid.Resource.Attribute.subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.subtitleTextAppearance = global::ScheduleV5.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.subtitleTextColor = global::ScheduleV5.Droid.Resource.Attribute.subtitleTextColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.subtitleTextStyle = global::ScheduleV5.Droid.Resource.Attribute.subtitleTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.suggestionRowLayout = global::ScheduleV5.Droid.Resource.Attribute.suggestionRowLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.switchMinWidth = global::ScheduleV5.Droid.Resource.Attribute.switchMinWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.switchPadding = global::ScheduleV5.Droid.Resource.Attribute.switchPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.switchStyle = global::ScheduleV5.Droid.Resource.Attribute.switchStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.switchTextAppearance = global::ScheduleV5.Droid.Resource.Attribute.switchTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAllCaps = global::ScheduleV5.Droid.Resource.Attribute.textAllCaps;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAppearanceLargePopupMenu = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAppearanceListItem = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceListItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAppearanceListItemSecondary = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceListItemSecondary;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAppearanceListItemSmall = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAppearancePopupMenuHeader = global::ScheduleV5.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAppearanceSearchResultSubtitle = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAppearanceSearchResultTitle = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textAppearanceSmallPopupMenu = global::ScheduleV5.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textColorAlertDialogListItem = global::ScheduleV5.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.textColorSearchUrl = global::ScheduleV5.Droid.Resource.Attribute.textColorSearchUrl;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.theme = global::ScheduleV5.Droid.Resource.Attribute.theme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.thickness = global::ScheduleV5.Droid.Resource.Attribute.thickness;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.thumbTextPadding = global::ScheduleV5.Droid.Resource.Attribute.thumbTextPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.thumbTint = global::ScheduleV5.Droid.Resource.Attribute.thumbTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.thumbTintMode = global::ScheduleV5.Droid.Resource.Attribute.thumbTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.tickMark = global::ScheduleV5.Droid.Resource.Attribute.tickMark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.tickMarkTint = global::ScheduleV5.Droid.Resource.Attribute.tickMarkTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.tickMarkTintMode = global::ScheduleV5.Droid.Resource.Attribute.tickMarkTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.tint = global::ScheduleV5.Droid.Resource.Attribute.tint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.tintMode = global::ScheduleV5.Droid.Resource.Attribute.tintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.title = global::ScheduleV5.Droid.Resource.Attribute.title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleMargin = global::ScheduleV5.Droid.Resource.Attribute.titleMargin;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleMarginBottom = global::ScheduleV5.Droid.Resource.Attribute.titleMarginBottom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleMarginEnd = global::ScheduleV5.Droid.Resource.Attribute.titleMarginEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleMarginStart = global::ScheduleV5.Droid.Resource.Attribute.titleMarginStart;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleMarginTop = global::ScheduleV5.Droid.Resource.Attribute.titleMarginTop;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleMargins = global::ScheduleV5.Droid.Resource.Attribute.titleMargins;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleTextAppearance = global::ScheduleV5.Droid.Resource.Attribute.titleTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleTextColor = global::ScheduleV5.Droid.Resource.Attribute.titleTextColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.titleTextStyle = global::ScheduleV5.Droid.Resource.Attribute.titleTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.toolbarNavigationButtonStyle = global::ScheduleV5.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.toolbarStyle = global::ScheduleV5.Droid.Resource.Attribute.toolbarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.track = global::ScheduleV5.Droid.Resource.Attribute.track;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.trackTint = global::ScheduleV5.Droid.Resource.Attribute.trackTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.trackTintMode = global::ScheduleV5.Droid.Resource.Attribute.trackTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.valueChangeMode = global::ScheduleV5.Droid.Resource.Attribute.valueChangeMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.voiceIcon = global::ScheduleV5.Droid.Resource.Attribute.voiceIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.watermark = global::ScheduleV5.Droid.Resource.Attribute.watermark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.watermarkColor = global::ScheduleV5.Droid.Resource.Attribute.watermarkColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowActionBar = global::ScheduleV5.Droid.Resource.Attribute.windowActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowActionBarOverlay = global::ScheduleV5.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowActionModeOverlay = global::ScheduleV5.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowFixedHeightMajor = global::ScheduleV5.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowFixedHeightMinor = global::ScheduleV5.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowFixedWidthMajor = global::ScheduleV5.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowFixedWidthMinor = global::ScheduleV5.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowMinWidthMajor = global::ScheduleV5.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowMinWidthMinor = global::ScheduleV5.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Attribute.windowNoTitle = global::ScheduleV5.Droid.Resource.Attribute.windowNoTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Boolean.abc_action_bar_embed_tabs = global::ScheduleV5.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Boolean.abc_allow_stacked_button_bar = global::ScheduleV5.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::ScheduleV5.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::ScheduleV5.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::ScheduleV5.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_background_cache_hint_selector_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_background_cache_hint_selector_material_light = global::ScheduleV5.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_btn_colored_borderless_text_material = global::ScheduleV5.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_btn_colored_text_material = global::ScheduleV5.Droid.Resource.Color.abc_btn_colored_text_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_color_highlight_material = global::ScheduleV5.Droid.Resource.Color.abc_color_highlight_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_hint_foreground_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_hint_foreground_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_hint_foreground_material_light = global::ScheduleV5.Droid.Resource.Color.abc_hint_foreground_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_input_method_navigation_guard = global::ScheduleV5.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_primary_text_disable_only_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_primary_text_disable_only_material_light = global::ScheduleV5.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_primary_text_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_primary_text_material_light = global::ScheduleV5.Droid.Resource.Color.abc_primary_text_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_search_url_text = global::ScheduleV5.Droid.Resource.Color.abc_search_url_text;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_search_url_text_normal = global::ScheduleV5.Droid.Resource.Color.abc_search_url_text_normal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_search_url_text_pressed = global::ScheduleV5.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_search_url_text_selected = global::ScheduleV5.Droid.Resource.Color.abc_search_url_text_selected;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_secondary_text_material_dark = global::ScheduleV5.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_secondary_text_material_light = global::ScheduleV5.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_tint_btn_checkable = global::ScheduleV5.Droid.Resource.Color.abc_tint_btn_checkable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_tint_default = global::ScheduleV5.Droid.Resource.Color.abc_tint_default;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_tint_edittext = global::ScheduleV5.Droid.Resource.Color.abc_tint_edittext;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_tint_seek_thumb = global::ScheduleV5.Droid.Resource.Color.abc_tint_seek_thumb;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_tint_spinner = global::ScheduleV5.Droid.Resource.Color.abc_tint_spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.abc_tint_switch_track = global::ScheduleV5.Droid.Resource.Color.abc_tint_switch_track;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.accent_material_dark = global::ScheduleV5.Droid.Resource.Color.accent_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.accent_material_light = global::ScheduleV5.Droid.Resource.Color.accent_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.background_floating_material_dark = global::ScheduleV5.Droid.Resource.Color.background_floating_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.background_floating_material_light = global::ScheduleV5.Droid.Resource.Color.background_floating_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.background_material_dark = global::ScheduleV5.Droid.Resource.Color.background_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.background_material_light = global::ScheduleV5.Droid.Resource.Color.background_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.bright_foreground_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.bright_foreground_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.bright_foreground_inverse_material_dark = global::ScheduleV5.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.bright_foreground_inverse_material_light = global::ScheduleV5.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.bright_foreground_material_dark = global::ScheduleV5.Droid.Resource.Color.bright_foreground_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.bright_foreground_material_light = global::ScheduleV5.Droid.Resource.Color.bright_foreground_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.button_material_dark = global::ScheduleV5.Droid.Resource.Color.button_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.button_material_light = global::ScheduleV5.Droid.Resource.Color.button_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.control_checkable_material = global::ScheduleV5.Droid.Resource.Color.control_checkable_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.dim_foreground_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.dim_foreground_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.dim_foreground_material_dark = global::ScheduleV5.Droid.Resource.Color.dim_foreground_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.dim_foreground_material_light = global::ScheduleV5.Droid.Resource.Color.dim_foreground_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.foreground_material_dark = global::ScheduleV5.Droid.Resource.Color.foreground_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.foreground_material_light = global::ScheduleV5.Droid.Resource.Color.foreground_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.highlighted_text_material_dark = global::ScheduleV5.Droid.Resource.Color.highlighted_text_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.highlighted_text_material_light = global::ScheduleV5.Droid.Resource.Color.highlighted_text_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_blue_grey_800 = global::ScheduleV5.Droid.Resource.Color.material_blue_grey_800;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_blue_grey_900 = global::ScheduleV5.Droid.Resource.Color.material_blue_grey_900;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_blue_grey_950 = global::ScheduleV5.Droid.Resource.Color.material_blue_grey_950;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_deep_teal_200 = global::ScheduleV5.Droid.Resource.Color.material_deep_teal_200;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_deep_teal_500 = global::ScheduleV5.Droid.Resource.Color.material_deep_teal_500;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_grey_100 = global::ScheduleV5.Droid.Resource.Color.material_grey_100;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_grey_300 = global::ScheduleV5.Droid.Resource.Color.material_grey_300;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_grey_50 = global::ScheduleV5.Droid.Resource.Color.material_grey_50;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_grey_600 = global::ScheduleV5.Droid.Resource.Color.material_grey_600;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_grey_800 = global::ScheduleV5.Droid.Resource.Color.material_grey_800;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_grey_850 = global::ScheduleV5.Droid.Resource.Color.material_grey_850;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.material_grey_900 = global::ScheduleV5.Droid.Resource.Color.material_grey_900;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.notification_action_color_filter = global::ScheduleV5.Droid.Resource.Color.notification_action_color_filter;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.notification_icon_bg_color = global::ScheduleV5.Droid.Resource.Color.notification_icon_bg_color;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.notification_material_background_media_default_color = global::ScheduleV5.Droid.Resource.Color.notification_material_background_media_default_color;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.primary_dark_material_dark = global::ScheduleV5.Droid.Resource.Color.primary_dark_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.primary_dark_material_light = global::ScheduleV5.Droid.Resource.Color.primary_dark_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.primary_material_dark = global::ScheduleV5.Droid.Resource.Color.primary_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.primary_material_light = global::ScheduleV5.Droid.Resource.Color.primary_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.primary_text_default_material_dark = global::ScheduleV5.Droid.Resource.Color.primary_text_default_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.primary_text_default_material_light = global::ScheduleV5.Droid.Resource.Color.primary_text_default_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.primary_text_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.primary_text_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.ripple_material_dark = global::ScheduleV5.Droid.Resource.Color.ripple_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.ripple_material_light = global::ScheduleV5.Droid.Resource.Color.ripple_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.secondary_text_default_material_dark = global::ScheduleV5.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.secondary_text_default_material_light = global::ScheduleV5.Droid.Resource.Color.secondary_text_default_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.secondary_text_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.secondary_text_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.switch_thumb_disabled_material_dark = global::ScheduleV5.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.switch_thumb_disabled_material_light = global::ScheduleV5.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.switch_thumb_material_dark = global::ScheduleV5.Droid.Resource.Color.switch_thumb_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.switch_thumb_material_light = global::ScheduleV5.Droid.Resource.Color.switch_thumb_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.switch_thumb_normal_material_dark = global::ScheduleV5.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Color.switch_thumb_normal_material_light = global::ScheduleV5.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_content_inset_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_default_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_default_padding_end_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_default_padding_start_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_elevation_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_elevation_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_progress_bar_size = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_stacked_max_height = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_button_min_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_button_min_width_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_action_button_min_width_overflow_material = global::ScheduleV5.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_alert_dialog_button_bar_height = global::ScheduleV5.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_button_inset_horizontal_material = global::ScheduleV5.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_button_inset_vertical_material = global::ScheduleV5.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_button_padding_horizontal_material = global::ScheduleV5.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_button_padding_vertical_material = global::ScheduleV5.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::ScheduleV5.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_config_prefDialogWidth = global::ScheduleV5.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_control_corner_material = global::ScheduleV5.Droid.Resource.Dimension.abc_control_corner_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_control_inset_material = global::ScheduleV5.Droid.Resource.Dimension.abc_control_inset_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_control_padding_material = global::ScheduleV5.Droid.Resource.Dimension.abc_control_padding_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_fixed_height_major = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_fixed_height_minor = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_fixed_width_major = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_fixed_width_minor = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_min_width_major = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_min_width_minor = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_padding_material = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_padding_top_material = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dialog_title_divider_material = global::ScheduleV5.Droid.Resource.Dimension.abc_dialog_title_divider_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_disabled_alpha_material_dark = global::ScheduleV5.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_disabled_alpha_material_light = global::ScheduleV5.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dropdownitem_icon_width = global::ScheduleV5.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dropdownitem_text_padding_left = global::ScheduleV5.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_dropdownitem_text_padding_right = global::ScheduleV5.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_edit_text_inset_bottom_material = global::ScheduleV5.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::ScheduleV5.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_edit_text_inset_top_material = global::ScheduleV5.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_floating_window_z = global::ScheduleV5.Droid.Resource.Dimension.abc_floating_window_z;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_list_item_padding_horizontal_material = global::ScheduleV5.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_panel_menu_list_width = global::ScheduleV5.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_progress_bar_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_progress_bar_height_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_search_view_preferred_height = global::ScheduleV5.Droid.Resource.Dimension.abc_search_view_preferred_height;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_search_view_preferred_width = global::ScheduleV5.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_seekbar_track_background_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_seekbar_track_progress_height_material = global::ScheduleV5.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_select_dialog_padding_start_material = global::ScheduleV5.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_switch_padding = global::ScheduleV5.Droid.Resource.Dimension.abc_switch_padding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_body_1_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_body_2_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_button_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_caption_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_display_1_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_display_2_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_display_3_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_display_4_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_headline_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_large_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_medium_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_menu_header_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_menu_header_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_menu_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_small_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_subhead_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_title_material = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.abc_text_size_title_material_toolbar = global::ScheduleV5.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.disabledAlpha = global::ScheduleV5.Droid.Resource.Dimension.disabledAlpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.disabled_alpha_material_dark = global::ScheduleV5.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.disabled_alpha_material_light = global::ScheduleV5.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.highlight_alpha_material_colored = global::ScheduleV5.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.highlight_alpha_material_dark = global::ScheduleV5.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.highlight_alpha_material_light = global::ScheduleV5.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.hint_alpha_material_dark = global::ScheduleV5.Droid.Resource.Dimension.hint_alpha_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.hint_alpha_material_light = global::ScheduleV5.Droid.Resource.Dimension.hint_alpha_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.hint_pressed_alpha_material_dark = global::ScheduleV5.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.hint_pressed_alpha_material_light = global::ScheduleV5.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_action_icon_size = global::ScheduleV5.Droid.Resource.Dimension.notification_action_icon_size;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_action_text_size = global::ScheduleV5.Droid.Resource.Dimension.notification_action_text_size;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_big_circle_margin = global::ScheduleV5.Droid.Resource.Dimension.notification_big_circle_margin;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_content_margin_start = global::ScheduleV5.Droid.Resource.Dimension.notification_content_margin_start;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_large_icon_height = global::ScheduleV5.Droid.Resource.Dimension.notification_large_icon_height;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_large_icon_width = global::ScheduleV5.Droid.Resource.Dimension.notification_large_icon_width;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_main_column_padding_top = global::ScheduleV5.Droid.Resource.Dimension.notification_main_column_padding_top;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_media_narrow_margin = global::ScheduleV5.Droid.Resource.Dimension.notification_media_narrow_margin;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_right_icon_size = global::ScheduleV5.Droid.Resource.Dimension.notification_right_icon_size;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_right_side_padding_top = global::ScheduleV5.Droid.Resource.Dimension.notification_right_side_padding_top;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_small_icon_background_padding = global::ScheduleV5.Droid.Resource.Dimension.notification_small_icon_background_padding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_small_icon_size_as_large = global::ScheduleV5.Droid.Resource.Dimension.notification_small_icon_size_as_large;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_subtext_size = global::ScheduleV5.Droid.Resource.Dimension.notification_subtext_size;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_top_pad = global::ScheduleV5.Droid.Resource.Dimension.notification_top_pad;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Dimension.notification_top_pad_large_text = global::ScheduleV5.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_action_bar_item_background_material = global::ScheduleV5.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_borderless_material = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_check_material = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_check_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_colored_material = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_default_mtrl_shape = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_radio_material = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::ScheduleV5.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_cab_background_internal_bg = global::ScheduleV5.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_cab_background_top_material = global::ScheduleV5.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_control_background_material = global::ScheduleV5.Droid.Resource.Drawable.abc_control_background_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_dialog_material_background = global::ScheduleV5.Droid.Resource.Drawable.abc_dialog_material_background;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_edit_text_material = global::ScheduleV5.Droid.Resource.Drawable.abc_edit_text_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_ab_back_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_ab_back_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_clear_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_clear_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_go_search_api_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_go_search_api_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_menu_overflow_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_search_api_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_search_api_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_star_black_16dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_star_black_36dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_star_black_48dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_black_48dp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_star_half_black_16dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_star_half_black_36dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_star_half_black_48dp = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ic_voice_search_api_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_item_background_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_item_background_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_divider_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_focused_holo = global::ScheduleV5.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_longpressed_holo = global::ScheduleV5.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_pressed_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_pressed_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_selector_disabled_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_selector_holo_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_list_selector_holo_light = global::ScheduleV5.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::ScheduleV5.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_popup_background_mtrl_mult = global::ScheduleV5.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ratingbar_indicator_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ratingbar_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ratingbar_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_ratingbar_small_material = global::ScheduleV5.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_seekbar_thumb_material = global::ScheduleV5.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_seekbar_tick_mark_material = global::ScheduleV5.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_seekbar_track_material = global::ScheduleV5.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_spinner_textfield_background_material = global::ScheduleV5.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_switch_thumb_material = global::ScheduleV5.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_switch_track_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_tab_indicator_material = global::ScheduleV5.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_text_cursor_material = global::ScheduleV5.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::ScheduleV5.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::ScheduleV5.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::ScheduleV5.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::ScheduleV5.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_textfield_search_material = global::ScheduleV5.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.abc_vector_test = global::ScheduleV5.Droid.Resource.Drawable.abc_vector_test;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_checked = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_checked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_checked_to_indeterminate_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_checked_to_indeterminate_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_checked_to_unchecked_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_indeterminate = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_indeterminate;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_indeterminate_to_checked_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_indeterminate_to_checked_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_indeterminate_to_unchecked_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_indeterminate_to_unchecked_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_unchecked = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_unchecked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_unchecked_to_checked_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.btn_checkbox_unchecked_to_indeterminate_animation = global::ScheduleV5.Droid.Resource.Drawable.btn_checkbox_unchecked_to_indeterminate_animation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.dropdownbuttonimage = global::ScheduleV5.Droid.Resource.Drawable.dropdownbuttonimage;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.GroupCollapse = global::ScheduleV5.Droid.Resource.Drawable.GroupCollapse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.GroupExpander = global::ScheduleV5.Droid.Resource.Drawable.GroupExpander;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.inputlayout_togglecollapseicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.inputlayout_togglevisibleicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_action_background = global::ScheduleV5.Droid.Resource.Drawable.notification_action_background;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_bg = global::ScheduleV5.Droid.Resource.Drawable.notification_bg;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_bg_low = global::ScheduleV5.Droid.Resource.Drawable.notification_bg_low;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_bg_low_normal = global::ScheduleV5.Droid.Resource.Drawable.notification_bg_low_normal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_bg_low_pressed = global::ScheduleV5.Droid.Resource.Drawable.notification_bg_low_pressed;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_bg_normal = global::ScheduleV5.Droid.Resource.Drawable.notification_bg_normal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_bg_normal_pressed = global::ScheduleV5.Droid.Resource.Drawable.notification_bg_normal_pressed;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_icon_background = global::ScheduleV5.Droid.Resource.Drawable.notification_icon_background;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_template_icon_bg = global::ScheduleV5.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_template_icon_low_bg = global::ScheduleV5.Droid.Resource.Drawable.notification_template_icon_low_bg;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notification_tile_bg = global::ScheduleV5.Droid.Resource.Drawable.notification_tile_bg;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Drawable.notify_panel_notification_icon_bg = global::ScheduleV5.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.Itemname = global::ScheduleV5.Droid.Resource.Id.Itemname;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action0 = global::ScheduleV5.Droid.Resource.Id.action0;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_bar = global::ScheduleV5.Droid.Resource.Id.action_bar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_bar_activity_content = global::ScheduleV5.Droid.Resource.Id.action_bar_activity_content;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_bar_container = global::ScheduleV5.Droid.Resource.Id.action_bar_container;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_bar_root = global::ScheduleV5.Droid.Resource.Id.action_bar_root;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_bar_spinner = global::ScheduleV5.Droid.Resource.Id.action_bar_spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_bar_subtitle = global::ScheduleV5.Droid.Resource.Id.action_bar_subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_bar_title = global::ScheduleV5.Droid.Resource.Id.action_bar_title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_container = global::ScheduleV5.Droid.Resource.Id.action_container;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_context_bar = global::ScheduleV5.Droid.Resource.Id.action_context_bar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_divider = global::ScheduleV5.Droid.Resource.Id.action_divider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_image = global::ScheduleV5.Droid.Resource.Id.action_image;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_menu_divider = global::ScheduleV5.Droid.Resource.Id.action_menu_divider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_menu_presenter = global::ScheduleV5.Droid.Resource.Id.action_menu_presenter;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_mode_bar = global::ScheduleV5.Droid.Resource.Id.action_mode_bar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_mode_bar_stub = global::ScheduleV5.Droid.Resource.Id.action_mode_bar_stub;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_mode_close_button = global::ScheduleV5.Droid.Resource.Id.action_mode_close_button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.action_text = global::ScheduleV5.Droid.Resource.Id.action_text;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.actions = global::ScheduleV5.Droid.Resource.Id.actions;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.activity_chooser_view_content = global::ScheduleV5.Droid.Resource.Id.activity_chooser_view_content;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.add = global::ScheduleV5.Droid.Resource.Id.add;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.alertTitle = global::ScheduleV5.Droid.Resource.Id.alertTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.always = global::ScheduleV5.Droid.Resource.Id.always;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.beginning = global::ScheduleV5.Droid.Resource.Id.beginning;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.border = global::ScheduleV5.Droid.Resource.Id.border;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.bottom = global::ScheduleV5.Droid.Resource.Id.bottom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.buttonPanel = global::ScheduleV5.Droid.Resource.Id.buttonPanel;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.cancel_action = global::ScheduleV5.Droid.Resource.Id.cancel_action;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.checkbox = global::ScheduleV5.Droid.Resource.Id.checkbox;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.@checked = global::ScheduleV5.Droid.Resource.Id.@checked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.chronometer = global::ScheduleV5.Droid.Resource.Id.chronometer;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.collapseActionView = global::ScheduleV5.Droid.Resource.Id.collapseActionView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.compute = global::ScheduleV5.Droid.Resource.Id.compute;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.contentPanel = global::ScheduleV5.Droid.Resource.Id.contentPanel;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.custom = global::ScheduleV5.Droid.Resource.Id.custom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.customPanel = global::ScheduleV5.Droid.Resource.Id.customPanel;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.decimalMode = global::ScheduleV5.Droid.Resource.Id.decimalMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.decor_content_parent = global::ScheduleV5.Droid.Resource.Id.decor_content_parent;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.default_activity_button = global::ScheduleV5.Droid.Resource.Id.default_activity_button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.disableHome = global::ScheduleV5.Droid.Resource.Id.disableHome;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.doubleMode = global::ScheduleV5.Droid.Resource.Id.doubleMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.edit_query = global::ScheduleV5.Droid.Resource.Id.edit_query;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.end = global::ScheduleV5.Droid.Resource.Id.end;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.end_padder = global::ScheduleV5.Droid.Resource.Id.end_padder;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.expand_activities_button = global::ScheduleV5.Droid.Resource.Id.expand_activities_button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.expanded_menu = global::ScheduleV5.Droid.Resource.Id.expanded_menu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.fill = global::ScheduleV5.Droid.Resource.Id.fill;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.home = global::ScheduleV5.Droid.Resource.Id.home;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.homeAsUp = global::ScheduleV5.Droid.Resource.Id.homeAsUp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.icon = global::ScheduleV5.Droid.Resource.Id.icon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.icon_group = global::ScheduleV5.Droid.Resource.Id.icon_group;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.ifRoom = global::ScheduleV5.Droid.Resource.Id.ifRoom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.image = global::ScheduleV5.Droid.Resource.Id.image;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.imagewithtext = global::ScheduleV5.Droid.Resource.Id.imagewithtext;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.indeterminate = global::ScheduleV5.Droid.Resource.Id.indeterminate;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.info = global::ScheduleV5.Droid.Resource.Id.info;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.line1 = global::ScheduleV5.Droid.Resource.Id.line1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.line3 = global::ScheduleV5.Droid.Resource.Id.line3;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.listMode = global::ScheduleV5.Droid.Resource.Id.listMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.list_item = global::ScheduleV5.Droid.Resource.Id.list_item;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.media_actions = global::ScheduleV5.Droid.Resource.Id.media_actions;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.middle = global::ScheduleV5.Droid.Resource.Id.middle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.multiply = global::ScheduleV5.Droid.Resource.Id.multiply;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.never = global::ScheduleV5.Droid.Resource.Id.never;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.none = global::ScheduleV5.Droid.Resource.Id.none;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.normal = global::ScheduleV5.Droid.Resource.Id.normal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.notification_background = global::ScheduleV5.Droid.Resource.Id.notification_background;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.notification_main_column = global::ScheduleV5.Droid.Resource.Id.notification_main_column;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.notification_main_column_container = global::ScheduleV5.Droid.Resource.Id.notification_main_column_container;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.onKeyFocus = global::ScheduleV5.Droid.Resource.Id.onKeyFocus;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.onLostFocus = global::ScheduleV5.Droid.Resource.Id.onLostFocus;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.parentPanel = global::ScheduleV5.Droid.Resource.Id.parentPanel;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.progress_circular = global::ScheduleV5.Droid.Resource.Id.progress_circular;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.progress_horizontal = global::ScheduleV5.Droid.Resource.Id.progress_horizontal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.radio = global::ScheduleV5.Droid.Resource.Id.radio;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.right_icon = global::ScheduleV5.Droid.Resource.Id.right_icon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.right_side = global::ScheduleV5.Droid.Resource.Id.right_side;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.screen = global::ScheduleV5.Droid.Resource.Id.screen;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.scrollIndicatorDown = global::ScheduleV5.Droid.Resource.Id.scrollIndicatorDown;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.scrollIndicatorUp = global::ScheduleV5.Droid.Resource.Id.scrollIndicatorUp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.scrollView = global::ScheduleV5.Droid.Resource.Id.scrollView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_badge = global::ScheduleV5.Droid.Resource.Id.search_badge;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_bar = global::ScheduleV5.Droid.Resource.Id.search_bar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_button = global::ScheduleV5.Droid.Resource.Id.search_button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_close_btn = global::ScheduleV5.Droid.Resource.Id.search_close_btn;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_edit_frame = global::ScheduleV5.Droid.Resource.Id.search_edit_frame;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_go_btn = global::ScheduleV5.Droid.Resource.Id.search_go_btn;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_mag_icon = global::ScheduleV5.Droid.Resource.Id.search_mag_icon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_plate = global::ScheduleV5.Droid.Resource.Id.search_plate;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_src_text = global::ScheduleV5.Droid.Resource.Id.search_src_text;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.search_voice_btn = global::ScheduleV5.Droid.Resource.Id.search_voice_btn;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.select_dialog_listview = global::ScheduleV5.Droid.Resource.Id.select_dialog_listview;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.shortcut = global::ScheduleV5.Droid.Resource.Id.shortcut;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.showCustom = global::ScheduleV5.Droid.Resource.Id.showCustom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.showHome = global::ScheduleV5.Droid.Resource.Id.showHome;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.showTitle = global::ScheduleV5.Droid.Resource.Id.showTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.spacer = global::ScheduleV5.Droid.Resource.Id.spacer;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.split_action_bar = global::ScheduleV5.Droid.Resource.Id.split_action_bar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.src_atop = global::ScheduleV5.Droid.Resource.Id.src_atop;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.src_in = global::ScheduleV5.Droid.Resource.Id.src_in;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.src_over = global::ScheduleV5.Droid.Resource.Id.src_over;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.status_bar_latest_event_content = global::ScheduleV5.Droid.Resource.Id.status_bar_latest_event_content;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.submenuarrow = global::ScheduleV5.Droid.Resource.Id.submenuarrow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.submit_area = global::ScheduleV5.Droid.Resource.Id.submit_area;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.tabMode = global::ScheduleV5.Droid.Resource.Id.tabMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.text = global::ScheduleV5.Droid.Resource.Id.text;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.text2 = global::ScheduleV5.Droid.Resource.Id.text2;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.textSpacerNoButtons = global::ScheduleV5.Droid.Resource.Id.textSpacerNoButtons;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.textSpacerNoTitle = global::ScheduleV5.Droid.Resource.Id.textSpacerNoTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.time = global::ScheduleV5.Droid.Resource.Id.time;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.title = global::ScheduleV5.Droid.Resource.Id.title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.titleDividerNoCustom = global::ScheduleV5.Droid.Resource.Id.titleDividerNoCustom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.title_template = global::ScheduleV5.Droid.Resource.Id.title_template;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.top = global::ScheduleV5.Droid.Resource.Id.top;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.topPanel = global::ScheduleV5.Droid.Resource.Id.topPanel;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.@unchecked = global::ScheduleV5.Droid.Resource.Id.@unchecked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.up = global::ScheduleV5.Droid.Resource.Id.up;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.useLogo = global::ScheduleV5.Droid.Resource.Id.useLogo;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.value = global::ScheduleV5.Droid.Resource.Id.value;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.withText = global::ScheduleV5.Droid.Resource.Id.withText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Id.wrap_content = global::ScheduleV5.Droid.Resource.Id.wrap_content;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Integer.abc_config_activityDefaultDur = global::ScheduleV5.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Integer.abc_config_activityShortDur = global::ScheduleV5.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Integer.cancel_button_image_alpha = global::ScheduleV5.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Integer.status_bar_notification_info_maxnum = global::ScheduleV5.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Interpolator.btn_checkbox_checked_animation_interpolator_0 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_checked_animation_interpolator_0;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Interpolator.btn_checkbox_checked_animation_interpolator_1 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_checked_animation_interpolator_1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Interpolator.btn_checkbox_indeterminate_animation_interpolator_1 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_indeterminate_animation_interpolator_1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Interpolator.btn_checkbox_unchecked_animation_interpolator_0 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_unchecked_animation_interpolator_0;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Interpolator.btn_checkbox_unchecked_animation_interpolator_1 = global::ScheduleV5.Droid.Resource.Interpolator.btn_checkbox_unchecked_animation_interpolator_1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_action_bar_title_item = global::ScheduleV5.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_action_bar_up_container = global::ScheduleV5.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_action_menu_item_layout = global::ScheduleV5.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_action_menu_layout = global::ScheduleV5.Droid.Resource.Layout.abc_action_menu_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_action_mode_bar = global::ScheduleV5.Droid.Resource.Layout.abc_action_mode_bar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_action_mode_close_item_material = global::ScheduleV5.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_activity_chooser_view = global::ScheduleV5.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_activity_chooser_view_list_item = global::ScheduleV5.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_alert_dialog_button_bar_material = global::ScheduleV5.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_alert_dialog_material = global::ScheduleV5.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_alert_dialog_title_material = global::ScheduleV5.Droid.Resource.Layout.abc_alert_dialog_title_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_dialog_title_material = global::ScheduleV5.Droid.Resource.Layout.abc_dialog_title_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_expanded_menu_layout = global::ScheduleV5.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_list_menu_item_checkbox = global::ScheduleV5.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_list_menu_item_icon = global::ScheduleV5.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_list_menu_item_layout = global::ScheduleV5.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_list_menu_item_radio = global::ScheduleV5.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_popup_menu_header_item_layout = global::ScheduleV5.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_popup_menu_item_layout = global::ScheduleV5.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_screen_content_include = global::ScheduleV5.Droid.Resource.Layout.abc_screen_content_include;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_screen_simple = global::ScheduleV5.Droid.Resource.Layout.abc_screen_simple;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_screen_simple_overlay_action_mode = global::ScheduleV5.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_screen_toolbar = global::ScheduleV5.Droid.Resource.Layout.abc_screen_toolbar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_search_dropdown_item_icons_2line = global::ScheduleV5.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_search_view = global::ScheduleV5.Droid.Resource.Layout.abc_search_view;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.abc_select_dialog_material = global::ScheduleV5.Droid.Resource.Layout.abc_select_dialog_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.CustomizedImageView = global::ScheduleV5.Droid.Resource.Layout.CustomizedImageView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.CustomizedView = global::ScheduleV5.Droid.Resource.Layout.CustomizedView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_action = global::ScheduleV5.Droid.Resource.Layout.notification_action;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_action_tombstone = global::ScheduleV5.Droid.Resource.Layout.notification_action_tombstone;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_media_action = global::ScheduleV5.Droid.Resource.Layout.notification_media_action;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_media_cancel_action = global::ScheduleV5.Droid.Resource.Layout.notification_media_cancel_action;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_big_media = global::ScheduleV5.Droid.Resource.Layout.notification_template_big_media;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_big_media_custom = global::ScheduleV5.Droid.Resource.Layout.notification_template_big_media_custom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_big_media_narrow = global::ScheduleV5.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_big_media_narrow_custom = global::ScheduleV5.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_custom_big = global::ScheduleV5.Droid.Resource.Layout.notification_template_custom_big;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_icon_group = global::ScheduleV5.Droid.Resource.Layout.notification_template_icon_group;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_lines_media = global::ScheduleV5.Droid.Resource.Layout.notification_template_lines_media;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_media = global::ScheduleV5.Droid.Resource.Layout.notification_template_media;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_media_custom = global::ScheduleV5.Droid.Resource.Layout.notification_template_media_custom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_part_chronometer = global::ScheduleV5.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.notification_template_part_time = global::ScheduleV5.Droid.Resource.Layout.notification_template_part_time;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.select_dialog_item_material = global::ScheduleV5.Droid.Resource.Layout.select_dialog_item_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.select_dialog_multichoice_material = global::ScheduleV5.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.select_dialog_singlechoice_material = global::ScheduleV5.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.sfcomboBox_layout = global::ScheduleV5.Droid.Resource.Layout.sfcomboBox_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.Spinner_item = global::ScheduleV5.Droid.Resource.Layout.Spinner_item;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Layout.support_simple_spinner_dropdown_item = global::ScheduleV5.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_action_bar_home_description = global::ScheduleV5.Droid.Resource.String.abc_action_bar_home_description;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_action_bar_up_description = global::ScheduleV5.Droid.Resource.String.abc_action_bar_up_description;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_action_menu_overflow_description = global::ScheduleV5.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_action_mode_done = global::ScheduleV5.Droid.Resource.String.abc_action_mode_done;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_activity_chooser_view_see_all = global::ScheduleV5.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_activitychooserview_choose_application = global::ScheduleV5.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_capital_off = global::ScheduleV5.Droid.Resource.String.abc_capital_off;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_capital_on = global::ScheduleV5.Droid.Resource.String.abc_capital_on;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_body_1_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_body_1_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_body_2_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_body_2_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_button_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_button_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_caption_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_caption_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_display_1_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_display_1_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_display_2_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_display_2_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_display_3_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_display_3_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_display_4_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_display_4_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_headline_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_headline_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_menu_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_menu_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_subhead_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_subhead_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_font_family_title_material = global::ScheduleV5.Droid.Resource.String.abc_font_family_title_material;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_search_hint = global::ScheduleV5.Droid.Resource.String.abc_search_hint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_searchview_description_clear = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_clear;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_searchview_description_query = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_query;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_searchview_description_search = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_search;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_searchview_description_submit = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_submit;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_searchview_description_voice = global::ScheduleV5.Droid.Resource.String.abc_searchview_description_voice;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_shareactionprovider_share_with = global::ScheduleV5.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_shareactionprovider_share_with_application = global::ScheduleV5.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.abc_toolbar_collapse_description = global::ScheduleV5.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.library_name = global::ScheduleV5.Droid.Resource.String.library_name;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.search_menu_title = global::ScheduleV5.Droid.Resource.String.search_menu_title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.String.status_bar_notification_info_overflow = global::ScheduleV5.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.AlertDialog_AppCompat = global::ScheduleV5.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.AlertDialog_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Animation_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Animation_AppCompat_DropDownUp = global::ScheduleV5.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_AlertDialog_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_AlertDialog_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Animation_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::ScheduleV5.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_DialogWindowTitle_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Button = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Large = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Small = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::ScheduleV5.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_ThemeOverlay_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::ScheduleV5.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V21_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V21_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V22_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V22_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V23_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V23_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V7_Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V7_Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::ScheduleV5.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionButton = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActionMode = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Button = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Button_Small = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_EditText = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ImageButton = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ListView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_RatingBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_SearchView = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_SeekBar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Spinner = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Toolbar = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::ScheduleV5.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_ThemeOverlay_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::ScheduleV5.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_V11_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_V11_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_V11_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_V11_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_V14_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_V14_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_V14_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_V14_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_V21_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_V21_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_V21_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_V21_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_V25_AppCompat = global::ScheduleV5.Droid.Resource.Style.Platform_V25_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_V25_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Platform_V25_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Platform_Widget_AppCompat_Spinner = global::ScheduleV5.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::ScheduleV5.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::ScheduleV5.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::ScheduleV5.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Body1 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Body2 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Button = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Caption = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Display1 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Display2 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Display3 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Display4 = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Headline = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Large = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Medium = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Menu = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Small = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Subhead = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ScheduleV5.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ScheduleV5.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ScheduleV5.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::ScheduleV5.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_CompactMenu = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_DayNight = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Light_Dialog = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Theme_AppCompat_NoActionBar = global::ScheduleV5.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.ThemeOverlay_AppCompat = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.ThemeOverlay_AppCompat_Dark = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.ThemeOverlay_AppCompat_Light = global::ScheduleV5.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionButton = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActionMode = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ActivityChooserView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Button = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Button_Borderless = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Button_Colored = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Button_Small = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ButtonBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_EditText = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ImageButton = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionButton = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_SearchView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ListMenuView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ListPopupWindow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ListView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ListView_DropDown = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ListView_Menu = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_PopupMenu = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_PopupWindow = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ProgressBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_RatingBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_RatingBar_Small = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_SearchView = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_SeekBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Spinner = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Toolbar = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::ScheduleV5.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar = global::ScheduleV5.Droid.Resource.Styleable.ActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_background = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_background;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_backgroundSplit = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_backgroundStacked = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_contentInsetEnd = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_contentInsetLeft = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_contentInsetRight = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_contentInsetStart = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_customNavigationLayout = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_displayOptions = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_divider = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_divider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_elevation = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_elevation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_height = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_height;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_hideOnContentScroll = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_homeAsUpIndicator = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_homeLayout = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_icon = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_icon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_itemPadding = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_logo = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_logo;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_navigationMode = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_popupTheme = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_progressBarPadding = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_progressBarStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_subtitle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_subtitleTextStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_title = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBar_titleTextStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBarLayout = global::ScheduleV5.Droid.Resource.Styleable.ActionBarLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::ScheduleV5.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMenuItemView = global::ScheduleV5.Droid.Resource.Styleable.ActionMenuItemView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMenuItemView_android_minWidth = global::ScheduleV5.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMenuView = global::ScheduleV5.Droid.Resource.Styleable.ActionMenuView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMode = global::ScheduleV5.Droid.Resource.Styleable.ActionMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMode_background = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_background;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMode_backgroundSplit = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMode_closeItemLayout = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMode_height = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_height;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMode_subtitleTextStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActionMode_titleTextStyle = global::ScheduleV5.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActivityChooserView = global::ScheduleV5.Droid.Resource.Styleable.ActivityChooserView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::ScheduleV5.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ActivityChooserView_initialActivityCount = global::ScheduleV5.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AlertDialog = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AlertDialog_android_layout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AlertDialog_listItemLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AlertDialog_listLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AlertDialog_showTitle = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_showTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::ScheduleV5.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatImageView = global::ScheduleV5.Droid.Resource.Styleable.AppCompatImageView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatImageView_android_src = global::ScheduleV5.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatImageView_srcCompat = global::ScheduleV5.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatImageView_tint = global::ScheduleV5.Droid.Resource.Styleable.AppCompatImageView_tint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatImageView_tintMode = global::ScheduleV5.Droid.Resource.Styleable.AppCompatImageView_tintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatSeekBar = global::ScheduleV5.Droid.Resource.Styleable.AppCompatSeekBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatSeekBar_android_thumb = global::ScheduleV5.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatSeekBar_tickMark = global::ScheduleV5.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::ScheduleV5.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::ScheduleV5.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextHelper = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextHelper;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextView = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextView_android_textAppearance = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTextView_textAllCaps = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarDivider = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarSize = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_buttonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_checkboxStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorAccent = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorControlActivated = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorControlNormal = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorPrimary = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_controlBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_dialogTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_dividerVertical = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_editTextBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_editTextColor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_editTextStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_panelBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_searchViewStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_seekBarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_spinnerStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_switchStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_toolbarStyle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowActionBar = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.AppCompatTheme_windowNoTitle = global::ScheduleV5.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ButtonBarLayout = global::ScheduleV5.Droid.Resource.Styleable.ButtonBarLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ButtonBarLayout_allowStacking = global::ScheduleV5.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ColorStateListItem = global::ScheduleV5.Droid.Resource.Styleable.ColorStateListItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ColorStateListItem_alpha = global::ScheduleV5.Droid.Resource.Styleable.ColorStateListItem_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ColorStateListItem_android_alpha = global::ScheduleV5.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ColorStateListItem_android_color = global::ScheduleV5.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.CompoundButton = global::ScheduleV5.Droid.Resource.Styleable.CompoundButton;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.CompoundButton_android_button = global::ScheduleV5.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.CompoundButton_buttonTint = global::ScheduleV5.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.CompoundButton_buttonTintMode = global::ScheduleV5.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawableStates = global::ScheduleV5.Droid.Resource.Styleable.DrawableStates;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawableStates_state_indeterminate = global::ScheduleV5.Droid.Resource.Styleable.DrawableStates_state_indeterminate;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle_barLength = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle_color = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle_drawableSize = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle_spinBars = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.DrawerArrowToggle_thickness = global::ScheduleV5.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_android_gravity = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_android_orientation = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_divider = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_showDividers = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_Layout = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::ScheduleV5.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ListPopupWindow = global::ScheduleV5.Droid.Resource.Styleable.ListPopupWindow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::ScheduleV5.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::ScheduleV5.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuGroup = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuGroup_android_checkableBehavior = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuGroup_android_enabled = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuGroup_android_id = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuGroup_android_menuCategory = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuGroup_android_orderInCategory = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuGroup_android_visible = global::ScheduleV5.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem = global::ScheduleV5.Droid.Resource.Styleable.MenuItem;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_actionLayout = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_actionProviderClass = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_actionViewClass = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_checkable = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_checked = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_enabled = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_icon = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_id = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_id;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_menuCategory = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_numericShortcut = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_onClick = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_orderInCategory = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_title = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_titleCondensed = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_android_visible = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuItem_showAsAction = global::ScheduleV5.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView = global::ScheduleV5.Droid.Resource.Styleable.MenuView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_android_headerBackground = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_android_horizontalDivider = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_android_itemBackground = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_android_itemTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_android_verticalDivider = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_android_windowAnimationStyle = global::ScheduleV5.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_preserveIconSpacing = global::ScheduleV5.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.MenuView_subMenuArrow = global::ScheduleV5.Droid.Resource.Styleable.MenuView_subMenuArrow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.PopupWindow = global::ScheduleV5.Droid.Resource.Styleable.PopupWindow;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::ScheduleV5.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.PopupWindow_android_popupBackground = global::ScheduleV5.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.PopupWindow_overlapAnchor = global::ScheduleV5.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.PopupWindowBackgroundState = global::ScheduleV5.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::ScheduleV5.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.RecycleListView = global::ScheduleV5.Droid.Resource.Styleable.RecycleListView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::ScheduleV5.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::ScheduleV5.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView = global::ScheduleV5.Droid.Resource.Styleable.SearchView;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_android_focusable = global::ScheduleV5.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_android_imeOptions = global::ScheduleV5.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_android_inputType = global::ScheduleV5.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_android_maxWidth = global::ScheduleV5.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_closeIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_commitIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_defaultQueryHint = global::ScheduleV5.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_goIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_goIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_iconifiedByDefault = global::ScheduleV5.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_layout = global::ScheduleV5.Droid.Resource.Styleable.SearchView_layout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_queryBackground = global::ScheduleV5.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_queryHint = global::ScheduleV5.Droid.Resource.Styleable.SearchView_queryHint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_searchHintIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_searchIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_submitBackground = global::ScheduleV5.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_suggestionRowLayout = global::ScheduleV5.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SearchView_voiceIcon = global::ScheduleV5.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfCheckBox = global::ScheduleV5.Droid.Resource.Styleable.SfCheckBox;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfCheckBox_checked = global::ScheduleV5.Droid.Resource.Styleable.SfCheckBox_checked;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfCheckBox_cornerradius = global::ScheduleV5.Droid.Resource.Styleable.SfCheckBox_cornerradius;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfCheckBox_isthreestate = global::ScheduleV5.Droid.Resource.Styleable.SfCheckBox_isthreestate;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_allowNull = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_allowNull;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_borderColor = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_borderColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_culture = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_culture;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_enableGroupSeparator = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_enableGroupSeparator;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_fontSize = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_fontSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_maximumDecimalDigits = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_maximumDecimalDigits;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_numberFormat = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_numberFormat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_numericTextBoxValue = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_numericTextBoxValue;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_parsingMode = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_parsingMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_percentDisplayMode = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_percentDisplayMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_selectAllOnFocus = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_selectAllOnFocus;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_valueChangeMode = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_valueChangeMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_watermark = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_watermark;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfNumericTextBox_watermarkColor = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_watermarkColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentBackColor = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentBackColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentBorderColor = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentBorderColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentBorderThickness = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentBorderThickness;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentColor = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentCornerRadius = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentCornerRadius;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentDisplayMode = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentDisplayMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentPosition = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentPosition;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentSelectedIndex = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentSelectedIndex;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentStrokeThickness = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentStrokeThickness;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentedHeight = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentedHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentedPadding = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentedPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SfSegmentedControl_segmentedWidth = global::ScheduleV5.Droid.Resource.Styleable.SfSegmentedControl_segmentedWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Spinner = global::ScheduleV5.Droid.Resource.Styleable.Spinner;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Spinner_android_dropDownWidth = global::ScheduleV5.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Spinner_android_entries = global::ScheduleV5.Droid.Resource.Styleable.Spinner_android_entries;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Spinner_android_popupBackground = global::ScheduleV5.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Spinner_android_prompt = global::ScheduleV5.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Spinner_popupTheme = global::ScheduleV5.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_android_textOff = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_android_textOn = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_android_thumb = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_showText = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_splitTrack = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_switchMinWidth = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_switchPadding = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_switchTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_thumbTextPadding = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_thumbTint = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_thumbTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_thumbTintMode = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_track = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_track;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_trackTint = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_trackTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.SwitchCompat_trackTintMode = global::ScheduleV5.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_shadowColor = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_shadowDx = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_shadowDy = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_shadowRadius = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_textColor = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_textColorHint = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_textSize = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_textStyle = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_android_typeface = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.TextAppearance_textAllCaps = global::ScheduleV5.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar = global::ScheduleV5.Droid.Resource.Styleable.Toolbar;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_android_gravity = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_android_minHeight = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_buttonGravity = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_buttonGravity;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_collapseContentDescription = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_collapseIcon = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_contentInsetEnd = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_contentInsetLeft = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_contentInsetRight = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_contentInsetStart = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_logo = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_logo;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_logoDescription = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_maxButtonHeight = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_navigationContentDescription = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_navigationIcon = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_popupTheme = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_subtitle = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_subtitleTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_subtitleTextColor = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_title = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_title;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_titleMargin = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMargin;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_titleMarginBottom = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_titleMarginEnd = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_titleMarginStart = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_titleMarginTop = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_titleMargins = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_titleTextAppearance = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.Toolbar_titleTextColor = global::ScheduleV5.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.View = global::ScheduleV5.Droid.Resource.Styleable.View;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.View_android_focusable = global::ScheduleV5.Droid.Resource.Styleable.View_android_focusable;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.View_android_theme = global::ScheduleV5.Droid.Resource.Styleable.View_android_theme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.View_paddingEnd = global::ScheduleV5.Droid.Resource.Styleable.View_paddingEnd;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.View_paddingStart = global::ScheduleV5.Droid.Resource.Styleable.View_paddingStart;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.View_theme = global::ScheduleV5.Droid.Resource.Styleable.View_theme;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ViewBackgroundHelper = global::ScheduleV5.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ViewBackgroundHelper_android_background = global::ScheduleV5.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::ScheduleV5.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::ScheduleV5.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ViewStubCompat = global::ScheduleV5.Droid.Resource.Styleable.ViewStubCompat;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ViewStubCompat_android_id = global::ScheduleV5.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ScheduleV5.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::Syncfusion.XForms.Android.DataForm.Resource.Styleable.ViewStubCompat_android_layout = global::ScheduleV5.Droid.Resource.Styleable.ViewStubCompat_android_layout;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.allowNull = global::ScheduleV5.Droid.Resource.Attribute.allowNull;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.borderColor = global::ScheduleV5.Droid.Resource.Attribute.borderColor;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.culture = global::ScheduleV5.Droid.Resource.Attribute.culture;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.enableGroupSeparator = global::ScheduleV5.Droid.Resource.Attribute.enableGroupSeparator;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.fontSize = global::ScheduleV5.Droid.Resource.Attribute.fontSize;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.maximumDecimalDigits = global::ScheduleV5.Droid.Resource.Attribute.maximumDecimalDigits;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.numberFormat = global::ScheduleV5.Droid.Resource.Attribute.numberFormat;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.numericTextBoxValue = global::ScheduleV5.Droid.Resource.Attribute.numericTextBoxValue;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.parsingMode = global::ScheduleV5.Droid.Resource.Attribute.parsingMode;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.percentDisplayMode = global::ScheduleV5.Droid.Resource.Attribute.percentDisplayMode;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.selectAllOnFocus = global::ScheduleV5.Droid.Resource.Attribute.selectAllOnFocus;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.valueChangeMode = global::ScheduleV5.Droid.Resource.Attribute.valueChangeMode;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.watermark = global::ScheduleV5.Droid.Resource.Attribute.watermark;
-			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.watermarkColor = global::ScheduleV5.Droid.Resource.Attribute.watermarkColor;
-			global::Com.Syncfusion.Numerictextbox.Resource.Id.compute = global::ScheduleV5.Droid.Resource.Id.compute;
-			global::Com.Syncfusion.Numerictextbox.Resource.Id.decimalMode = global::ScheduleV5.Droid.Resource.Id.decimalMode;
-			global::Com.Syncfusion.Numerictextbox.Resource.Id.doubleMode = global::ScheduleV5.Droid.Resource.Id.doubleMode;
-			global::Com.Syncfusion.Numerictextbox.Resource.Id.onKeyFocus = global::ScheduleV5.Droid.Resource.Id.onKeyFocus;
-			global::Com.Syncfusion.Numerictextbox.Resource.Id.onLostFocus = global::ScheduleV5.Droid.Resource.Id.onLostFocus;
-			global::Com.Syncfusion.Numerictextbox.Resource.Id.value = global::ScheduleV5.Droid.Resource.Id.value;
-			global::Com.Syncfusion.Numerictextbox.Resource.String.library_name = global::ScheduleV5.Droid.Resource.String.library_name;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_allowNull = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_allowNull;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_borderColor = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_borderColor;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_culture = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_culture;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_enableGroupSeparator = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_enableGroupSeparator;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_fontSize = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_fontSize;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_maximumDecimalDigits = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_maximumDecimalDigits;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_numberFormat = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_numberFormat;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_numericTextBoxValue = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_numericTextBoxValue;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_parsingMode = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_parsingMode;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_percentDisplayMode = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_percentDisplayMode;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_selectAllOnFocus = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_selectAllOnFocus;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_valueChangeMode = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_valueChangeMode;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_watermark = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_watermark;
-			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_watermarkColor = global::ScheduleV5.Droid.Resource.Styleable.SfNumericTextBox_watermarkColor;
-			global::Com.Syncfusion.Numericupdown.Resource.String.library_name = global::ScheduleV5.Droid.Resource.String.library_name;
 			global::Com.Syncfusion.Schedule.Resource.Attribute.allowAppointmentDrag = global::ScheduleV5.Droid.Resource.Attribute.allowAppointmentDrag;
 			global::Com.Syncfusion.Schedule.Resource.Attribute.enableNavigation = global::ScheduleV5.Droid.Resource.Attribute.enableNavigation;
 			global::Com.Syncfusion.Schedule.Resource.Attribute.scheduleDateHeaderFormat = global::ScheduleV5.Droid.Resource.Attribute.scheduleDateHeaderFormat;
@@ -2998,73 +110,22 @@ namespace ScheduleV5.Droid
 			public const int abc_slide_out_top = 2131034121;
 			
 			// aapt resource value: 0x7f05000a
-			public const int btn_checkbox_indeterminate_to_checked_box_inner_merged_animation = 2131034122;
+			public const int design_bottom_sheet_slide_in = 2131034122;
 			
 			// aapt resource value: 0x7f05000b
-			public const int btn_checkbox_indeterminate_to_checked_box_outer_merged_animation = 2131034123;
+			public const int design_bottom_sheet_slide_out = 2131034123;
 			
 			// aapt resource value: 0x7f05000c
-			public const int btn_checkbox_indeterminate_to_checked_icon_null_animation = 2131034124;
+			public const int design_snackbar_in = 2131034124;
 			
 			// aapt resource value: 0x7f05000d
-			public const int btn_checkbox_to_checked_box_inner_merged_animation = 2131034125;
+			public const int design_snackbar_out = 2131034125;
 			
 			// aapt resource value: 0x7f05000e
-			public const int btn_checkbox_to_checked_box_outer_merged_animation = 2131034126;
+			public const int tooltip_enter = 2131034126;
 			
 			// aapt resource value: 0x7f05000f
-			public const int btn_checkbox_to_checked_icon_null_animation = 2131034127;
-			
-			// aapt resource value: 0x7f050010
-			public const int btn_checkbox_to_indeterminate_from_checked_box_inner_merged_animation = 2131034128;
-			
-			// aapt resource value: 0x7f050011
-			public const int btn_checkbox_to_indeterminate_from_checked_icon_null_animation = 2131034129;
-			
-			// aapt resource value: 0x7f050012
-			public const int btn_checkbox_to_indeterminate_from_unchecked_box_inner_merged_animation = 2131034130;
-			
-			// aapt resource value: 0x7f050013
-			public const int btn_checkbox_to_indeterminate_from_unchecked_box_outer_merged_animation = 2131034131;
-			
-			// aapt resource value: 0x7f050014
-			public const int btn_checkbox_to_indeterminate_from_unchecked_icon_null_animation = 2131034132;
-			
-			// aapt resource value: 0x7f050015
-			public const int btn_checkbox_to_unchecked_box_inner_merged_animation = 2131034133;
-			
-			// aapt resource value: 0x7f050016
-			public const int btn_checkbox_to_unchecked_check_path_merged_animation = 2131034134;
-			
-			// aapt resource value: 0x7f050017
-			public const int btn_checkbox_to_unchecked_from_indeterminate_box_inner_merged_animation = 2131034135;
-			
-			// aapt resource value: 0x7f050018
-			public const int btn_checkbox_to_unchecked_from_indeterminate_check_path_merged_animation = 2131034136;
-			
-			// aapt resource value: 0x7f050019
-			public const int btn_checkbox_to_unchecked_from_indeterminate_icon_null_animation = 2131034137;
-			
-			// aapt resource value: 0x7f05001a
-			public const int btn_checkbox_to_unchecked_icon_null_animation = 2131034138;
-			
-			// aapt resource value: 0x7f05001b
-			public const int design_bottom_sheet_slide_in = 2131034139;
-			
-			// aapt resource value: 0x7f05001c
-			public const int design_bottom_sheet_slide_out = 2131034140;
-			
-			// aapt resource value: 0x7f05001d
-			public const int design_snackbar_in = 2131034141;
-			
-			// aapt resource value: 0x7f05001e
-			public const int design_snackbar_out = 2131034142;
-			
-			// aapt resource value: 0x7f05001f
-			public const int tooltip_enter = 2131034143;
-			
-			// aapt resource value: 0x7f050020
-			public const int tooltip_exit = 2131034144;
+			public const int tooltip_exit = 2131034127;
 			
 			static Animation()
 			{
@@ -3212,9 +273,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f01017a
 			public const int allowAppointmentDrag = 2130772346;
 			
-			// aapt resource value: 0x7f010186
-			public const int allowNull = 2130772358;
-			
 			// aapt resource value: 0x7f0100cb
 			public const int allowStacking = 2130772171;
 			
@@ -3281,9 +339,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f01011f
 			public const int behavior_skipCollapsed = 2130772255;
 			
-			// aapt resource value: 0x7f010187
-			public const int borderColor = 2130772359;
-			
 			// aapt resource value: 0x7f01013f
 			public const int borderWidth = 2130772287;
 			
@@ -3349,9 +404,6 @@ namespace ScheduleV5.Droid
 			
 			// aapt resource value: 0x7f0100bd
 			public const int checkboxStyle = 2130772157;
-			
-			// aapt resource value: 0x7f01018e
-			public const int @checked = 2130772366;
 			
 			// aapt resource value: 0x7f0100be
 			public const int checkedTextViewStyle = 2130772158;
@@ -3452,9 +504,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f0100b0
 			public const int controlBackground = 2130772144;
 			
-			// aapt resource value: 0x7f01018d
-			public const int cornerradius = 2130772365;
-			
 			// aapt resource value: 0x7f010160
 			public const int counterEnabled = 2130772320;
 			
@@ -3466,9 +515,6 @@ namespace ScheduleV5.Droid
 			
 			// aapt resource value: 0x7f010162
 			public const int counterTextAppearance = 2130772322;
-			
-			// aapt resource value: 0x7f010189
-			public const int culture = 2130772361;
 			
 			// aapt resource value: 0x7f010031
 			public const int customNavigationLayout = 2130772017;
@@ -3520,9 +566,6 @@ namespace ScheduleV5.Droid
 			
 			// aapt resource value: 0x7f01003e
 			public const int elevation = 2130772030;
-			
-			// aapt resource value: 0x7f010180
-			public const int enableGroupSeparator = 2130772352;
 			
 			// aapt resource value: 0x7f010178
 			public const int enableNavigation = 2130772344;
@@ -3605,9 +648,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f01016c
 			public const int fontProviderQuery = 2130772332;
 			
-			// aapt resource value: 0x7f010185
-			public const int fontSize = 2130772357;
-			
 			// aapt resource value: 0x7f010170
 			public const int fontStyle = 2130772336;
 			
@@ -3673,9 +713,6 @@ namespace ScheduleV5.Droid
 			
 			// aapt resource value: 0x7f010024
 			public const int isLightTheme = 2130772004;
-			
-			// aapt resource value: 0x7f01018c
-			public const int isthreestate = 2130772364;
 			
 			// aapt resource value: 0x7f010146
 			public const int itemBackground = 2130772294;
@@ -3776,9 +813,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f01010a
 			public const int maxButtonHeight = 2130772234;
 			
-			// aapt resource value: 0x7f010183
-			public const int maximumDecimalDigits = 2130772355;
-			
 			// aapt resource value: 0x7f0100d7
 			public const int measureWithLargestChild = 2130772183;
 			
@@ -3836,14 +870,8 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f010026
 			public const int navigationMode = 2130772006;
 			
-			// aapt resource value: 0x7f010181
-			public const int numberFormat = 2130772353;
-			
 			// aapt resource value: 0x7f0100db
 			public const int numericModifiers = 2130772187;
-			
-			// aapt resource value: 0x7f01018a
-			public const int numericTextBoxValue = 2130772362;
 			
 			// aapt resource value: 0x7f0100e6
 			public const int overlapAnchor = 2130772198;
@@ -3869,9 +897,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f0100a5
 			public const int panelMenuListWidth = 2130772133;
 			
-			// aapt resource value: 0x7f01017d
-			public const int parsingMode = 2130772349;
-			
 			// aapt resource value: 0x7f010167
 			public const int passwordToggleContentDescription = 2130772327;
 			
@@ -3886,9 +911,6 @@ namespace ScheduleV5.Droid
 			
 			// aapt resource value: 0x7f010169
 			public const int passwordToggleTintMode = 2130772329;
-			
-			// aapt resource value: 0x7f01017e
-			public const int percentDisplayMode = 2130772350;
 			
 			// aapt resource value: 0x7f010091
 			public const int popupMenuStyle = 2130772113;
@@ -3965,45 +987,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f0100c4
 			public const int seekBarStyle = 2130772164;
 			
-			// aapt resource value: 0x7f010190
-			public const int segmentBackColor = 2130772368;
-			
-			// aapt resource value: 0x7f010191
-			public const int segmentBorderColor = 2130772369;
-			
-			// aapt resource value: 0x7f010192
-			public const int segmentBorderThickness = 2130772370;
-			
-			// aapt resource value: 0x7f010193
-			public const int segmentColor = 2130772371;
-			
-			// aapt resource value: 0x7f010198
-			public const int segmentCornerRadius = 2130772376;
-			
-			// aapt resource value: 0x7f01019a
-			public const int segmentDisplayMode = 2130772378;
-			
-			// aapt resource value: 0x7f010199
-			public const int segmentPosition = 2130772377;
-			
-			// aapt resource value: 0x7f01018f
-			public const int segmentSelectedIndex = 2130772367;
-			
-			// aapt resource value: 0x7f010197
-			public const int segmentStrokeThickness = 2130772375;
-			
-			// aapt resource value: 0x7f010195
-			public const int segmentedHeight = 2130772373;
-			
-			// aapt resource value: 0x7f010194
-			public const int segmentedPadding = 2130772372;
-			
-			// aapt resource value: 0x7f010196
-			public const int segmentedWidth = 2130772374;
-			
-			// aapt resource value: 0x7f010184
-			public const int selectAllOnFocus = 2130772356;
-			
 			// aapt resource value: 0x7f010089
 			public const int selectableItemBackground = 2130772105;
 			
@@ -4054,9 +1037,6 @@ namespace ScheduleV5.Droid
 			
 			// aapt resource value: 0x7f01011a
 			public const int state_collapsible = 2130772250;
-			
-			// aapt resource value: 0x7f01018b
-			public const int state_indeterminate = 2130772363;
 			
 			// aapt resource value: 0x7f010132
 			public const int statusBarBackground = 2130772274;
@@ -4283,20 +1263,11 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f010140
 			public const int useCompatPadding = 2130772288;
 			
-			// aapt resource value: 0x7f01017f
-			public const int valueChangeMode = 2130772351;
-			
 			// aapt resource value: 0x7f010177
 			public const int viewHeaderHeight = 2130772343;
 			
 			// aapt resource value: 0x7f0100f2
 			public const int voiceIcon = 2130772210;
-			
-			// aapt resource value: 0x7f010182
-			public const int watermark = 2130772354;
-			
-			// aapt resource value: 0x7f010188
-			public const int watermarkColor = 2130772360;
 			
 			// aapt resource value: 0x7f010056
 			public const int windowActionBar = 2130772054;
@@ -4504,14 +1475,11 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f0d004d
 			public const int colorPrimaryDark = 2131558477;
 			
-			// aapt resource value: 0x7f0d0063
-			public const int control_checkable_material = 2131558499;
-			
 			// aapt resource value: 0x7f0d0040
 			public const int design_bottom_navigation_shadow_color = 2131558464;
 			
-			// aapt resource value: 0x7f0d0064
-			public const int design_error = 2131558500;
+			// aapt resource value: 0x7f0d0063
+			public const int design_error = 2131558499;
 			
 			// aapt resource value: 0x7f0d0041
 			public const int design_fab_shadow_end_color = 2131558465;
@@ -4537,8 +1505,8 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f0d0048
 			public const int design_snackbar_background_color = 2131558472;
 			
-			// aapt resource value: 0x7f0d0065
-			public const int design_tint_password_toggle = 2131558501;
+			// aapt resource value: 0x7f0d0064
+			public const int design_tint_password_toggle = 2131558500;
 			
 			// aapt resource value: 0x7f0d0016
 			public const int dim_foreground_disabled_material_dark = 2131558422;
@@ -4663,11 +1631,11 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f0d003a
 			public const int switch_thumb_disabled_material_light = 2131558458;
 			
-			// aapt resource value: 0x7f0d0066
-			public const int switch_thumb_material_dark = 2131558502;
+			// aapt resource value: 0x7f0d0065
+			public const int switch_thumb_material_dark = 2131558501;
 			
-			// aapt resource value: 0x7f0d0067
-			public const int switch_thumb_material_light = 2131558503;
+			// aapt resource value: 0x7f0d0066
+			public const int switch_thumb_material_light = 2131558502;
 			
 			// aapt resource value: 0x7f0d003b
 			public const int switch_thumb_normal_material_dark = 2131558459;
@@ -5065,9 +2033,6 @@ namespace ScheduleV5.Droid
 			
 			// aapt resource value: 0x7f08008f
 			public const int design_tab_text_size_2line = 2131230863;
-			
-			// aapt resource value: 0x7f0800ac
-			public const int disabledAlpha = 2131230892;
 			
 			// aapt resource value: 0x7f080059
 			public const int disabled_alpha_material_dark = 2131230809;
@@ -5484,731 +2449,692 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f020055
 			public const int avd_hide_password = 2130837589;
 			
-			// aapt resource value: 0x7f020142
-			public const int avd_hide_password_1 = 2130837826;
+			// aapt resource value: 0x7f020135
+			public const int avd_hide_password_1 = 2130837813;
 			
-			// aapt resource value: 0x7f020143
-			public const int avd_hide_password_2 = 2130837827;
+			// aapt resource value: 0x7f020136
+			public const int avd_hide_password_2 = 2130837814;
 			
-			// aapt resource value: 0x7f020144
-			public const int avd_hide_password_3 = 2130837828;
+			// aapt resource value: 0x7f020137
+			public const int avd_hide_password_3 = 2130837815;
 			
 			// aapt resource value: 0x7f020056
 			public const int avd_show_password = 2130837590;
 			
-			// aapt resource value: 0x7f020145
-			public const int avd_show_password_1 = 2130837829;
-			
-			// aapt resource value: 0x7f020146
-			public const int avd_show_password_2 = 2130837830;
-			
-			// aapt resource value: 0x7f020147
-			public const int avd_show_password_3 = 2130837831;
-			
-			// aapt resource value: 0x7f020057
-			public const int btn_checkbox = 2130837591;
-			
-			// aapt resource value: 0x7f020058
-			public const int btn_checkbox_checked = 2130837592;
-			
-			// aapt resource value: 0x7f020059
-			public const int btn_checkbox_checked_to_indeterminate_animation = 2130837593;
-			
-			// aapt resource value: 0x7f02005a
-			public const int btn_checkbox_checked_to_unchecked_animation = 2130837594;
-			
-			// aapt resource value: 0x7f02005b
-			public const int btn_checkbox_indeterminate = 2130837595;
-			
-			// aapt resource value: 0x7f02005c
-			public const int btn_checkbox_indeterminate_to_checked_animation = 2130837596;
-			
-			// aapt resource value: 0x7f02005d
-			public const int btn_checkbox_indeterminate_to_unchecked_animation = 2130837597;
-			
-			// aapt resource value: 0x7f02005e
-			public const int btn_checkbox_unchecked = 2130837598;
-			
-			// aapt resource value: 0x7f02005f
-			public const int btn_checkbox_unchecked_to_checked_animation = 2130837599;
-			
-			// aapt resource value: 0x7f020060
-			public const int btn_checkbox_unchecked_to_indeterminate_animation = 2130837600;
-			
-			// aapt resource value: 0x7f020061
-			public const int design_bottom_navigation_item_background = 2130837601;
-			
-			// aapt resource value: 0x7f020062
-			public const int design_fab_background = 2130837602;
-			
-			// aapt resource value: 0x7f020063
-			public const int design_ic_visibility = 2130837603;
-			
-			// aapt resource value: 0x7f020064
-			public const int design_ic_visibility_off = 2130837604;
-			
-			// aapt resource value: 0x7f020065
-			public const int design_password_eye = 2130837605;
-			
-			// aapt resource value: 0x7f020066
-			public const int design_snackbar_background = 2130837606;
-			
-			// aapt resource value: 0x7f020067
-			public const int dropdownbuttonimage = 2130837607;
-			
-			// aapt resource value: 0x7f020068
-			public const int GroupCollapse = 2130837608;
-			
-			// aapt resource value: 0x7f020069
-			public const int GroupExpander = 2130837609;
-			
-			// aapt resource value: 0x7f02006a
-			public const int ic_audiotrack_dark = 2130837610;
-			
-			// aapt resource value: 0x7f02006b
-			public const int ic_audiotrack_light = 2130837611;
-			
-			// aapt resource value: 0x7f02006c
-			public const int ic_dialog_close_dark = 2130837612;
-			
-			// aapt resource value: 0x7f02006d
-			public const int ic_dialog_close_light = 2130837613;
-			
-			// aapt resource value: 0x7f02006e
-			public const int ic_group_collapse_00 = 2130837614;
-			
-			// aapt resource value: 0x7f02006f
-			public const int ic_group_collapse_01 = 2130837615;
-			
-			// aapt resource value: 0x7f020070
-			public const int ic_group_collapse_02 = 2130837616;
-			
-			// aapt resource value: 0x7f020071
-			public const int ic_group_collapse_03 = 2130837617;
-			
-			// aapt resource value: 0x7f020072
-			public const int ic_group_collapse_04 = 2130837618;
-			
-			// aapt resource value: 0x7f020073
-			public const int ic_group_collapse_05 = 2130837619;
-			
-			// aapt resource value: 0x7f020074
-			public const int ic_group_collapse_06 = 2130837620;
-			
-			// aapt resource value: 0x7f020075
-			public const int ic_group_collapse_07 = 2130837621;
-			
-			// aapt resource value: 0x7f020076
-			public const int ic_group_collapse_08 = 2130837622;
-			
-			// aapt resource value: 0x7f020077
-			public const int ic_group_collapse_09 = 2130837623;
-			
-			// aapt resource value: 0x7f020078
-			public const int ic_group_collapse_10 = 2130837624;
-			
-			// aapt resource value: 0x7f020079
-			public const int ic_group_collapse_11 = 2130837625;
-			
-			// aapt resource value: 0x7f02007a
-			public const int ic_group_collapse_12 = 2130837626;
-			
-			// aapt resource value: 0x7f02007b
-			public const int ic_group_collapse_13 = 2130837627;
-			
-			// aapt resource value: 0x7f02007c
-			public const int ic_group_collapse_14 = 2130837628;
-			
-			// aapt resource value: 0x7f02007d
-			public const int ic_group_collapse_15 = 2130837629;
-			
-			// aapt resource value: 0x7f02007e
-			public const int ic_group_expand_00 = 2130837630;
-			
-			// aapt resource value: 0x7f02007f
-			public const int ic_group_expand_01 = 2130837631;
-			
-			// aapt resource value: 0x7f020080
-			public const int ic_group_expand_02 = 2130837632;
-			
-			// aapt resource value: 0x7f020081
-			public const int ic_group_expand_03 = 2130837633;
-			
-			// aapt resource value: 0x7f020082
-			public const int ic_group_expand_04 = 2130837634;
-			
-			// aapt resource value: 0x7f020083
-			public const int ic_group_expand_05 = 2130837635;
-			
-			// aapt resource value: 0x7f020084
-			public const int ic_group_expand_06 = 2130837636;
-			
-			// aapt resource value: 0x7f020085
-			public const int ic_group_expand_07 = 2130837637;
-			
-			// aapt resource value: 0x7f020086
-			public const int ic_group_expand_08 = 2130837638;
-			
-			// aapt resource value: 0x7f020087
-			public const int ic_group_expand_09 = 2130837639;
-			
-			// aapt resource value: 0x7f020088
-			public const int ic_group_expand_10 = 2130837640;
-			
-			// aapt resource value: 0x7f020089
-			public const int ic_group_expand_11 = 2130837641;
-			
-			// aapt resource value: 0x7f02008a
-			public const int ic_group_expand_12 = 2130837642;
-			
-			// aapt resource value: 0x7f02008b
-			public const int ic_group_expand_13 = 2130837643;
-			
-			// aapt resource value: 0x7f02008c
-			public const int ic_group_expand_14 = 2130837644;
-			
-			// aapt resource value: 0x7f02008d
-			public const int ic_group_expand_15 = 2130837645;
-			
-			// aapt resource value: 0x7f02008e
-			public const int ic_media_pause_dark = 2130837646;
-			
-			// aapt resource value: 0x7f02008f
-			public const int ic_media_pause_light = 2130837647;
-			
-			// aapt resource value: 0x7f020090
-			public const int ic_media_play_dark = 2130837648;
-			
-			// aapt resource value: 0x7f020091
-			public const int ic_media_play_light = 2130837649;
-			
-			// aapt resource value: 0x7f020092
-			public const int ic_media_stop_dark = 2130837650;
-			
-			// aapt resource value: 0x7f020093
-			public const int ic_media_stop_light = 2130837651;
-			
-			// aapt resource value: 0x7f020094
-			public const int ic_mr_button_connected_00_dark = 2130837652;
-			
-			// aapt resource value: 0x7f020095
-			public const int ic_mr_button_connected_00_light = 2130837653;
-			
-			// aapt resource value: 0x7f020096
-			public const int ic_mr_button_connected_01_dark = 2130837654;
-			
-			// aapt resource value: 0x7f020097
-			public const int ic_mr_button_connected_01_light = 2130837655;
-			
-			// aapt resource value: 0x7f020098
-			public const int ic_mr_button_connected_02_dark = 2130837656;
-			
-			// aapt resource value: 0x7f020099
-			public const int ic_mr_button_connected_02_light = 2130837657;
-			
-			// aapt resource value: 0x7f02009a
-			public const int ic_mr_button_connected_03_dark = 2130837658;
-			
-			// aapt resource value: 0x7f02009b
-			public const int ic_mr_button_connected_03_light = 2130837659;
-			
-			// aapt resource value: 0x7f02009c
-			public const int ic_mr_button_connected_04_dark = 2130837660;
-			
-			// aapt resource value: 0x7f02009d
-			public const int ic_mr_button_connected_04_light = 2130837661;
-			
-			// aapt resource value: 0x7f02009e
-			public const int ic_mr_button_connected_05_dark = 2130837662;
-			
-			// aapt resource value: 0x7f02009f
-			public const int ic_mr_button_connected_05_light = 2130837663;
-			
-			// aapt resource value: 0x7f0200a0
-			public const int ic_mr_button_connected_06_dark = 2130837664;
-			
-			// aapt resource value: 0x7f0200a1
-			public const int ic_mr_button_connected_06_light = 2130837665;
-			
-			// aapt resource value: 0x7f0200a2
-			public const int ic_mr_button_connected_07_dark = 2130837666;
-			
-			// aapt resource value: 0x7f0200a3
-			public const int ic_mr_button_connected_07_light = 2130837667;
-			
-			// aapt resource value: 0x7f0200a4
-			public const int ic_mr_button_connected_08_dark = 2130837668;
-			
-			// aapt resource value: 0x7f0200a5
-			public const int ic_mr_button_connected_08_light = 2130837669;
-			
-			// aapt resource value: 0x7f0200a6
-			public const int ic_mr_button_connected_09_dark = 2130837670;
-			
-			// aapt resource value: 0x7f0200a7
-			public const int ic_mr_button_connected_09_light = 2130837671;
-			
-			// aapt resource value: 0x7f0200a8
-			public const int ic_mr_button_connected_10_dark = 2130837672;
-			
-			// aapt resource value: 0x7f0200a9
-			public const int ic_mr_button_connected_10_light = 2130837673;
-			
-			// aapt resource value: 0x7f0200aa
-			public const int ic_mr_button_connected_11_dark = 2130837674;
-			
-			// aapt resource value: 0x7f0200ab
-			public const int ic_mr_button_connected_11_light = 2130837675;
-			
-			// aapt resource value: 0x7f0200ac
-			public const int ic_mr_button_connected_12_dark = 2130837676;
-			
-			// aapt resource value: 0x7f0200ad
-			public const int ic_mr_button_connected_12_light = 2130837677;
-			
-			// aapt resource value: 0x7f0200ae
-			public const int ic_mr_button_connected_13_dark = 2130837678;
-			
-			// aapt resource value: 0x7f0200af
-			public const int ic_mr_button_connected_13_light = 2130837679;
-			
-			// aapt resource value: 0x7f0200b0
-			public const int ic_mr_button_connected_14_dark = 2130837680;
-			
-			// aapt resource value: 0x7f0200b1
-			public const int ic_mr_button_connected_14_light = 2130837681;
-			
-			// aapt resource value: 0x7f0200b2
-			public const int ic_mr_button_connected_15_dark = 2130837682;
-			
-			// aapt resource value: 0x7f0200b3
-			public const int ic_mr_button_connected_15_light = 2130837683;
-			
-			// aapt resource value: 0x7f0200b4
-			public const int ic_mr_button_connected_16_dark = 2130837684;
-			
-			// aapt resource value: 0x7f0200b5
-			public const int ic_mr_button_connected_16_light = 2130837685;
-			
-			// aapt resource value: 0x7f0200b6
-			public const int ic_mr_button_connected_17_dark = 2130837686;
-			
-			// aapt resource value: 0x7f0200b7
-			public const int ic_mr_button_connected_17_light = 2130837687;
-			
-			// aapt resource value: 0x7f0200b8
-			public const int ic_mr_button_connected_18_dark = 2130837688;
-			
-			// aapt resource value: 0x7f0200b9
-			public const int ic_mr_button_connected_18_light = 2130837689;
-			
-			// aapt resource value: 0x7f0200ba
-			public const int ic_mr_button_connected_19_dark = 2130837690;
-			
-			// aapt resource value: 0x7f0200bb
-			public const int ic_mr_button_connected_19_light = 2130837691;
-			
-			// aapt resource value: 0x7f0200bc
-			public const int ic_mr_button_connected_20_dark = 2130837692;
-			
-			// aapt resource value: 0x7f0200bd
-			public const int ic_mr_button_connected_20_light = 2130837693;
-			
-			// aapt resource value: 0x7f0200be
-			public const int ic_mr_button_connected_21_dark = 2130837694;
-			
-			// aapt resource value: 0x7f0200bf
-			public const int ic_mr_button_connected_21_light = 2130837695;
-			
-			// aapt resource value: 0x7f0200c0
-			public const int ic_mr_button_connected_22_dark = 2130837696;
-			
-			// aapt resource value: 0x7f0200c1
-			public const int ic_mr_button_connected_22_light = 2130837697;
-			
-			// aapt resource value: 0x7f0200c2
-			public const int ic_mr_button_connected_23_dark = 2130837698;
-			
-			// aapt resource value: 0x7f0200c3
-			public const int ic_mr_button_connected_23_light = 2130837699;
-			
-			// aapt resource value: 0x7f0200c4
-			public const int ic_mr_button_connected_24_dark = 2130837700;
-			
-			// aapt resource value: 0x7f0200c5
-			public const int ic_mr_button_connected_24_light = 2130837701;
-			
-			// aapt resource value: 0x7f0200c6
-			public const int ic_mr_button_connected_25_dark = 2130837702;
-			
-			// aapt resource value: 0x7f0200c7
-			public const int ic_mr_button_connected_25_light = 2130837703;
-			
-			// aapt resource value: 0x7f0200c8
-			public const int ic_mr_button_connected_26_dark = 2130837704;
-			
-			// aapt resource value: 0x7f0200c9
-			public const int ic_mr_button_connected_26_light = 2130837705;
-			
-			// aapt resource value: 0x7f0200ca
-			public const int ic_mr_button_connected_27_dark = 2130837706;
-			
-			// aapt resource value: 0x7f0200cb
-			public const int ic_mr_button_connected_27_light = 2130837707;
-			
-			// aapt resource value: 0x7f0200cc
-			public const int ic_mr_button_connected_28_dark = 2130837708;
-			
-			// aapt resource value: 0x7f0200cd
-			public const int ic_mr_button_connected_28_light = 2130837709;
-			
-			// aapt resource value: 0x7f0200ce
-			public const int ic_mr_button_connected_29_dark = 2130837710;
-			
-			// aapt resource value: 0x7f0200cf
-			public const int ic_mr_button_connected_29_light = 2130837711;
-			
-			// aapt resource value: 0x7f0200d0
-			public const int ic_mr_button_connected_30_dark = 2130837712;
-			
-			// aapt resource value: 0x7f0200d1
-			public const int ic_mr_button_connected_30_light = 2130837713;
-			
-			// aapt resource value: 0x7f0200d2
-			public const int ic_mr_button_connecting_00_dark = 2130837714;
-			
-			// aapt resource value: 0x7f0200d3
-			public const int ic_mr_button_connecting_00_light = 2130837715;
-			
-			// aapt resource value: 0x7f0200d4
-			public const int ic_mr_button_connecting_01_dark = 2130837716;
-			
-			// aapt resource value: 0x7f0200d5
-			public const int ic_mr_button_connecting_01_light = 2130837717;
-			
-			// aapt resource value: 0x7f0200d6
-			public const int ic_mr_button_connecting_02_dark = 2130837718;
-			
-			// aapt resource value: 0x7f0200d7
-			public const int ic_mr_button_connecting_02_light = 2130837719;
-			
-			// aapt resource value: 0x7f0200d8
-			public const int ic_mr_button_connecting_03_dark = 2130837720;
-			
-			// aapt resource value: 0x7f0200d9
-			public const int ic_mr_button_connecting_03_light = 2130837721;
-			
-			// aapt resource value: 0x7f0200da
-			public const int ic_mr_button_connecting_04_dark = 2130837722;
-			
-			// aapt resource value: 0x7f0200db
-			public const int ic_mr_button_connecting_04_light = 2130837723;
-			
-			// aapt resource value: 0x7f0200dc
-			public const int ic_mr_button_connecting_05_dark = 2130837724;
-			
-			// aapt resource value: 0x7f0200dd
-			public const int ic_mr_button_connecting_05_light = 2130837725;
-			
-			// aapt resource value: 0x7f0200de
-			public const int ic_mr_button_connecting_06_dark = 2130837726;
-			
-			// aapt resource value: 0x7f0200df
-			public const int ic_mr_button_connecting_06_light = 2130837727;
-			
-			// aapt resource value: 0x7f0200e0
-			public const int ic_mr_button_connecting_07_dark = 2130837728;
-			
-			// aapt resource value: 0x7f0200e1
-			public const int ic_mr_button_connecting_07_light = 2130837729;
-			
-			// aapt resource value: 0x7f0200e2
-			public const int ic_mr_button_connecting_08_dark = 2130837730;
-			
-			// aapt resource value: 0x7f0200e3
-			public const int ic_mr_button_connecting_08_light = 2130837731;
-			
-			// aapt resource value: 0x7f0200e4
-			public const int ic_mr_button_connecting_09_dark = 2130837732;
-			
-			// aapt resource value: 0x7f0200e5
-			public const int ic_mr_button_connecting_09_light = 2130837733;
-			
-			// aapt resource value: 0x7f0200e6
-			public const int ic_mr_button_connecting_10_dark = 2130837734;
-			
-			// aapt resource value: 0x7f0200e7
-			public const int ic_mr_button_connecting_10_light = 2130837735;
-			
-			// aapt resource value: 0x7f0200e8
-			public const int ic_mr_button_connecting_11_dark = 2130837736;
-			
-			// aapt resource value: 0x7f0200e9
-			public const int ic_mr_button_connecting_11_light = 2130837737;
-			
-			// aapt resource value: 0x7f0200ea
-			public const int ic_mr_button_connecting_12_dark = 2130837738;
-			
-			// aapt resource value: 0x7f0200eb
-			public const int ic_mr_button_connecting_12_light = 2130837739;
-			
-			// aapt resource value: 0x7f0200ec
-			public const int ic_mr_button_connecting_13_dark = 2130837740;
-			
-			// aapt resource value: 0x7f0200ed
-			public const int ic_mr_button_connecting_13_light = 2130837741;
-			
-			// aapt resource value: 0x7f0200ee
-			public const int ic_mr_button_connecting_14_dark = 2130837742;
-			
-			// aapt resource value: 0x7f0200ef
-			public const int ic_mr_button_connecting_14_light = 2130837743;
-			
-			// aapt resource value: 0x7f0200f0
-			public const int ic_mr_button_connecting_15_dark = 2130837744;
-			
-			// aapt resource value: 0x7f0200f1
-			public const int ic_mr_button_connecting_15_light = 2130837745;
-			
-			// aapt resource value: 0x7f0200f2
-			public const int ic_mr_button_connecting_16_dark = 2130837746;
-			
-			// aapt resource value: 0x7f0200f3
-			public const int ic_mr_button_connecting_16_light = 2130837747;
-			
-			// aapt resource value: 0x7f0200f4
-			public const int ic_mr_button_connecting_17_dark = 2130837748;
-			
-			// aapt resource value: 0x7f0200f5
-			public const int ic_mr_button_connecting_17_light = 2130837749;
-			
-			// aapt resource value: 0x7f0200f6
-			public const int ic_mr_button_connecting_18_dark = 2130837750;
-			
-			// aapt resource value: 0x7f0200f7
-			public const int ic_mr_button_connecting_18_light = 2130837751;
-			
-			// aapt resource value: 0x7f0200f8
-			public const int ic_mr_button_connecting_19_dark = 2130837752;
-			
-			// aapt resource value: 0x7f0200f9
-			public const int ic_mr_button_connecting_19_light = 2130837753;
-			
-			// aapt resource value: 0x7f0200fa
-			public const int ic_mr_button_connecting_20_dark = 2130837754;
-			
-			// aapt resource value: 0x7f0200fb
-			public const int ic_mr_button_connecting_20_light = 2130837755;
-			
-			// aapt resource value: 0x7f0200fc
-			public const int ic_mr_button_connecting_21_dark = 2130837756;
-			
-			// aapt resource value: 0x7f0200fd
-			public const int ic_mr_button_connecting_21_light = 2130837757;
-			
-			// aapt resource value: 0x7f0200fe
-			public const int ic_mr_button_connecting_22_dark = 2130837758;
-			
-			// aapt resource value: 0x7f0200ff
-			public const int ic_mr_button_connecting_22_light = 2130837759;
-			
-			// aapt resource value: 0x7f020100
-			public const int ic_mr_button_connecting_23_dark = 2130837760;
-			
-			// aapt resource value: 0x7f020101
-			public const int ic_mr_button_connecting_23_light = 2130837761;
-			
-			// aapt resource value: 0x7f020102
-			public const int ic_mr_button_connecting_24_dark = 2130837762;
-			
-			// aapt resource value: 0x7f020103
-			public const int ic_mr_button_connecting_24_light = 2130837763;
-			
-			// aapt resource value: 0x7f020104
-			public const int ic_mr_button_connecting_25_dark = 2130837764;
-			
-			// aapt resource value: 0x7f020105
-			public const int ic_mr_button_connecting_25_light = 2130837765;
-			
-			// aapt resource value: 0x7f020106
-			public const int ic_mr_button_connecting_26_dark = 2130837766;
-			
-			// aapt resource value: 0x7f020107
-			public const int ic_mr_button_connecting_26_light = 2130837767;
-			
-			// aapt resource value: 0x7f020108
-			public const int ic_mr_button_connecting_27_dark = 2130837768;
-			
-			// aapt resource value: 0x7f020109
-			public const int ic_mr_button_connecting_27_light = 2130837769;
-			
-			// aapt resource value: 0x7f02010a
-			public const int ic_mr_button_connecting_28_dark = 2130837770;
-			
-			// aapt resource value: 0x7f02010b
-			public const int ic_mr_button_connecting_28_light = 2130837771;
-			
-			// aapt resource value: 0x7f02010c
-			public const int ic_mr_button_connecting_29_dark = 2130837772;
-			
-			// aapt resource value: 0x7f02010d
-			public const int ic_mr_button_connecting_29_light = 2130837773;
-			
-			// aapt resource value: 0x7f02010e
-			public const int ic_mr_button_connecting_30_dark = 2130837774;
-			
-			// aapt resource value: 0x7f02010f
-			public const int ic_mr_button_connecting_30_light = 2130837775;
-			
-			// aapt resource value: 0x7f020110
-			public const int ic_mr_button_disabled_dark = 2130837776;
-			
-			// aapt resource value: 0x7f020111
-			public const int ic_mr_button_disabled_light = 2130837777;
-			
-			// aapt resource value: 0x7f020112
-			public const int ic_mr_button_disconnected_dark = 2130837778;
-			
-			// aapt resource value: 0x7f020113
-			public const int ic_mr_button_disconnected_light = 2130837779;
-			
-			// aapt resource value: 0x7f020114
-			public const int ic_mr_button_grey = 2130837780;
-			
-			// aapt resource value: 0x7f020115
-			public const int ic_vol_type_speaker_dark = 2130837781;
-			
-			// aapt resource value: 0x7f020116
-			public const int ic_vol_type_speaker_group_dark = 2130837782;
-			
-			// aapt resource value: 0x7f020117
-			public const int ic_vol_type_speaker_group_light = 2130837783;
-			
-			// aapt resource value: 0x7f020118
-			public const int ic_vol_type_speaker_light = 2130837784;
-			
-			// aapt resource value: 0x7f020119
-			public const int ic_vol_type_tv_dark = 2130837785;
-			
-			// aapt resource value: 0x7f02011a
-			public const int ic_vol_type_tv_light = 2130837786;
-			
-			// aapt resource value: 0x7f02011b
-			public const int Icon = 2130837787;
-			
-			// aapt resource value: 0x7f02011c
-			public const int inputlayout_togglecollapseicon = 2130837788;
-			
-			// aapt resource value: 0x7f02011d
-			public const int inputlayout_togglevisibleicon = 2130837789;
-			
-			// aapt resource value: 0x7f02011e
-			public const int mr_button_connected_dark = 2130837790;
-			
-			// aapt resource value: 0x7f02011f
-			public const int mr_button_connected_light = 2130837791;
-			
-			// aapt resource value: 0x7f020120
-			public const int mr_button_connecting_dark = 2130837792;
-			
-			// aapt resource value: 0x7f020121
-			public const int mr_button_connecting_light = 2130837793;
-			
-			// aapt resource value: 0x7f020122
-			public const int mr_button_dark = 2130837794;
-			
-			// aapt resource value: 0x7f020123
-			public const int mr_button_light = 2130837795;
-			
-			// aapt resource value: 0x7f020124
-			public const int mr_dialog_close_dark = 2130837796;
-			
-			// aapt resource value: 0x7f020125
-			public const int mr_dialog_close_light = 2130837797;
-			
-			// aapt resource value: 0x7f020126
-			public const int mr_dialog_material_background_dark = 2130837798;
-			
-			// aapt resource value: 0x7f020127
-			public const int mr_dialog_material_background_light = 2130837799;
-			
-			// aapt resource value: 0x7f020128
-			public const int mr_group_collapse = 2130837800;
-			
-			// aapt resource value: 0x7f020129
-			public const int mr_group_expand = 2130837801;
-			
-			// aapt resource value: 0x7f02012a
-			public const int mr_media_pause_dark = 2130837802;
-			
-			// aapt resource value: 0x7f02012b
-			public const int mr_media_pause_light = 2130837803;
-			
-			// aapt resource value: 0x7f02012c
-			public const int mr_media_play_dark = 2130837804;
-			
-			// aapt resource value: 0x7f02012d
-			public const int mr_media_play_light = 2130837805;
-			
-			// aapt resource value: 0x7f02012e
-			public const int mr_media_stop_dark = 2130837806;
-			
-			// aapt resource value: 0x7f02012f
-			public const int mr_media_stop_light = 2130837807;
-			
-			// aapt resource value: 0x7f020130
-			public const int mr_vol_type_audiotrack_dark = 2130837808;
-			
-			// aapt resource value: 0x7f020131
-			public const int mr_vol_type_audiotrack_light = 2130837809;
-			
-			// aapt resource value: 0x7f020132
-			public const int navigation_empty_icon = 2130837810;
-			
-			// aapt resource value: 0x7f020133
-			public const int notification_action_background = 2130837811;
-			
-			// aapt resource value: 0x7f020134
-			public const int notification_bg = 2130837812;
-			
-			// aapt resource value: 0x7f020135
-			public const int notification_bg_low = 2130837813;
-			
-			// aapt resource value: 0x7f020136
-			public const int notification_bg_low_normal = 2130837814;
-			
-			// aapt resource value: 0x7f020137
-			public const int notification_bg_low_pressed = 2130837815;
-			
 			// aapt resource value: 0x7f020138
-			public const int notification_bg_normal = 2130837816;
+			public const int avd_show_password_1 = 2130837816;
 			
 			// aapt resource value: 0x7f020139
-			public const int notification_bg_normal_pressed = 2130837817;
+			public const int avd_show_password_2 = 2130837817;
 			
 			// aapt resource value: 0x7f02013a
-			public const int notification_icon_background = 2130837818;
+			public const int avd_show_password_3 = 2130837818;
 			
-			// aapt resource value: 0x7f020140
-			public const int notification_template_icon_bg = 2130837824;
+			// aapt resource value: 0x7f020057
+			public const int design_bottom_navigation_item_background = 2130837591;
 			
-			// aapt resource value: 0x7f020141
-			public const int notification_template_icon_low_bg = 2130837825;
+			// aapt resource value: 0x7f020058
+			public const int design_fab_background = 2130837592;
 			
-			// aapt resource value: 0x7f02013b
-			public const int notification_tile_bg = 2130837819;
+			// aapt resource value: 0x7f020059
+			public const int design_ic_visibility = 2130837593;
 			
-			// aapt resource value: 0x7f02013c
-			public const int notify_panel_notification_icon_bg = 2130837820;
+			// aapt resource value: 0x7f02005a
+			public const int design_ic_visibility_off = 2130837594;
 			
-			// aapt resource value: 0x7f02013d
-			public const int Recurrence = 2130837821;
+			// aapt resource value: 0x7f02005b
+			public const int design_password_eye = 2130837595;
 			
-			// aapt resource value: 0x7f02013e
-			public const int tooltip_frame_dark = 2130837822;
+			// aapt resource value: 0x7f02005c
+			public const int design_snackbar_background = 2130837596;
 			
-			// aapt resource value: 0x7f02013f
-			public const int tooltip_frame_light = 2130837823;
+			// aapt resource value: 0x7f02005d
+			public const int ic_audiotrack_dark = 2130837597;
+			
+			// aapt resource value: 0x7f02005e
+			public const int ic_audiotrack_light = 2130837598;
+			
+			// aapt resource value: 0x7f02005f
+			public const int ic_dialog_close_dark = 2130837599;
+			
+			// aapt resource value: 0x7f020060
+			public const int ic_dialog_close_light = 2130837600;
+			
+			// aapt resource value: 0x7f020061
+			public const int ic_group_collapse_00 = 2130837601;
+			
+			// aapt resource value: 0x7f020062
+			public const int ic_group_collapse_01 = 2130837602;
+			
+			// aapt resource value: 0x7f020063
+			public const int ic_group_collapse_02 = 2130837603;
+			
+			// aapt resource value: 0x7f020064
+			public const int ic_group_collapse_03 = 2130837604;
+			
+			// aapt resource value: 0x7f020065
+			public const int ic_group_collapse_04 = 2130837605;
+			
+			// aapt resource value: 0x7f020066
+			public const int ic_group_collapse_05 = 2130837606;
+			
+			// aapt resource value: 0x7f020067
+			public const int ic_group_collapse_06 = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int ic_group_collapse_07 = 2130837608;
+			
+			// aapt resource value: 0x7f020069
+			public const int ic_group_collapse_08 = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int ic_group_collapse_09 = 2130837610;
+			
+			// aapt resource value: 0x7f02006b
+			public const int ic_group_collapse_10 = 2130837611;
+			
+			// aapt resource value: 0x7f02006c
+			public const int ic_group_collapse_11 = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int ic_group_collapse_12 = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int ic_group_collapse_13 = 2130837614;
+			
+			// aapt resource value: 0x7f02006f
+			public const int ic_group_collapse_14 = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int ic_group_collapse_15 = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int ic_group_expand_00 = 2130837617;
+			
+			// aapt resource value: 0x7f020072
+			public const int ic_group_expand_01 = 2130837618;
+			
+			// aapt resource value: 0x7f020073
+			public const int ic_group_expand_02 = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int ic_group_expand_03 = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int ic_group_expand_04 = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int ic_group_expand_05 = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int ic_group_expand_06 = 2130837623;
+			
+			// aapt resource value: 0x7f020078
+			public const int ic_group_expand_07 = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int ic_group_expand_08 = 2130837625;
+			
+			// aapt resource value: 0x7f02007a
+			public const int ic_group_expand_09 = 2130837626;
+			
+			// aapt resource value: 0x7f02007b
+			public const int ic_group_expand_10 = 2130837627;
+			
+			// aapt resource value: 0x7f02007c
+			public const int ic_group_expand_11 = 2130837628;
+			
+			// aapt resource value: 0x7f02007d
+			public const int ic_group_expand_12 = 2130837629;
+			
+			// aapt resource value: 0x7f02007e
+			public const int ic_group_expand_13 = 2130837630;
+			
+			// aapt resource value: 0x7f02007f
+			public const int ic_group_expand_14 = 2130837631;
+			
+			// aapt resource value: 0x7f020080
+			public const int ic_group_expand_15 = 2130837632;
+			
+			// aapt resource value: 0x7f020081
+			public const int ic_media_pause_dark = 2130837633;
+			
+			// aapt resource value: 0x7f020082
+			public const int ic_media_pause_light = 2130837634;
+			
+			// aapt resource value: 0x7f020083
+			public const int ic_media_play_dark = 2130837635;
+			
+			// aapt resource value: 0x7f020084
+			public const int ic_media_play_light = 2130837636;
+			
+			// aapt resource value: 0x7f020085
+			public const int ic_media_stop_dark = 2130837637;
+			
+			// aapt resource value: 0x7f020086
+			public const int ic_media_stop_light = 2130837638;
+			
+			// aapt resource value: 0x7f020087
+			public const int ic_mr_button_connected_00_dark = 2130837639;
+			
+			// aapt resource value: 0x7f020088
+			public const int ic_mr_button_connected_00_light = 2130837640;
+			
+			// aapt resource value: 0x7f020089
+			public const int ic_mr_button_connected_01_dark = 2130837641;
+			
+			// aapt resource value: 0x7f02008a
+			public const int ic_mr_button_connected_01_light = 2130837642;
+			
+			// aapt resource value: 0x7f02008b
+			public const int ic_mr_button_connected_02_dark = 2130837643;
+			
+			// aapt resource value: 0x7f02008c
+			public const int ic_mr_button_connected_02_light = 2130837644;
+			
+			// aapt resource value: 0x7f02008d
+			public const int ic_mr_button_connected_03_dark = 2130837645;
+			
+			// aapt resource value: 0x7f02008e
+			public const int ic_mr_button_connected_03_light = 2130837646;
+			
+			// aapt resource value: 0x7f02008f
+			public const int ic_mr_button_connected_04_dark = 2130837647;
+			
+			// aapt resource value: 0x7f020090
+			public const int ic_mr_button_connected_04_light = 2130837648;
+			
+			// aapt resource value: 0x7f020091
+			public const int ic_mr_button_connected_05_dark = 2130837649;
+			
+			// aapt resource value: 0x7f020092
+			public const int ic_mr_button_connected_05_light = 2130837650;
+			
+			// aapt resource value: 0x7f020093
+			public const int ic_mr_button_connected_06_dark = 2130837651;
+			
+			// aapt resource value: 0x7f020094
+			public const int ic_mr_button_connected_06_light = 2130837652;
+			
+			// aapt resource value: 0x7f020095
+			public const int ic_mr_button_connected_07_dark = 2130837653;
+			
+			// aapt resource value: 0x7f020096
+			public const int ic_mr_button_connected_07_light = 2130837654;
+			
+			// aapt resource value: 0x7f020097
+			public const int ic_mr_button_connected_08_dark = 2130837655;
+			
+			// aapt resource value: 0x7f020098
+			public const int ic_mr_button_connected_08_light = 2130837656;
+			
+			// aapt resource value: 0x7f020099
+			public const int ic_mr_button_connected_09_dark = 2130837657;
+			
+			// aapt resource value: 0x7f02009a
+			public const int ic_mr_button_connected_09_light = 2130837658;
+			
+			// aapt resource value: 0x7f02009b
+			public const int ic_mr_button_connected_10_dark = 2130837659;
+			
+			// aapt resource value: 0x7f02009c
+			public const int ic_mr_button_connected_10_light = 2130837660;
+			
+			// aapt resource value: 0x7f02009d
+			public const int ic_mr_button_connected_11_dark = 2130837661;
+			
+			// aapt resource value: 0x7f02009e
+			public const int ic_mr_button_connected_11_light = 2130837662;
+			
+			// aapt resource value: 0x7f02009f
+			public const int ic_mr_button_connected_12_dark = 2130837663;
+			
+			// aapt resource value: 0x7f0200a0
+			public const int ic_mr_button_connected_12_light = 2130837664;
+			
+			// aapt resource value: 0x7f0200a1
+			public const int ic_mr_button_connected_13_dark = 2130837665;
+			
+			// aapt resource value: 0x7f0200a2
+			public const int ic_mr_button_connected_13_light = 2130837666;
+			
+			// aapt resource value: 0x7f0200a3
+			public const int ic_mr_button_connected_14_dark = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public const int ic_mr_button_connected_14_light = 2130837668;
+			
+			// aapt resource value: 0x7f0200a5
+			public const int ic_mr_button_connected_15_dark = 2130837669;
+			
+			// aapt resource value: 0x7f0200a6
+			public const int ic_mr_button_connected_15_light = 2130837670;
+			
+			// aapt resource value: 0x7f0200a7
+			public const int ic_mr_button_connected_16_dark = 2130837671;
+			
+			// aapt resource value: 0x7f0200a8
+			public const int ic_mr_button_connected_16_light = 2130837672;
+			
+			// aapt resource value: 0x7f0200a9
+			public const int ic_mr_button_connected_17_dark = 2130837673;
+			
+			// aapt resource value: 0x7f0200aa
+			public const int ic_mr_button_connected_17_light = 2130837674;
+			
+			// aapt resource value: 0x7f0200ab
+			public const int ic_mr_button_connected_18_dark = 2130837675;
+			
+			// aapt resource value: 0x7f0200ac
+			public const int ic_mr_button_connected_18_light = 2130837676;
+			
+			// aapt resource value: 0x7f0200ad
+			public const int ic_mr_button_connected_19_dark = 2130837677;
+			
+			// aapt resource value: 0x7f0200ae
+			public const int ic_mr_button_connected_19_light = 2130837678;
+			
+			// aapt resource value: 0x7f0200af
+			public const int ic_mr_button_connected_20_dark = 2130837679;
+			
+			// aapt resource value: 0x7f0200b0
+			public const int ic_mr_button_connected_20_light = 2130837680;
+			
+			// aapt resource value: 0x7f0200b1
+			public const int ic_mr_button_connected_21_dark = 2130837681;
+			
+			// aapt resource value: 0x7f0200b2
+			public const int ic_mr_button_connected_21_light = 2130837682;
+			
+			// aapt resource value: 0x7f0200b3
+			public const int ic_mr_button_connected_22_dark = 2130837683;
+			
+			// aapt resource value: 0x7f0200b4
+			public const int ic_mr_button_connected_22_light = 2130837684;
+			
+			// aapt resource value: 0x7f0200b5
+			public const int ic_mr_button_connected_23_dark = 2130837685;
+			
+			// aapt resource value: 0x7f0200b6
+			public const int ic_mr_button_connected_23_light = 2130837686;
+			
+			// aapt resource value: 0x7f0200b7
+			public const int ic_mr_button_connected_24_dark = 2130837687;
+			
+			// aapt resource value: 0x7f0200b8
+			public const int ic_mr_button_connected_24_light = 2130837688;
+			
+			// aapt resource value: 0x7f0200b9
+			public const int ic_mr_button_connected_25_dark = 2130837689;
+			
+			// aapt resource value: 0x7f0200ba
+			public const int ic_mr_button_connected_25_light = 2130837690;
+			
+			// aapt resource value: 0x7f0200bb
+			public const int ic_mr_button_connected_26_dark = 2130837691;
+			
+			// aapt resource value: 0x7f0200bc
+			public const int ic_mr_button_connected_26_light = 2130837692;
+			
+			// aapt resource value: 0x7f0200bd
+			public const int ic_mr_button_connected_27_dark = 2130837693;
+			
+			// aapt resource value: 0x7f0200be
+			public const int ic_mr_button_connected_27_light = 2130837694;
+			
+			// aapt resource value: 0x7f0200bf
+			public const int ic_mr_button_connected_28_dark = 2130837695;
+			
+			// aapt resource value: 0x7f0200c0
+			public const int ic_mr_button_connected_28_light = 2130837696;
+			
+			// aapt resource value: 0x7f0200c1
+			public const int ic_mr_button_connected_29_dark = 2130837697;
+			
+			// aapt resource value: 0x7f0200c2
+			public const int ic_mr_button_connected_29_light = 2130837698;
+			
+			// aapt resource value: 0x7f0200c3
+			public const int ic_mr_button_connected_30_dark = 2130837699;
+			
+			// aapt resource value: 0x7f0200c4
+			public const int ic_mr_button_connected_30_light = 2130837700;
+			
+			// aapt resource value: 0x7f0200c5
+			public const int ic_mr_button_connecting_00_dark = 2130837701;
+			
+			// aapt resource value: 0x7f0200c6
+			public const int ic_mr_button_connecting_00_light = 2130837702;
+			
+			// aapt resource value: 0x7f0200c7
+			public const int ic_mr_button_connecting_01_dark = 2130837703;
+			
+			// aapt resource value: 0x7f0200c8
+			public const int ic_mr_button_connecting_01_light = 2130837704;
+			
+			// aapt resource value: 0x7f0200c9
+			public const int ic_mr_button_connecting_02_dark = 2130837705;
+			
+			// aapt resource value: 0x7f0200ca
+			public const int ic_mr_button_connecting_02_light = 2130837706;
+			
+			// aapt resource value: 0x7f0200cb
+			public const int ic_mr_button_connecting_03_dark = 2130837707;
+			
+			// aapt resource value: 0x7f0200cc
+			public const int ic_mr_button_connecting_03_light = 2130837708;
+			
+			// aapt resource value: 0x7f0200cd
+			public const int ic_mr_button_connecting_04_dark = 2130837709;
+			
+			// aapt resource value: 0x7f0200ce
+			public const int ic_mr_button_connecting_04_light = 2130837710;
+			
+			// aapt resource value: 0x7f0200cf
+			public const int ic_mr_button_connecting_05_dark = 2130837711;
+			
+			// aapt resource value: 0x7f0200d0
+			public const int ic_mr_button_connecting_05_light = 2130837712;
+			
+			// aapt resource value: 0x7f0200d1
+			public const int ic_mr_button_connecting_06_dark = 2130837713;
+			
+			// aapt resource value: 0x7f0200d2
+			public const int ic_mr_button_connecting_06_light = 2130837714;
+			
+			// aapt resource value: 0x7f0200d3
+			public const int ic_mr_button_connecting_07_dark = 2130837715;
+			
+			// aapt resource value: 0x7f0200d4
+			public const int ic_mr_button_connecting_07_light = 2130837716;
+			
+			// aapt resource value: 0x7f0200d5
+			public const int ic_mr_button_connecting_08_dark = 2130837717;
+			
+			// aapt resource value: 0x7f0200d6
+			public const int ic_mr_button_connecting_08_light = 2130837718;
+			
+			// aapt resource value: 0x7f0200d7
+			public const int ic_mr_button_connecting_09_dark = 2130837719;
+			
+			// aapt resource value: 0x7f0200d8
+			public const int ic_mr_button_connecting_09_light = 2130837720;
+			
+			// aapt resource value: 0x7f0200d9
+			public const int ic_mr_button_connecting_10_dark = 2130837721;
+			
+			// aapt resource value: 0x7f0200da
+			public const int ic_mr_button_connecting_10_light = 2130837722;
+			
+			// aapt resource value: 0x7f0200db
+			public const int ic_mr_button_connecting_11_dark = 2130837723;
+			
+			// aapt resource value: 0x7f0200dc
+			public const int ic_mr_button_connecting_11_light = 2130837724;
+			
+			// aapt resource value: 0x7f0200dd
+			public const int ic_mr_button_connecting_12_dark = 2130837725;
+			
+			// aapt resource value: 0x7f0200de
+			public const int ic_mr_button_connecting_12_light = 2130837726;
+			
+			// aapt resource value: 0x7f0200df
+			public const int ic_mr_button_connecting_13_dark = 2130837727;
+			
+			// aapt resource value: 0x7f0200e0
+			public const int ic_mr_button_connecting_13_light = 2130837728;
+			
+			// aapt resource value: 0x7f0200e1
+			public const int ic_mr_button_connecting_14_dark = 2130837729;
+			
+			// aapt resource value: 0x7f0200e2
+			public const int ic_mr_button_connecting_14_light = 2130837730;
+			
+			// aapt resource value: 0x7f0200e3
+			public const int ic_mr_button_connecting_15_dark = 2130837731;
+			
+			// aapt resource value: 0x7f0200e4
+			public const int ic_mr_button_connecting_15_light = 2130837732;
+			
+			// aapt resource value: 0x7f0200e5
+			public const int ic_mr_button_connecting_16_dark = 2130837733;
+			
+			// aapt resource value: 0x7f0200e6
+			public const int ic_mr_button_connecting_16_light = 2130837734;
+			
+			// aapt resource value: 0x7f0200e7
+			public const int ic_mr_button_connecting_17_dark = 2130837735;
+			
+			// aapt resource value: 0x7f0200e8
+			public const int ic_mr_button_connecting_17_light = 2130837736;
+			
+			// aapt resource value: 0x7f0200e9
+			public const int ic_mr_button_connecting_18_dark = 2130837737;
+			
+			// aapt resource value: 0x7f0200ea
+			public const int ic_mr_button_connecting_18_light = 2130837738;
+			
+			// aapt resource value: 0x7f0200eb
+			public const int ic_mr_button_connecting_19_dark = 2130837739;
+			
+			// aapt resource value: 0x7f0200ec
+			public const int ic_mr_button_connecting_19_light = 2130837740;
+			
+			// aapt resource value: 0x7f0200ed
+			public const int ic_mr_button_connecting_20_dark = 2130837741;
+			
+			// aapt resource value: 0x7f0200ee
+			public const int ic_mr_button_connecting_20_light = 2130837742;
+			
+			// aapt resource value: 0x7f0200ef
+			public const int ic_mr_button_connecting_21_dark = 2130837743;
+			
+			// aapt resource value: 0x7f0200f0
+			public const int ic_mr_button_connecting_21_light = 2130837744;
+			
+			// aapt resource value: 0x7f0200f1
+			public const int ic_mr_button_connecting_22_dark = 2130837745;
+			
+			// aapt resource value: 0x7f0200f2
+			public const int ic_mr_button_connecting_22_light = 2130837746;
+			
+			// aapt resource value: 0x7f0200f3
+			public const int ic_mr_button_connecting_23_dark = 2130837747;
+			
+			// aapt resource value: 0x7f0200f4
+			public const int ic_mr_button_connecting_23_light = 2130837748;
+			
+			// aapt resource value: 0x7f0200f5
+			public const int ic_mr_button_connecting_24_dark = 2130837749;
+			
+			// aapt resource value: 0x7f0200f6
+			public const int ic_mr_button_connecting_24_light = 2130837750;
+			
+			// aapt resource value: 0x7f0200f7
+			public const int ic_mr_button_connecting_25_dark = 2130837751;
+			
+			// aapt resource value: 0x7f0200f8
+			public const int ic_mr_button_connecting_25_light = 2130837752;
+			
+			// aapt resource value: 0x7f0200f9
+			public const int ic_mr_button_connecting_26_dark = 2130837753;
+			
+			// aapt resource value: 0x7f0200fa
+			public const int ic_mr_button_connecting_26_light = 2130837754;
+			
+			// aapt resource value: 0x7f0200fb
+			public const int ic_mr_button_connecting_27_dark = 2130837755;
+			
+			// aapt resource value: 0x7f0200fc
+			public const int ic_mr_button_connecting_27_light = 2130837756;
+			
+			// aapt resource value: 0x7f0200fd
+			public const int ic_mr_button_connecting_28_dark = 2130837757;
+			
+			// aapt resource value: 0x7f0200fe
+			public const int ic_mr_button_connecting_28_light = 2130837758;
+			
+			// aapt resource value: 0x7f0200ff
+			public const int ic_mr_button_connecting_29_dark = 2130837759;
+			
+			// aapt resource value: 0x7f020100
+			public const int ic_mr_button_connecting_29_light = 2130837760;
+			
+			// aapt resource value: 0x7f020101
+			public const int ic_mr_button_connecting_30_dark = 2130837761;
+			
+			// aapt resource value: 0x7f020102
+			public const int ic_mr_button_connecting_30_light = 2130837762;
+			
+			// aapt resource value: 0x7f020103
+			public const int ic_mr_button_disabled_dark = 2130837763;
+			
+			// aapt resource value: 0x7f020104
+			public const int ic_mr_button_disabled_light = 2130837764;
+			
+			// aapt resource value: 0x7f020105
+			public const int ic_mr_button_disconnected_dark = 2130837765;
+			
+			// aapt resource value: 0x7f020106
+			public const int ic_mr_button_disconnected_light = 2130837766;
+			
+			// aapt resource value: 0x7f020107
+			public const int ic_mr_button_grey = 2130837767;
+			
+			// aapt resource value: 0x7f020108
+			public const int ic_vol_type_speaker_dark = 2130837768;
+			
+			// aapt resource value: 0x7f020109
+			public const int ic_vol_type_speaker_group_dark = 2130837769;
+			
+			// aapt resource value: 0x7f02010a
+			public const int ic_vol_type_speaker_group_light = 2130837770;
+			
+			// aapt resource value: 0x7f02010b
+			public const int ic_vol_type_speaker_light = 2130837771;
+			
+			// aapt resource value: 0x7f02010c
+			public const int ic_vol_type_tv_dark = 2130837772;
+			
+			// aapt resource value: 0x7f02010d
+			public const int ic_vol_type_tv_light = 2130837773;
+			
+			// aapt resource value: 0x7f02010e
+			public const int Icon = 2130837774;
+			
+			// aapt resource value: 0x7f02010f
+			public const int inputlayout_togglecollapseicon = 2130837775;
+			
+			// aapt resource value: 0x7f020110
+			public const int inputlayout_togglevisibleicon = 2130837776;
+			
+			// aapt resource value: 0x7f020111
+			public const int mr_button_connected_dark = 2130837777;
+			
+			// aapt resource value: 0x7f020112
+			public const int mr_button_connected_light = 2130837778;
+			
+			// aapt resource value: 0x7f020113
+			public const int mr_button_connecting_dark = 2130837779;
+			
+			// aapt resource value: 0x7f020114
+			public const int mr_button_connecting_light = 2130837780;
+			
+			// aapt resource value: 0x7f020115
+			public const int mr_button_dark = 2130837781;
+			
+			// aapt resource value: 0x7f020116
+			public const int mr_button_light = 2130837782;
+			
+			// aapt resource value: 0x7f020117
+			public const int mr_dialog_close_dark = 2130837783;
+			
+			// aapt resource value: 0x7f020118
+			public const int mr_dialog_close_light = 2130837784;
+			
+			// aapt resource value: 0x7f020119
+			public const int mr_dialog_material_background_dark = 2130837785;
+			
+			// aapt resource value: 0x7f02011a
+			public const int mr_dialog_material_background_light = 2130837786;
+			
+			// aapt resource value: 0x7f02011b
+			public const int mr_group_collapse = 2130837787;
+			
+			// aapt resource value: 0x7f02011c
+			public const int mr_group_expand = 2130837788;
+			
+			// aapt resource value: 0x7f02011d
+			public const int mr_media_pause_dark = 2130837789;
+			
+			// aapt resource value: 0x7f02011e
+			public const int mr_media_pause_light = 2130837790;
+			
+			// aapt resource value: 0x7f02011f
+			public const int mr_media_play_dark = 2130837791;
+			
+			// aapt resource value: 0x7f020120
+			public const int mr_media_play_light = 2130837792;
+			
+			// aapt resource value: 0x7f020121
+			public const int mr_media_stop_dark = 2130837793;
+			
+			// aapt resource value: 0x7f020122
+			public const int mr_media_stop_light = 2130837794;
+			
+			// aapt resource value: 0x7f020123
+			public const int mr_vol_type_audiotrack_dark = 2130837795;
+			
+			// aapt resource value: 0x7f020124
+			public const int mr_vol_type_audiotrack_light = 2130837796;
+			
+			// aapt resource value: 0x7f020125
+			public const int navigation_empty_icon = 2130837797;
+			
+			// aapt resource value: 0x7f020126
+			public const int notification_action_background = 2130837798;
+			
+			// aapt resource value: 0x7f020127
+			public const int notification_bg = 2130837799;
+			
+			// aapt resource value: 0x7f020128
+			public const int notification_bg_low = 2130837800;
+			
+			// aapt resource value: 0x7f020129
+			public const int notification_bg_low_normal = 2130837801;
+			
+			// aapt resource value: 0x7f02012a
+			public const int notification_bg_low_pressed = 2130837802;
+			
+			// aapt resource value: 0x7f02012b
+			public const int notification_bg_normal = 2130837803;
+			
+			// aapt resource value: 0x7f02012c
+			public const int notification_bg_normal_pressed = 2130837804;
+			
+			// aapt resource value: 0x7f02012d
+			public const int notification_icon_background = 2130837805;
+			
+			// aapt resource value: 0x7f020133
+			public const int notification_template_icon_bg = 2130837811;
+			
+			// aapt resource value: 0x7f020134
+			public const int notification_template_icon_low_bg = 2130837812;
+			
+			// aapt resource value: 0x7f02012e
+			public const int notification_tile_bg = 2130837806;
+			
+			// aapt resource value: 0x7f02012f
+			public const int notify_panel_notification_icon_bg = 2130837807;
+			
+			// aapt resource value: 0x7f020130
+			public const int Recurrence = 2130837808;
+			
+			// aapt resource value: 0x7f020131
+			public const int tooltip_frame_dark = 2130837809;
+			
+			// aapt resource value: 0x7f020132
+			public const int tooltip_frame_light = 2130837810;
 			
 			static Drawable()
 			{
@@ -6232,9 +3158,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090034
 			public const int FUNCTION = 2131296308;
 			
-			// aapt resource value: 0x7f09009a
-			public const int Itemname = 2131296410;
-			
 			// aapt resource value: 0x7f090035
 			public const int META = 2131296309;
 			
@@ -6244,41 +3167,41 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090037
 			public const int SYM = 2131296311;
 			
-			// aapt resource value: 0x7f0900c6
-			public const int action0 = 2131296454;
+			// aapt resource value: 0x7f0900ba
+			public const int action0 = 2131296442;
 			
-			// aapt resource value: 0x7f09008b
-			public const int action_bar = 2131296395;
+			// aapt resource value: 0x7f090080
+			public const int action_bar = 2131296384;
 			
 			// aapt resource value: 0x7f090001
 			public const int action_bar_activity_content = 2131296257;
 			
-			// aapt resource value: 0x7f09008a
-			public const int action_bar_container = 2131296394;
+			// aapt resource value: 0x7f09007f
+			public const int action_bar_container = 2131296383;
 			
-			// aapt resource value: 0x7f090086
-			public const int action_bar_root = 2131296390;
+			// aapt resource value: 0x7f09007b
+			public const int action_bar_root = 2131296379;
 			
 			// aapt resource value: 0x7f090002
 			public const int action_bar_spinner = 2131296258;
 			
-			// aapt resource value: 0x7f09006b
-			public const int action_bar_subtitle = 2131296363;
+			// aapt resource value: 0x7f09005f
+			public const int action_bar_subtitle = 2131296351;
 			
-			// aapt resource value: 0x7f09006a
-			public const int action_bar_title = 2131296362;
+			// aapt resource value: 0x7f09005e
+			public const int action_bar_title = 2131296350;
 			
-			// aapt resource value: 0x7f0900c3
-			public const int action_container = 2131296451;
+			// aapt resource value: 0x7f0900b7
+			public const int action_container = 2131296439;
 			
-			// aapt resource value: 0x7f09008c
-			public const int action_context_bar = 2131296396;
+			// aapt resource value: 0x7f090081
+			public const int action_context_bar = 2131296385;
 			
-			// aapt resource value: 0x7f0900ca
-			public const int action_divider = 2131296458;
+			// aapt resource value: 0x7f0900be
+			public const int action_divider = 2131296446;
 			
-			// aapt resource value: 0x7f0900c4
-			public const int action_image = 2131296452;
+			// aapt resource value: 0x7f0900b8
+			public const int action_image = 2131296440;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -6286,29 +3209,29 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090004
 			public const int action_menu_presenter = 2131296260;
 			
-			// aapt resource value: 0x7f090088
-			public const int action_mode_bar = 2131296392;
+			// aapt resource value: 0x7f09007d
+			public const int action_mode_bar = 2131296381;
 			
-			// aapt resource value: 0x7f090087
-			public const int action_mode_bar_stub = 2131296391;
+			// aapt resource value: 0x7f09007c
+			public const int action_mode_bar_stub = 2131296380;
 			
-			// aapt resource value: 0x7f09006c
-			public const int action_mode_close_button = 2131296364;
+			// aapt resource value: 0x7f090060
+			public const int action_mode_close_button = 2131296352;
 			
-			// aapt resource value: 0x7f0900c5
-			public const int action_text = 2131296453;
+			// aapt resource value: 0x7f0900b9
+			public const int action_text = 2131296441;
 			
-			// aapt resource value: 0x7f0900d3
-			public const int actions = 2131296467;
+			// aapt resource value: 0x7f0900c7
+			public const int actions = 2131296455;
 			
-			// aapt resource value: 0x7f09006d
-			public const int activity_chooser_view_content = 2131296365;
+			// aapt resource value: 0x7f090061
+			public const int activity_chooser_view_content = 2131296353;
 			
 			// aapt resource value: 0x7f090027
 			public const int add = 2131296295;
 			
-			// aapt resource value: 0x7f09007f
-			public const int alertTitle = 2131296383;
+			// aapt resource value: 0x7f090074
+			public const int alertTitle = 2131296372;
 			
 			// aapt resource value: 0x7f090052
 			public const int all = 2131296338;
@@ -6328,17 +3251,14 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090057
 			public const int blocking = 2131296343;
 			
-			// aapt resource value: 0x7f090067
-			public const int border = 2131296359;
-			
 			// aapt resource value: 0x7f09003d
 			public const int bottom = 2131296317;
 			
-			// aapt resource value: 0x7f090072
-			public const int buttonPanel = 2131296370;
+			// aapt resource value: 0x7f090067
+			public const int buttonPanel = 2131296359;
 			
-			// aapt resource value: 0x7f0900c7
-			public const int cancel_action = 2131296455;
+			// aapt resource value: 0x7f0900bb
+			public const int cancel_action = 2131296443;
 			
 			// aapt resource value: 0x7f090045
 			public const int center = 2131296325;
@@ -6349,14 +3269,11 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090047
 			public const int center_vertical = 2131296327;
 			
-			// aapt resource value: 0x7f090082
-			public const int checkbox = 2131296386;
+			// aapt resource value: 0x7f090077
+			public const int checkbox = 2131296375;
 			
-			// aapt resource value: 0x7f090064
-			public const int @checked = 2131296356;
-			
-			// aapt resource value: 0x7f0900cf
-			public const int chronometer = 2131296463;
+			// aapt resource value: 0x7f0900c3
+			public const int chronometer = 2131296451;
 			
 			// aapt resource value: 0x7f09004e
 			public const int clip_horizontal = 2131296334;
@@ -6367,65 +3284,56 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090039
 			public const int collapseActionView = 2131296313;
 			
-			// aapt resource value: 0x7f090060
-			public const int compute = 2131296352;
+			// aapt resource value: 0x7f090091
+			public const int container = 2131296401;
 			
-			// aapt resource value: 0x7f09009d
-			public const int container = 2131296413;
+			// aapt resource value: 0x7f09006a
+			public const int contentPanel = 2131296362;
 			
-			// aapt resource value: 0x7f090075
-			public const int contentPanel = 2131296373;
+			// aapt resource value: 0x7f090092
+			public const int coordinator = 2131296402;
 			
-			// aapt resource value: 0x7f09009e
-			public const int coordinator = 2131296414;
+			// aapt resource value: 0x7f090071
+			public const int custom = 2131296369;
 			
-			// aapt resource value: 0x7f09007c
-			public const int custom = 2131296380;
-			
-			// aapt resource value: 0x7f09007b
-			public const int customPanel = 2131296379;
+			// aapt resource value: 0x7f090070
+			public const int customPanel = 2131296368;
 			
 			// aapt resource value: 0x7f09005a
 			public const int dayView = 2131296346;
 			
-			// aapt resource value: 0x7f09005e
-			public const int decimalMode = 2131296350;
+			// aapt resource value: 0x7f09007e
+			public const int decor_content_parent = 2131296382;
 			
-			// aapt resource value: 0x7f090089
-			public const int decor_content_parent = 2131296393;
+			// aapt resource value: 0x7f090064
+			public const int default_activity_button = 2131296356;
 			
-			// aapt resource value: 0x7f09006f
-			public const int default_activity_button = 2131296367;
+			// aapt resource value: 0x7f090094
+			public const int design_bottom_sheet = 2131296404;
 			
-			// aapt resource value: 0x7f0900a0
-			public const int design_bottom_sheet = 2131296416;
+			// aapt resource value: 0x7f09009b
+			public const int design_menu_item_action_area = 2131296411;
 			
-			// aapt resource value: 0x7f0900a7
-			public const int design_menu_item_action_area = 2131296423;
+			// aapt resource value: 0x7f09009a
+			public const int design_menu_item_action_area_stub = 2131296410;
 			
-			// aapt resource value: 0x7f0900a6
-			public const int design_menu_item_action_area_stub = 2131296422;
+			// aapt resource value: 0x7f090099
+			public const int design_menu_item_text = 2131296409;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int design_menu_item_text = 2131296421;
-			
-			// aapt resource value: 0x7f0900a4
-			public const int design_navigation_view = 2131296420;
+			// aapt resource value: 0x7f090098
+			public const int design_navigation_view = 2131296408;
 			
 			// aapt resource value: 0x7f090020
 			public const int disableHome = 2131296288;
 			
-			// aapt resource value: 0x7f09005f
-			public const int doubleMode = 2131296351;
-			
-			// aapt resource value: 0x7f09008d
-			public const int edit_query = 2131296397;
+			// aapt resource value: 0x7f090082
+			public const int edit_query = 2131296386;
 			
 			// aapt resource value: 0x7f090030
 			public const int end = 2131296304;
 			
-			// aapt resource value: 0x7f0900d5
-			public const int end_padder = 2131296469;
+			// aapt resource value: 0x7f0900c9
+			public const int end_padder = 2131296457;
 			
 			// aapt resource value: 0x7f09003f
 			public const int enterAlways = 2131296319;
@@ -6436,11 +3344,11 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090041
 			public const int exitUntilCollapsed = 2131296321;
 			
-			// aapt resource value: 0x7f09006e
-			public const int expand_activities_button = 2131296366;
+			// aapt resource value: 0x7f090062
+			public const int expand_activities_button = 2131296354;
 			
-			// aapt resource value: 0x7f090081
-			public const int expanded_menu = 2131296385;
+			// aapt resource value: 0x7f090076
+			public const int expanded_menu = 2131296374;
 			
 			// aapt resource value: 0x7f090050
 			public const int fill = 2131296336;
@@ -6466,26 +3374,20 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090021
 			public const int homeAsUp = 2131296289;
 			
-			// aapt resource value: 0x7f090071
-			public const int icon = 2131296369;
+			// aapt resource value: 0x7f090066
+			public const int icon = 2131296358;
 			
-			// aapt resource value: 0x7f0900d4
-			public const int icon_group = 2131296468;
+			// aapt resource value: 0x7f0900c8
+			public const int icon_group = 2131296456;
 			
 			// aapt resource value: 0x7f09003a
 			public const int ifRoom = 2131296314;
 			
-			// aapt resource value: 0x7f090068
-			public const int image = 2131296360;
+			// aapt resource value: 0x7f090063
+			public const int image = 2131296355;
 			
-			// aapt resource value: 0x7f090069
-			public const int imagewithtext = 2131296361;
-			
-			// aapt resource value: 0x7f090065
-			public const int indeterminate = 2131296357;
-			
-			// aapt resource value: 0x7f0900d0
-			public const int info = 2131296464;
+			// aapt resource value: 0x7f0900c4
+			public const int info = 2131296452;
 			
 			// aapt resource value: 0x7f090059
 			public const int italic = 2131296345;
@@ -6493,8 +3395,8 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090000
 			public const int item_touch_helper_previous_elevation = 2131296256;
 			
-			// aapt resource value: 0x7f09009c
-			public const int largeLabel = 2131296412;
+			// aapt resource value: 0x7f090090
+			public const int largeLabel = 2131296400;
 			
 			// aapt resource value: 0x7f090049
 			public const int left = 2131296329;
@@ -6508,17 +3410,17 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f09001d
 			public const int listMode = 2131296285;
 			
-			// aapt resource value: 0x7f090070
-			public const int list_item = 2131296368;
+			// aapt resource value: 0x7f090065
+			public const int list_item = 2131296357;
 			
-			// aapt resource value: 0x7f0900da
-			public const int masked = 2131296474;
+			// aapt resource value: 0x7f0900ce
+			public const int masked = 2131296462;
 			
-			// aapt resource value: 0x7f0900c9
-			public const int media_actions = 2131296457;
+			// aapt resource value: 0x7f0900bd
+			public const int media_actions = 2131296445;
 			
-			// aapt resource value: 0x7f0900d8
-			public const int message = 2131296472;
+			// aapt resource value: 0x7f0900cc
+			public const int message = 2131296460;
 			
 			// aapt resource value: 0x7f090031
 			public const int middle = 2131296305;
@@ -6529,86 +3431,86 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f09005b
 			public const int monthView = 2131296347;
 			
-			// aapt resource value: 0x7f0900b5
-			public const int mr_art = 2131296437;
+			// aapt resource value: 0x7f0900a9
+			public const int mr_art = 2131296425;
 			
-			// aapt resource value: 0x7f0900aa
-			public const int mr_chooser_list = 2131296426;
+			// aapt resource value: 0x7f09009e
+			public const int mr_chooser_list = 2131296414;
 			
-			// aapt resource value: 0x7f0900ad
-			public const int mr_chooser_route_desc = 2131296429;
+			// aapt resource value: 0x7f0900a1
+			public const int mr_chooser_route_desc = 2131296417;
 			
-			// aapt resource value: 0x7f0900ab
-			public const int mr_chooser_route_icon = 2131296427;
+			// aapt resource value: 0x7f09009f
+			public const int mr_chooser_route_icon = 2131296415;
+			
+			// aapt resource value: 0x7f0900a0
+			public const int mr_chooser_route_name = 2131296416;
+			
+			// aapt resource value: 0x7f09009d
+			public const int mr_chooser_title = 2131296413;
+			
+			// aapt resource value: 0x7f0900a6
+			public const int mr_close = 2131296422;
 			
 			// aapt resource value: 0x7f0900ac
-			public const int mr_chooser_route_name = 2131296428;
-			
-			// aapt resource value: 0x7f0900a9
-			public const int mr_chooser_title = 2131296425;
+			public const int mr_control_divider = 2131296428;
 			
 			// aapt resource value: 0x7f0900b2
-			public const int mr_close = 2131296434;
+			public const int mr_control_playback_ctrl = 2131296434;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int mr_control_divider = 2131296440;
-			
-			// aapt resource value: 0x7f0900be
-			public const int mr_control_playback_ctrl = 2131296446;
-			
-			// aapt resource value: 0x7f0900c1
-			public const int mr_control_subtitle = 2131296449;
-			
-			// aapt resource value: 0x7f0900c0
-			public const int mr_control_title = 2131296448;
-			
-			// aapt resource value: 0x7f0900bf
-			public const int mr_control_title_container = 2131296447;
-			
-			// aapt resource value: 0x7f0900b3
-			public const int mr_custom_control = 2131296435;
+			// aapt resource value: 0x7f0900b5
+			public const int mr_control_subtitle = 2131296437;
 			
 			// aapt resource value: 0x7f0900b4
-			public const int mr_default_control = 2131296436;
+			public const int mr_control_title = 2131296436;
 			
-			// aapt resource value: 0x7f0900af
-			public const int mr_dialog_area = 2131296431;
+			// aapt resource value: 0x7f0900b3
+			public const int mr_control_title_container = 2131296435;
 			
-			// aapt resource value: 0x7f0900ae
-			public const int mr_expandable_area = 2131296430;
+			// aapt resource value: 0x7f0900a7
+			public const int mr_custom_control = 2131296423;
 			
-			// aapt resource value: 0x7f0900c2
-			public const int mr_group_expand_collapse = 2131296450;
+			// aapt resource value: 0x7f0900a8
+			public const int mr_default_control = 2131296424;
+			
+			// aapt resource value: 0x7f0900a3
+			public const int mr_dialog_area = 2131296419;
+			
+			// aapt resource value: 0x7f0900a2
+			public const int mr_expandable_area = 2131296418;
 			
 			// aapt resource value: 0x7f0900b6
-			public const int mr_media_main_control = 2131296438;
+			public const int mr_group_expand_collapse = 2131296438;
 			
-			// aapt resource value: 0x7f0900b1
-			public const int mr_name = 2131296433;
+			// aapt resource value: 0x7f0900aa
+			public const int mr_media_main_control = 2131296426;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int mr_playback_control = 2131296439;
+			// aapt resource value: 0x7f0900a5
+			public const int mr_name = 2131296421;
+			
+			// aapt resource value: 0x7f0900ab
+			public const int mr_playback_control = 2131296427;
+			
+			// aapt resource value: 0x7f0900a4
+			public const int mr_title_bar = 2131296420;
+			
+			// aapt resource value: 0x7f0900ad
+			public const int mr_volume_control = 2131296429;
+			
+			// aapt resource value: 0x7f0900ae
+			public const int mr_volume_group_list = 2131296430;
 			
 			// aapt resource value: 0x7f0900b0
-			public const int mr_title_bar = 2131296432;
+			public const int mr_volume_item_icon = 2131296432;
 			
-			// aapt resource value: 0x7f0900b9
-			public const int mr_volume_control = 2131296441;
-			
-			// aapt resource value: 0x7f0900ba
-			public const int mr_volume_group_list = 2131296442;
-			
-			// aapt resource value: 0x7f0900bc
-			public const int mr_volume_item_icon = 2131296444;
-			
-			// aapt resource value: 0x7f0900bd
-			public const int mr_volume_slider = 2131296445;
+			// aapt resource value: 0x7f0900b1
+			public const int mr_volume_slider = 2131296433;
 			
 			// aapt resource value: 0x7f090028
 			public const int multiply = 2131296296;
 			
-			// aapt resource value: 0x7f0900a3
-			public const int navigation_header_container = 2131296419;
+			// aapt resource value: 0x7f090097
+			public const int navigation_header_container = 2131296407;
 			
 			// aapt resource value: 0x7f09003b
 			public const int never = 2131296315;
@@ -6619,26 +3521,20 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f09001e
 			public const int normal = 2131296286;
 			
-			// aapt resource value: 0x7f0900d2
-			public const int notification_background = 2131296466;
+			// aapt resource value: 0x7f0900c6
+			public const int notification_background = 2131296454;
 			
-			// aapt resource value: 0x7f0900cc
-			public const int notification_main_column = 2131296460;
+			// aapt resource value: 0x7f0900c0
+			public const int notification_main_column = 2131296448;
 			
-			// aapt resource value: 0x7f0900cb
-			public const int notification_main_column_container = 2131296459;
-			
-			// aapt resource value: 0x7f090062
-			public const int onKeyFocus = 2131296354;
-			
-			// aapt resource value: 0x7f090063
-			public const int onLostFocus = 2131296355;
+			// aapt resource value: 0x7f0900bf
+			public const int notification_main_column_container = 2131296447;
 			
 			// aapt resource value: 0x7f09004c
 			public const int parallax = 2131296332;
 			
-			// aapt resource value: 0x7f090074
-			public const int parentPanel = 2131296372;
+			// aapt resource value: 0x7f090069
+			public const int parentPanel = 2131296361;
 			
 			// aapt resource value: 0x7f09000b
 			public const int parent_matrix = 2131296267;
@@ -6652,17 +3548,17 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090007
 			public const int progress_horizontal = 2131296263;
 			
-			// aapt resource value: 0x7f090084
-			public const int radio = 2131296388;
+			// aapt resource value: 0x7f090079
+			public const int radio = 2131296377;
 			
 			// aapt resource value: 0x7f09004a
 			public const int right = 2131296330;
 			
-			// aapt resource value: 0x7f0900d1
-			public const int right_icon = 2131296465;
+			// aapt resource value: 0x7f0900c5
+			public const int right_icon = 2131296453;
 			
-			// aapt resource value: 0x7f0900cd
-			public const int right_side = 2131296461;
+			// aapt resource value: 0x7f0900c1
+			public const int right_side = 2131296449;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -6679,53 +3575,53 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090042
 			public const int scroll = 2131296322;
 			
-			// aapt resource value: 0x7f09007a
-			public const int scrollIndicatorDown = 2131296378;
+			// aapt resource value: 0x7f09006f
+			public const int scrollIndicatorDown = 2131296367;
 			
-			// aapt resource value: 0x7f090076
-			public const int scrollIndicatorUp = 2131296374;
+			// aapt resource value: 0x7f09006b
+			public const int scrollIndicatorUp = 2131296363;
 			
-			// aapt resource value: 0x7f090077
-			public const int scrollView = 2131296375;
+			// aapt resource value: 0x7f09006c
+			public const int scrollView = 2131296364;
 			
 			// aapt resource value: 0x7f090055
 			public const int scrollable = 2131296341;
 			
-			// aapt resource value: 0x7f09008f
-			public const int search_badge = 2131296399;
-			
-			// aapt resource value: 0x7f09008e
-			public const int search_bar = 2131296398;
-			
-			// aapt resource value: 0x7f090090
-			public const int search_button = 2131296400;
-			
-			// aapt resource value: 0x7f090095
-			public const int search_close_btn = 2131296405;
-			
-			// aapt resource value: 0x7f090091
-			public const int search_edit_frame = 2131296401;
-			
-			// aapt resource value: 0x7f090097
-			public const int search_go_btn = 2131296407;
-			
-			// aapt resource value: 0x7f090092
-			public const int search_mag_icon = 2131296402;
-			
-			// aapt resource value: 0x7f090093
-			public const int search_plate = 2131296403;
-			
-			// aapt resource value: 0x7f090094
-			public const int search_src_text = 2131296404;
-			
-			// aapt resource value: 0x7f090098
-			public const int search_voice_btn = 2131296408;
-			
-			// aapt resource value: 0x7f090099
-			public const int select_dialog_listview = 2131296409;
+			// aapt resource value: 0x7f090084
+			public const int search_badge = 2131296388;
 			
 			// aapt resource value: 0x7f090083
-			public const int shortcut = 2131296387;
+			public const int search_bar = 2131296387;
+			
+			// aapt resource value: 0x7f090085
+			public const int search_button = 2131296389;
+			
+			// aapt resource value: 0x7f09008a
+			public const int search_close_btn = 2131296394;
+			
+			// aapt resource value: 0x7f090086
+			public const int search_edit_frame = 2131296390;
+			
+			// aapt resource value: 0x7f09008c
+			public const int search_go_btn = 2131296396;
+			
+			// aapt resource value: 0x7f090087
+			public const int search_mag_icon = 2131296391;
+			
+			// aapt resource value: 0x7f090088
+			public const int search_plate = 2131296392;
+			
+			// aapt resource value: 0x7f090089
+			public const int search_src_text = 2131296393;
+			
+			// aapt resource value: 0x7f09008d
+			public const int search_voice_btn = 2131296397;
+			
+			// aapt resource value: 0x7f09008e
+			public const int select_dialog_listview = 2131296398;
+			
+			// aapt resource value: 0x7f090078
+			public const int shortcut = 2131296376;
 			
 			// aapt resource value: 0x7f090023
 			public const int showCustom = 2131296291;
@@ -6736,23 +3632,23 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090025
 			public const int showTitle = 2131296293;
 			
-			// aapt resource value: 0x7f0900d6
-			public const int sliding_tabs = 2131296470;
+			// aapt resource value: 0x7f0900ca
+			public const int sliding_tabs = 2131296458;
 			
-			// aapt resource value: 0x7f09009b
-			public const int smallLabel = 2131296411;
+			// aapt resource value: 0x7f09008f
+			public const int smallLabel = 2131296399;
 			
-			// aapt resource value: 0x7f0900a2
-			public const int snackbar_action = 2131296418;
+			// aapt resource value: 0x7f090096
+			public const int snackbar_action = 2131296406;
 			
-			// aapt resource value: 0x7f0900a1
-			public const int snackbar_text = 2131296417;
+			// aapt resource value: 0x7f090095
+			public const int snackbar_text = 2131296405;
 			
 			// aapt resource value: 0x7f090043
 			public const int snap = 2131296323;
 			
-			// aapt resource value: 0x7f090073
-			public const int spacer = 2131296371;
+			// aapt resource value: 0x7f090068
+			public const int spacer = 2131296360;
 			
 			// aapt resource value: 0x7f090008
 			public const int split_action_bar = 2131296264;
@@ -6769,14 +3665,14 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f09004b
 			public const int start = 2131296331;
 			
-			// aapt resource value: 0x7f0900c8
-			public const int status_bar_latest_event_content = 2131296456;
+			// aapt resource value: 0x7f0900bc
+			public const int status_bar_latest_event_content = 2131296444;
 			
-			// aapt resource value: 0x7f090085
-			public const int submenuarrow = 2131296389;
+			// aapt resource value: 0x7f09007a
+			public const int submenuarrow = 2131296378;
 			
-			// aapt resource value: 0x7f090096
-			public const int submit_area = 2131296406;
+			// aapt resource value: 0x7f09008b
+			public const int submit_area = 2131296395;
 			
 			// aapt resource value: 0x7f09001f
 			public const int tabMode = 2131296287;
@@ -6790,14 +3686,14 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f09001b
 			public const int text2 = 2131296283;
 			
-			// aapt resource value: 0x7f090079
-			public const int textSpacerNoButtons = 2131296377;
+			// aapt resource value: 0x7f09006e
+			public const int textSpacerNoButtons = 2131296366;
 			
-			// aapt resource value: 0x7f090078
-			public const int textSpacerNoTitle = 2131296376;
+			// aapt resource value: 0x7f09006d
+			public const int textSpacerNoTitle = 2131296365;
 			
-			// aapt resource value: 0x7f0900a8
-			public const int text_input_password_toggle = 2131296424;
+			// aapt resource value: 0x7f09009c
+			public const int text_input_password_toggle = 2131296412;
 			
 			// aapt resource value: 0x7f090014
 			public const int textinput_counter = 2131296276;
@@ -6805,29 +3701,29 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090015
 			public const int textinput_error = 2131296277;
 			
-			// aapt resource value: 0x7f0900ce
-			public const int time = 2131296462;
+			// aapt resource value: 0x7f0900c2
+			public const int time = 2131296450;
 			
 			// aapt resource value: 0x7f09001c
 			public const int title = 2131296284;
 			
-			// aapt resource value: 0x7f090080
-			public const int titleDividerNoCustom = 2131296384;
+			// aapt resource value: 0x7f090075
+			public const int titleDividerNoCustom = 2131296373;
 			
-			// aapt resource value: 0x7f09007e
-			public const int title_template = 2131296382;
+			// aapt resource value: 0x7f090073
+			public const int title_template = 2131296371;
 			
-			// aapt resource value: 0x7f0900d7
-			public const int toolbar = 2131296471;
+			// aapt resource value: 0x7f0900cb
+			public const int toolbar = 2131296459;
 			
 			// aapt resource value: 0x7f09003e
 			public const int top = 2131296318;
 			
-			// aapt resource value: 0x7f09007d
-			public const int topPanel = 2131296381;
+			// aapt resource value: 0x7f090072
+			public const int topPanel = 2131296370;
 			
-			// aapt resource value: 0x7f09009f
-			public const int touch_outside = 2131296415;
+			// aapt resource value: 0x7f090093
+			public const int touch_outside = 2131296403;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -6844,9 +3740,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090013
 			public const int transition_transform = 2131296275;
 			
-			// aapt resource value: 0x7f090066
-			public const int @unchecked = 2131296358;
-			
 			// aapt resource value: 0x7f09002d
 			public const int uniform = 2131296301;
 			
@@ -6856,17 +3749,14 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 0x7f090026
 			public const int useLogo = 2131296294;
 			
-			// aapt resource value: 0x7f090061
-			public const int value = 2131296353;
-			
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900d9
-			public const int visible = 2131296473;
+			// aapt resource value: 0x7f0900cd
+			public const int visible = 2131296461;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int volume_item_container = 2131296443;
+			// aapt resource value: 0x7f0900af
+			public const int volume_item_container = 2131296431;
 			
 			// aapt resource value: 0x7f09005c
 			public const int weekView = 2131296348;
@@ -6946,25 +3836,10 @@ namespace ScheduleV5.Droid
 		{
 			
 			// aapt resource value: 0x7f070000
-			public const int btn_checkbox_checked_animation_interpolator_0 = 2131165184;
+			public const int mr_fast_out_slow_in = 2131165184;
 			
 			// aapt resource value: 0x7f070001
-			public const int btn_checkbox_checked_animation_interpolator_1 = 2131165185;
-			
-			// aapt resource value: 0x7f070002
-			public const int btn_checkbox_indeterminate_animation_interpolator_1 = 2131165186;
-			
-			// aapt resource value: 0x7f070003
-			public const int btn_checkbox_unchecked_animation_interpolator_0 = 2131165187;
-			
-			// aapt resource value: 0x7f070004
-			public const int btn_checkbox_unchecked_animation_interpolator_1 = 2131165188;
-			
-			// aapt resource value: 0x7f070005
-			public const int mr_fast_out_slow_in = 2131165189;
-			
-			// aapt resource value: 0x7f070006
-			public const int mr_linear_out_slow_in = 2131165190;
+			public const int mr_linear_out_slow_in = 2131165185;
 			
 			static Interpolator()
 			{
@@ -7058,142 +3933,130 @@ namespace ScheduleV5.Droid
 			public const int abc_select_dialog_material = 2130968601;
 			
 			// aapt resource value: 0x7f04001a
-			public const int CustomizedImageView = 2130968602;
+			public const int design_bottom_navigation_item = 2130968602;
 			
 			// aapt resource value: 0x7f04001b
-			public const int CustomizedView = 2130968603;
+			public const int design_bottom_sheet_dialog = 2130968603;
 			
 			// aapt resource value: 0x7f04001c
-			public const int design_bottom_navigation_item = 2130968604;
+			public const int design_layout_snackbar = 2130968604;
 			
 			// aapt resource value: 0x7f04001d
-			public const int design_bottom_sheet_dialog = 2130968605;
+			public const int design_layout_snackbar_include = 2130968605;
 			
 			// aapt resource value: 0x7f04001e
-			public const int design_layout_snackbar = 2130968606;
+			public const int design_layout_tab_icon = 2130968606;
 			
 			// aapt resource value: 0x7f04001f
-			public const int design_layout_snackbar_include = 2130968607;
+			public const int design_layout_tab_text = 2130968607;
 			
 			// aapt resource value: 0x7f040020
-			public const int design_layout_tab_icon = 2130968608;
+			public const int design_menu_item_action_area = 2130968608;
 			
 			// aapt resource value: 0x7f040021
-			public const int design_layout_tab_text = 2130968609;
+			public const int design_navigation_item = 2130968609;
 			
 			// aapt resource value: 0x7f040022
-			public const int design_menu_item_action_area = 2130968610;
+			public const int design_navigation_item_header = 2130968610;
 			
 			// aapt resource value: 0x7f040023
-			public const int design_navigation_item = 2130968611;
+			public const int design_navigation_item_separator = 2130968611;
 			
 			// aapt resource value: 0x7f040024
-			public const int design_navigation_item_header = 2130968612;
+			public const int design_navigation_item_subheader = 2130968612;
 			
 			// aapt resource value: 0x7f040025
-			public const int design_navigation_item_separator = 2130968613;
+			public const int design_navigation_menu = 2130968613;
 			
 			// aapt resource value: 0x7f040026
-			public const int design_navigation_item_subheader = 2130968614;
+			public const int design_navigation_menu_item = 2130968614;
 			
 			// aapt resource value: 0x7f040027
-			public const int design_navigation_menu = 2130968615;
+			public const int design_text_input_password_icon = 2130968615;
 			
 			// aapt resource value: 0x7f040028
-			public const int design_navigation_menu_item = 2130968616;
+			public const int mr_chooser_dialog = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int design_text_input_password_icon = 2130968617;
+			public const int mr_chooser_list_item = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int mr_chooser_dialog = 2130968618;
+			public const int mr_controller_material_dialog_b = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int mr_chooser_list_item = 2130968619;
+			public const int mr_controller_volume_item = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int mr_controller_material_dialog_b = 2130968620;
+			public const int mr_playback_control = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int mr_controller_volume_item = 2130968621;
+			public const int mr_volume_control = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int mr_playback_control = 2130968622;
+			public const int notification_action = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int mr_volume_control = 2130968623;
+			public const int notification_action_tombstone = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int notification_action = 2130968624;
+			public const int notification_media_action = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int notification_action_tombstone = 2130968625;
+			public const int notification_media_cancel_action = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int notification_media_action = 2130968626;
+			public const int notification_template_big_media = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int notification_media_cancel_action = 2130968627;
+			public const int notification_template_big_media_custom = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int notification_template_big_media = 2130968628;
+			public const int notification_template_big_media_narrow = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int notification_template_big_media_custom = 2130968629;
+			public const int notification_template_big_media_narrow_custom = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int notification_template_big_media_narrow = 2130968630;
+			public const int notification_template_custom_big = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int notification_template_big_media_narrow_custom = 2130968631;
+			public const int notification_template_icon_group = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int notification_template_custom_big = 2130968632;
+			public const int notification_template_lines_media = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int notification_template_icon_group = 2130968633;
+			public const int notification_template_media = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int notification_template_lines_media = 2130968634;
+			public const int notification_template_media_custom = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int notification_template_media = 2130968635;
+			public const int notification_template_part_chronometer = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int notification_template_media_custom = 2130968636;
+			public const int notification_template_part_time = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int notification_template_part_chronometer = 2130968637;
+			public const int select_dialog_item_material = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int notification_template_part_time = 2130968638;
+			public const int select_dialog_multichoice_material = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int select_dialog_item_material = 2130968639;
+			public const int select_dialog_singlechoice_material = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int select_dialog_multichoice_material = 2130968640;
+			public const int support_simple_spinner_dropdown_item = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int select_dialog_singlechoice_material = 2130968641;
+			public const int Tabbar = 2130968641;
 			
 			// aapt resource value: 0x7f040042
-			public const int sfcomboBox_layout = 2130968642;
+			public const int Toolbar = 2130968642;
 			
 			// aapt resource value: 0x7f040043
-			public const int Spinner_item = 2130968643;
-			
-			// aapt resource value: 0x7f040044
-			public const int support_simple_spinner_dropdown_item = 2130968644;
-			
-			// aapt resource value: 0x7f040045
-			public const int Tabbar = 2130968645;
-			
-			// aapt resource value: 0x7f040046
-			public const int Toolbar = 2130968646;
-			
-			// aapt resource value: 0x7f040047
-			public const int tooltip = 2130968647;
+			public const int tooltip = 2130968643;
 			
 			static Layout()
 			{
@@ -9732,12 +6595,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 2
 			public const int DesignTheme_textColorError = 2;
 			
-			public static int[] DrawableStates = new int[] {
-					2130772363};
-			
-			// aapt resource value: 0
-			public const int DrawableStates_state_indeterminate = 0;
-			
 			public static int[] DrawerArrowToggle = new int[] {
 					2130772175,
 					2130772176,
@@ -10320,78 +7177,6 @@ namespace ScheduleV5.Droid
 			// aapt resource value: 12
 			public const int SearchView_voiceIcon = 12;
 			
-			public static int[] SfCheckBox = new int[] {
-					2130772364,
-					2130772365,
-					2130772366};
-			
-			// aapt resource value: 2
-			public const int SfCheckBox_checked = 2;
-			
-			// aapt resource value: 1
-			public const int SfCheckBox_cornerradius = 1;
-			
-			// aapt resource value: 0
-			public const int SfCheckBox_isthreestate = 0;
-			
-			public static int[] SfNumericTextBox = new int[] {
-					2130772349,
-					2130772350,
-					2130772351,
-					2130772352,
-					2130772353,
-					2130772354,
-					2130772355,
-					2130772356,
-					2130772357,
-					2130772358,
-					2130772359,
-					2130772360,
-					2130772361,
-					2130772362};
-			
-			// aapt resource value: 9
-			public const int SfNumericTextBox_allowNull = 9;
-			
-			// aapt resource value: 10
-			public const int SfNumericTextBox_borderColor = 10;
-			
-			// aapt resource value: 12
-			public const int SfNumericTextBox_culture = 12;
-			
-			// aapt resource value: 3
-			public const int SfNumericTextBox_enableGroupSeparator = 3;
-			
-			// aapt resource value: 8
-			public const int SfNumericTextBox_fontSize = 8;
-			
-			// aapt resource value: 6
-			public const int SfNumericTextBox_maximumDecimalDigits = 6;
-			
-			// aapt resource value: 4
-			public const int SfNumericTextBox_numberFormat = 4;
-			
-			// aapt resource value: 13
-			public const int SfNumericTextBox_numericTextBoxValue = 13;
-			
-			// aapt resource value: 0
-			public const int SfNumericTextBox_parsingMode = 0;
-			
-			// aapt resource value: 1
-			public const int SfNumericTextBox_percentDisplayMode = 1;
-			
-			// aapt resource value: 7
-			public const int SfNumericTextBox_selectAllOnFocus = 7;
-			
-			// aapt resource value: 2
-			public const int SfNumericTextBox_valueChangeMode = 2;
-			
-			// aapt resource value: 5
-			public const int SfNumericTextBox_watermark = 5;
-			
-			// aapt resource value: 11
-			public const int SfNumericTextBox_watermarkColor = 11;
-			
 			public static int[] SfSchedule = new int[] {
 					2130772339,
 					2130772340,
@@ -10433,56 +7218,6 @@ namespace ScheduleV5.Droid
 			
 			// aapt resource value: 4
 			public const int SfSchedule_viewHeaderHeight = 4;
-			
-			public static int[] SfSegmentedControl = new int[] {
-					2130772367,
-					2130772368,
-					2130772369,
-					2130772370,
-					2130772371,
-					2130772372,
-					2130772373,
-					2130772374,
-					2130772375,
-					2130772376,
-					2130772377,
-					2130772378};
-			
-			// aapt resource value: 1
-			public const int SfSegmentedControl_segmentBackColor = 1;
-			
-			// aapt resource value: 2
-			public const int SfSegmentedControl_segmentBorderColor = 2;
-			
-			// aapt resource value: 3
-			public const int SfSegmentedControl_segmentBorderThickness = 3;
-			
-			// aapt resource value: 4
-			public const int SfSegmentedControl_segmentColor = 4;
-			
-			// aapt resource value: 9
-			public const int SfSegmentedControl_segmentCornerRadius = 9;
-			
-			// aapt resource value: 11
-			public const int SfSegmentedControl_segmentDisplayMode = 11;
-			
-			// aapt resource value: 10
-			public const int SfSegmentedControl_segmentPosition = 10;
-			
-			// aapt resource value: 0
-			public const int SfSegmentedControl_segmentSelectedIndex = 0;
-			
-			// aapt resource value: 8
-			public const int SfSegmentedControl_segmentStrokeThickness = 8;
-			
-			// aapt resource value: 6
-			public const int SfSegmentedControl_segmentedHeight = 6;
-			
-			// aapt resource value: 5
-			public const int SfSegmentedControl_segmentedPadding = 5;
-			
-			// aapt resource value: 7
-			public const int SfSegmentedControl_segmentedWidth = 7;
 			
 			public static int[] SnackbarLayout = new int[] {
 					16843039,

@@ -1,26 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.ComponentModel;
 using Xamarin.Forms;
+
 
 namespace ScheduleV5
 {
-    public class ViewModel
+    public class ViewModel : INotifyPropertyChanged
     {
-        public ObservableCollection<Appointments> Appointments { get; set; }
-        List<string> eventNameCollection;
-        List<Color> colorCollection;
+        //declaring collections
+        public ObservableCollection<Appointments> Appointments { get; set; }// appointment collection
+        List<string> eventNameCollection; //event name collection
+        List<Color> colorCollection; //color collection
 
-        private AppointmentInfo appointmentInfo;
-        public AppointmentInfo AppointmentInfo
-        {
-            get { return this.appointmentInfo; }
-            set { this.appointmentInfo = value; }
-        }
+
 
         public ViewModel()
         {
-            this.appointmentInfo = new AppointmentInfo();
             Appointments = new ObservableCollection<Appointments>();
             CreateEventNameCollection();
             CreateColorCollection();
@@ -40,30 +37,14 @@ namespace ScheduleV5
 
             for (date = DateFrom; date < DateTo; date = date.AddDays(1))
             {
-                if ((DateTime.Compare(date, dataRangeStart) > 0) && (DateTime.Compare(date, dataRangeEnd) < 0))
-                {
-                    for (int AdditionalAppointmentIndex = 0; AdditionalAppointmentIndex < 3; AdditionalAppointmentIndex++)
-                    {
-                        Appointments appointments = new Appointments();
-                        int hour = (randomTime.Next((int)randomTimeCollection[AdditionalAppointmentIndex].X, (int)randomTimeCollection[AdditionalAppointmentIndex].Y));
-                        appointments.From = new DateTime(date.Year, date.Month, date.Day, hour, 0, 0);
-                        appointments.To = (appointments.From.AddHours(1));
-                        appointments.EventName = eventNameCollection[randomTime.Next(9)];
-                        appointments.color = colorCollection[randomTime.Next(9)];
-                        if (AdditionalAppointmentIndex % 3 == 0)
-                            appointments.AllDay = true;
-                        Appointments.Add(appointments);
-                    }
-                }
-                else
-                {
+
                     Appointments appointments = new Appointments();
                     appointments.From = new DateTime(date.Year, date.Month, date.Day, randomTime.Next(9, 11), 0, 0);
                     appointments.To = (appointments.From.AddHours(1));
-                    appointments.EventName = eventNameCollection[randomTime.Next(9)];
+                    appointments.EventName = eventNameCollection[randomTime.Next(1)];
                     appointments.color = colorCollection[randomTime.Next(9)];
                     Appointments.Add(appointments);
-                }
+
             }
         }
 
@@ -71,16 +52,9 @@ namespace ScheduleV5
         private void CreateEventNameCollection()
         {
             eventNameCollection = new List<string>();
+
             eventNameCollection.Add("General Meeting");
-            eventNameCollection.Add("Plan Execution");
             eventNameCollection.Add("Project Plan");
-            eventNameCollection.Add("Consulting");
-            eventNameCollection.Add("Performance Check");
-            eventNameCollection.Add("Yoga Therapy");
-            eventNameCollection.Add("Plan Execution");
-            eventNameCollection.Add("Project Plan");
-            eventNameCollection.Add("Consulting");
-            eventNameCollection.Add("Performance Check");
         }
 
         /// Creates color collection.  
@@ -108,6 +82,13 @@ namespace ScheduleV5
             randomTimeCollection.Add(new Point(12, 14));
             randomTimeCollection.Add(new Point(15, 17));
             return randomTimeCollection;
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        private void RaiseOnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }

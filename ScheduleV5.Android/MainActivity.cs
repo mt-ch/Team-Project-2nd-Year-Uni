@@ -14,6 +14,8 @@ namespace ScheduleV5.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Nzc0NjNAMzEzNjJlMzQyZTMwQndZaGU5Rk1TdS9DSmpMWmY4eEkrZEZVeXdxRHExNDloaUhlU0k5RVlDcz0=");
+
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 

@@ -4,8 +4,10 @@
              xmlns:local="using:ScheduleV5"
              x:Class="ScheduleV5.MasterPage"
              Padding="0,40,0,0"
-             Icon="hamburger.png"
-             Title="Personal Organiser">
+             Icon="Navigation"
+             Title="Personal Organiser"
+             >
+             
 
     <StackLayout>
         <ListView x:Name="listView" x:FieldModifier="public">
@@ -15,7 +17,7 @@
                     <local:MasterPageItem Title="Day View" IconSource="contacts.png" TargetType="{x:Type local:DayViewPage}" />
                     <local:MasterPageItem Title="Week View" IconSource="contacts.png" TargetType="{x:Type local:WeekViewPage}" />                   
                     <local:MasterPageItem Title="Month View" IconSource="contacts.png" TargetType="{x:Type local:MonthViewPage}" />
-                    <local:MasterPageItem Title="Add Appointment" IconSource="contacts.png" TargetType="{x:Type local:AppointmentsDataForm}" />
+                   
                 </x:Array>
           <!--Navigation styling-->      
             </ListView.ItemsSource>

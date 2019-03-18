@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Syncfusion.XForms.Buttons;
 
 
 namespace ScheduleV5
@@ -15,7 +16,6 @@ namespace ScheduleV5
         private DateTime? endDate;
         private DateTime? startTime;
         private DateTime? endTime;
-
 
         public AppointmentInfo()
         {
@@ -73,6 +73,7 @@ namespace ScheduleV5
                 endTime = value;
             }
         }
+
 
     }
 }

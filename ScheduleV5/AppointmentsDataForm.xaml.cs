@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using Syncfusion.XForms.DataForm;
+using Syncfusion.XForms.Buttons;
+
 
 using Xamarin.Forms;
 
@@ -8,15 +10,17 @@ namespace ScheduleV5
 {
     public partial class AppointmentsDataForm : ContentPage
     {
+
+
         public AppointmentsDataForm()
         {
             InitializeComponent();
+
+
             dataForm.AutoGeneratingDataFormItem += DataForm_AutoGeneratingDataFormItem;
+
+
         }
-
-       
-        
-
 
         private void DataForm_AutoGeneratingDataFormItem(object sender, AutoGeneratingDataFormItemEventArgs e)
         {

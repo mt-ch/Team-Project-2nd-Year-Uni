@@ -6,14 +6,19 @@
              xmlns:dataForm ="clr-namespace:Syncfusion.XForms.DataForm;assembly=Syncfusion.SfDataForm.XForms"
              xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms">    
     
-        <ContentPage.BindingContext>
-            <local:ViewModel/>
-        </ContentPage.BindingContext>  
-    <ContentPage.Content>
-        <dataForm:SfDataForm x:Name="dataForm"                                
-                                 DataObject="{Binding AppointmentInfo}"
-                                 LabelPosition="Top"
-                                 AutoGeneratingDataFormItem="DataForm_AutoGeneratingDataFormItem"/>              
-    </ContentPage.Content>
+    <ContentPage.BindingContext>
+        <local:ViewModel/>
+    </ContentPage.BindingContext>  
+   
+        <StackLayout>
+            
+                <dataForm:SfDataForm x:Name="dataForm"   
+                                     VerticalOptions="FillAndExpand" 
+                                     HorizontalOptions="FillAndExpand"
+                                     DataObject="{Binding AppointmentInfo}" 
+                                     
+                                     AutoGeneratingDataFormItem="DataForm_AutoGeneratingDataFormItem"/>
+                                                 
+        </StackLayout>
     
 </ContentPage>
