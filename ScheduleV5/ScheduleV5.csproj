@@ -21,6 +21,7 @@
     <Folder Include="App\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Appointment Editor\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="AppointmentsDataForm.xaml.cs" />
@@ -34,5 +35,10 @@
     <Compile Update="Appointment Editor\Edit.xaml.cs">
       <DependentUpon>Edit.xaml</DependentUpon>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android">
+      <HintPath>..\..\..\..\..\..\Library\Frameworks\Xamarin.Android.framework\Versions\9.1.8-0\lib\xamarin.android\xbuild-frameworks\MonoAndroid\v8.1\Mono.Android.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
