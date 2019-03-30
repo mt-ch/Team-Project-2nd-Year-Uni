@@ -13,5 +13,6 @@ namespace ScheduleV5
         public DateTime To { get; set; }
         public Color color { get; set; }
         public bool AllDay { get; set; }
+
     }
 }
