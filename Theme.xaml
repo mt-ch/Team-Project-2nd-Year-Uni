@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Theme" x:Class="Theme.MainPage" xmlns:syncfusion="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms"
+              xmlns:syncTheme="clr-namespace:Syncfusion.XForms.Themes;assembly=Syncfusion.Core.XForms">
+    <ContentPage.Resources>
+        <syncTheme:SyncfusionThemeDictionary>
+            <syncTheme:SyncfusionThemeDictionary.MergedDictionaries>
+                <syncTheme:LightTheme x:Name="LightTheme" />
+                <syncfusion:SfScheduleStyles />
+                <ResourceDictionary>
+                    <Color x:Key="SfScheduleHeaderTextColor">Red</Color>
+                    <Color x:Key="SfScheduleViewHeaderDayTextColor">Blue</Color>
+                    <Color x:Key="SfScheduleViewHeaderDateTextColor">Blue</Color>
+                </ResourceDictionary>
+            </syncTheme:SyncfusionThemeDictionary.MergedDictionaries>
+        </syncTheme:SyncfusionThemeDictionary>
+    </ContentPage.Resources>   
+    <syncfusion:SfSchedule x:Name="schedule">
+    </syncfusion:SfSchedule>
+</ContentPage>

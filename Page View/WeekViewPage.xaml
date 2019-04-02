@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage x:Class="ScheduleV5.WeekViewPage"
+             xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ScheduleV5"
+             xmlns:syncfusion="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms">
+    <Grid x:Name="grid_layout">
+        
+               <!--schedule week view and styling-->
+                <syncfusion:SfSchedule x:Name="schedule"
+                                       DataSource = "{Binding Appointments}"
+                                       ScheduleView="WeekView"
+                                       HeaderHeight="50"
+                                       ScheduleHeaderDateFormat = "LLL yy">          
+                    <syncfusion:SfSchedule.BindingContext>
+                        <local:ViewModel/>
+                    </syncfusion:SfSchedule.BindingContext>
+                        <syncfusion:SfSchedule.AppointmentMapping>
+                            <syncfusion:ScheduleAppointmentMapping
+                            ColorMapping="color"
+                            EndTimeMapping="To"
+                            StartTimeMapping="From"
+                            SubjectMapping="EventName" 
+                            IsAllDayMapping="AllDay"/>
+                        </syncfusion:SfSchedule.AppointmentMapping>
+                </syncfusion:SfSchedule>               
+              <local:Edit  x:Name="Edit" IsVisible="False"/>
+    </Grid>    
+</ContentPage>
