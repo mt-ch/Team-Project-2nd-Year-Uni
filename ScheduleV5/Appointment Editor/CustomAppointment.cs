@@ -19,13 +19,13 @@ namespace ScheduleV5
         }
 
 
-        public event PropertyChangedEventHandler PropertyChanged;
+        //public event PropertyChangedEventHandler PropertyChanged;
 
-        private void OnPropertyChanged(string propertyName)
-        {
-            var eventHandler = this.PropertyChanged;
-            if (eventHandler != null)
-                eventHandler(this, new PropertyChangedEventArgs(propertyName));
-        }
+        //private void OnPropertyChanged(string propertyName)
+        //{
+        //    var eventHandler = this.PropertyChanged;
+        //    if (eventHandler != null)
+        //        eventHandler(this, new PropertyChangedEventArgs(propertyName));
+        //}
     }
 }

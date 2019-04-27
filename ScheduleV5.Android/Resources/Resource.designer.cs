@@ -26,6 +26,8 @@ namespace ScheduleV5.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.ApplicationName = global::ScheduleV5.Droid.Resource.String.ApplicationName;
+			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.Hello = global::ScheduleV5.Droid.Resource.String.Hello;
 			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
 			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::ScheduleV5.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
 			global::Syncfusion.SfCalendar.XForms.Droid.Resource.Dimension.activity_horizontal_margin = global::ScheduleV5.Droid.Resource.Dimension.activity_horizontal_margin;
@@ -4092,6 +4094,12 @@ namespace ScheduleV5.Droid
 		
 		public partial class String
 		{
+			
+			// aapt resource value: 0x7f0a0043
+			public const int ApplicationName = 2131361859;
+			
+			// aapt resource value: 0x7f0a0042
+			public const int Hello = 2131361858;
 			
 			// aapt resource value: 0x7f0a003f
 			public const int NoSelectedDate = 2131361855;

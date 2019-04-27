@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+//using Android.Content.Res;
 using ScheduleV5.ViewModels;
 using Xamarin.Forms;
 
@@ -78,9 +79,23 @@ namespace ScheduleV5
                 AppointmentDetails();
                 this.IsVisible = false;
             }
+
+            //OnSaveClicked(sender, e);
+
         }
 
-        private void AppointmentDetails()
+
+        
+        /*async void SaveButton_Clicked (object sender, EventArgs e)
+        {
+
+            var appointmentItem = (Appointments)BindingContext;
+            await App.Database.SaveItemAsync(appointmentItem);
+            await Navigation.PopAsync();
+            AppointmentDetails();
+        }*/
+
+        private void  AppointmentDetails()
         {
             if (selectedAppointment == null)
             {

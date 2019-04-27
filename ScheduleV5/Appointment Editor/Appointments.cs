@@ -1,10 +1,12 @@
 ﻿using System;
 using Xamarin.Forms;
+using SQLite;
 
 namespace ScheduleV5
 {
     public class Appointments
     {
+        [PrimaryKey, AutoIncrement]
         public string EventName { get; set; }
         public string Organizer { get; set; }
         public string ContactID { get; set; }

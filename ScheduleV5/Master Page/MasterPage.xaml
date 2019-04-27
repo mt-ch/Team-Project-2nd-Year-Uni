@@ -10,13 +10,15 @@
              
 
     <StackLayout>
-        <ListView x:Name="listView" x:FieldModifier="public">
+       <ListView x:Name="listView" x:FieldModifier="public">s
           <!--Array of navigation items-->  
            <ListView.ItemsSource>
                 <x:Array Type="{x:Type local:MasterPageItem}">
                     <local:MasterPageItem Title="Day View" IconSource="contacts.png" TargetType="{x:Type local:DayViewPage}" />
                     <local:MasterPageItem Title="Week View" IconSource="contacts.png" TargetType="{x:Type local:WeekViewPage}" />                   
                     <local:MasterPageItem Title="Month View" IconSource="contacts.png" TargetType="{x:Type local:MonthViewPage}" />
+                    <local:MasterPageItem Title="Task List" IconSource="contacts.png" TargetType="{x:Type local:TaskListPage}" />
+                    
                    
                 </x:Array>
           <!--Navigation styling-->      

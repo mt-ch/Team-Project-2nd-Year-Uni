@@ -31,7 +31,7 @@ namespace ScheduleV5.Droid
             LoadApplication(new App());
         }
 
-        #region SaveDetails
+        /*#region SaveDetails
         void SaveRecords (Object sender, EventArgs eventArgs)
         {
             appointments.EventName = _eventName.Text;
@@ -56,6 +56,6 @@ namespace ScheduleV5.Droid
             {
                 Toast.MakeText(this, "Enter the details for all fields", ToastLength.Short).Show();
             }
-        }
+        }*/
     }
 }
