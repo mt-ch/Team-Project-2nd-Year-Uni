@@ -27,25 +27,25 @@ namespace ScheduleV5
 
         private void CreateAppointments()
         {
-            Random randomTime = new Random();
-            List<Point> randomTimeCollection = GettingTimeRanges();
-            DateTime date;
-            DateTime DateFrom = DateTime.Now.AddDays(-10);
-            DateTime DateTo = DateTime.Now.AddDays(10);
-            DateTime dataRangeStart = DateTime.Now.AddDays(-3);
-            DateTime dataRangeEnd = DateTime.Now.AddDays(3);
+            //Random randomTime = new Random();
+            //List<Point> randomTimeCollection = GettingTimeRanges();
+            //DateTime date;
+            //DateTime DateFrom = DateTime.Now.AddDays(-10);
+            //DateTime DateTo = DateTime.Now.AddDays(10);
+            //DateTime dataRangeStart = DateTime.Now.AddDays(-3);
+            //DateTime dataRangeEnd = DateTime.Now.AddDays(3);
 
-            for (date = DateFrom; date < DateTo; date = date.AddDays(1))
-            {
+            //for (date = DateFrom; date < DateTo; date = date.AddDays(1))
+            //{
 
-                    Appointments appointments = new Appointments();
-                    appointments.From = new DateTime(date.Year, date.Month, date.Day, randomTime.Next(9, 11), 0, 0);
-                    appointments.To = (appointments.From.AddHours(1));
-                    appointments.EventName = eventNameCollection[randomTime.Next(1)];
-                    appointments.color = colorCollection[randomTime.Next(9)];
-                    Appointments.Add(appointments);
+            //    Appointments appointments = new Appointments();
+            //    appointments.From = new DateTime(date.Year, date.Month, date.Day, randomTime.Next(9, 11), 0, 0);
+            //    appointments.To = (appointments.From.AddHours(1));
+            //    appointments.EventName = eventNameCollection[randomTime.Next(4)];
+            //    appointments.color = colorCollection[randomTime.Next(9)];
+            //    Appointments.Add(appointments);
 
-            }
+            //}
         }
 
         /// Creates event names collection
@@ -55,6 +55,9 @@ namespace ScheduleV5
 
             eventNameCollection.Add("General Meeting");
             eventNameCollection.Add("Project Plan");
+            eventNameCollection.Add("Gym");
+            eventNameCollection.Add("Lecture");
+            eventNameCollection.Add("Work");
         }
 
         /// Creates color collection.  

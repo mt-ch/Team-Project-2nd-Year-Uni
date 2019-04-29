@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 //using Android.Content.Res;
 using ScheduleV5.ViewModels;
+using System.Collections.ObjectModel;
+using System.ComponentModel;
 using Xamarin.Forms;
 
 namespace ScheduleV5
@@ -10,10 +12,13 @@ namespace ScheduleV5
     {
         private Appointments selectedAppointment;
         private DateTime selectedDate;
+        List<Color> colorCollection; //color collection
+
         public Edit()
         {
             InitializeComponent();
             AddEditorElements();
+            CreateColorCollection();
             saveButton.Clicked += SaveButton_Clicked;
             cancelButton.Clicked += CancelButton_Clicked;
             switchAllDay.Toggled += SwitchAllDay_Toggled;
@@ -85,7 +90,7 @@ namespace ScheduleV5
         }
 
 
-        
+
         /*async void SaveButton_Clicked (object sender, EventArgs e)
         {
 
@@ -95,12 +100,14 @@ namespace ScheduleV5
             AppointmentDetails();
         }*/
 
-        private void  AppointmentDetails()
+        private void AppointmentDetails()
         {
+            Random randomTime = new Random();
+
             if (selectedAppointment == null)
             {
                 selectedAppointment = new Appointments();
-                selectedAppointment.color = Color.FromHex("#5EDAF2");
+                selectedAppointment.color = colorCollection[randomTime.Next(9)];
             }
             if (eventNameText.Text != null)
             {
@@ -217,6 +224,33 @@ namespace ScheduleV5
             {
                 this.Padding = 20;
             }
+        }
+
+        /// Creates color collection.  
+        private void CreateColorCollection()
+        {
+            colorCollection = new List<Color>();
+            colorCollection.Add(Color.FromHex("#FF339933"));
+            colorCollection.Add(Color.FromHex("#FF00ABA9"));
+            colorCollection.Add(Color.FromHex("#FFE671B8"));
+            colorCollection.Add(Color.FromHex("#FF1BA1E2"));
+            colorCollection.Add(Color.FromHex("#FFD80073"));
+            colorCollection.Add(Color.FromHex("#FFA2C139"));
+            colorCollection.Add(Color.FromHex("#FFA2C139"));
+            colorCollection.Add(Color.FromHex("#FFD80073"));
+            colorCollection.Add(Color.FromHex("#FF339933"));
+            colorCollection.Add(Color.FromHex("#FFE671B8"));
+            colorCollection.Add(Color.FromHex("#FF00ABA9"));
+        }
+
+        /// Gets the time ranges.
+        private List<Point> GettingTimeRanges()
+        {
+            List<Point> randomTimeCollection = new List<Point>();
+            randomTimeCollection.Add(new Point(9, 11));
+            randomTimeCollection.Add(new Point(12, 14));
+            randomTimeCollection.Add(new Point(15, 17));
+            return randomTimeCollection;
         }
     }
 }

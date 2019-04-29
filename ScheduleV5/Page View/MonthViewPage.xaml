@@ -3,14 +3,15 @@
              xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
              xmlns:local="clr-namespace:ScheduleV5"
-             xmlns:syncfusion="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms">
+             xmlns:syncfusion="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms"
+             Title="Month View">
     <Grid x:Name="grid_layout">
        <!--schedule week view and styling--> 
             <syncfusion:SfSchedule x:Name="schedule" 
                                DataSource = "{Binding Appointments}"
                                ScheduleView="MonthView"
                                HeaderHeight="50"
-                               ScheduleHeaderDateFormat = "LLL yy">
+                               ScheduleHeaderDateFormat = "LLL yyyy">
                 <syncfusion:SfSchedule.BindingContext>
                     <local:ViewModel/>
                 </syncfusion:SfSchedule.BindingContext>
@@ -22,6 +23,12 @@
                         SubjectMapping="EventName" 
                         IsAllDayMapping="AllDay"/>
                     </syncfusion:SfSchedule.AppointmentMapping>
+                    <syncfusion:SfSchedule.MonthViewSettings>
+                        <syncfusion:MonthViewSettings
+                            AppointmentDisplayMode="Appointment"
+                            ShowAgendaView="true">
+                        </syncfusion:MonthViewSettings>
+                    </syncfusion:SfSchedule.MonthViewSettings>
             </syncfusion:SfSchedule>
         <local:Edit  x:Name="Edit" IsVisible="False"/>
     </Grid>

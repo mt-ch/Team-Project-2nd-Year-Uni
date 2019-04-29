@@ -5,7 +5,7 @@
             xmlns:schedule="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms"
              x:Class="ScheduleV5.Edit"
              xmlns:ViewModels="clr-namespace:ScheduleV5.ViewModels"
-    BackgroundColor="Navy"
+    
     HorizontalOptions="FillAndExpand"
     IsVisible="false"
     Orientation="Vertical"
@@ -32,6 +32,14 @@
             x:Name="organizerText"
             HeightRequest="40"
             TextColor="Black" />
+        <Picker Title="Select a type">
+  <Picker.Items>
+    <x:String>Lecture</x:String>
+    <x:String>Meeting</x:String>
+    <x:String>Goal</x:String>
+    <x:String>Due Date</x:String>
+  </Picker.Items>
+</Picker>
     </Grid>
     <Grid
         x:Name="startTimeLabel_layout"
@@ -40,7 +48,7 @@
         VerticalOptions="Start">
         <Label
             Font="15"
-            Text="From"
+            Text="From:"
             TextColor="Gray" />
     </Grid>
     <Grid
@@ -74,7 +82,7 @@
         <Label
             Font="15"
             HeightRequest="40"
-            Text="To"
+            Text="To:"
             TextColor="Gray" />
     </Grid>
     <Grid
@@ -119,7 +127,7 @@
     <Label 
         Font="15"  Grid.Column="0"
         HeightRequest="40" VerticalTextAlignment="Center"
-        Text="AllDay"
+        Text="All Day:"
         TextColor="Gray" />
     <Grid Grid.Column="1" Padding="20,0,0,0">
     <Switch x:Name="switchAllDay" HorizontalOptions="Start" VerticalOptions="Center" />
